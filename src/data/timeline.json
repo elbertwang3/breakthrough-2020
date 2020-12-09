@@ -1,0 +1,359 @@
+{
+  "timeline": [
+    {
+      "Priority": "Must-do",
+      "Date": "12/31/19",
+      "Policy/Politics": "Wuhan health officials report a cluster of mysterious pneumonia cases",
+      "Research": "",
+      "Link": "https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "1/8/20",
+      "Policy/Politics": "A novel coronavirus is identified as the source of the outbreak",
+      "Research": "",
+      "Link": "https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "1/10/20",
+      "Policy/Politics": "",
+      "Research": "Genetic sequence posted to virological.org",
+      "Link": "https://virological.org/t/novel-2019-coronavirus-genome/319"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "1/13/20",
+      "Policy/Politics": "",
+      "Research": "U.S. NIAID creates mRNA \"backbone\" for later vaccines",
+      "Link": "https://www.sciencemag.org/news/2020/03/record-setting-speed-vaccine-makers-take-their-first-shots-new-coronavirus"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "1/20/20 - 23",
+      "Policy/Politics": "Human-to-human transmission confirmed; Wuhan lockdown begins",
+      "Research": "",
+      "Link": "https://news.ifeng.com/c/7tOmJN0Dr72"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "1/23/20",
+      "Policy/Politics": "Wuhan lockdown begins",
+      "Research": "",
+      "Link": "https://www.nytimes.com/2020/01/22/world/asia/china-coronavirus-travel.html"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "1/23/20",
+      "Policy/Politics": "",
+      "Research": "The novel coronavirus is 96.2% similar to a virus in bats",
+      "Link": "Nature publication: https://www.nature.com/articles/s41586-020-2012-7\n preprint: https://www.biorxiv.org/content/10.1101/2020.01.22.914952v2"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "1/30/20",
+      "Policy/Politics": "WHO declares a public health emergency of international concern (PHEIC)",
+      "Research": "",
+      "Link": "https://www.who.int/news/item/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+    },
+    {
+      "Priority": "Nice to have",
+      "Date": "2/5/20",
+      "Policy/Politics": "Diamond Princess starts two-week quarantine"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "2/11/20",
+      "Policy/Politics": "The virus gets its name",
+      "Research": "",
+      "Link": "https://www.nature.com/articles/s41564-020-0695-z"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "2/17/20",
+      "Policy/Politics": "",
+      "Research": "Widespread undocumented infection led to the rapid spread of COVID-19",
+      "Link": "https://science.sciencemag.org/content/368/6490/489"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "2/19/20",
+      "Policy/Politics": "",
+      "Research": "Scientists uncover the structure of the spike protein",
+      "Link": "https://science.sciencemag.org/content/367/6483/1260"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "2/23/20",
+      "Policy/Politics": "First major European outbreak in Italy",
+      "Research": "",
+      "Link": "https://www.nytimes.com/2020/02/23/world/europe/italy-coronavirus.html"
+    },
+    {
+      "Priority": "Nice to have",
+      "Date": "2/28/20",
+      "Policy/Politics": "China's strict measures quickly reduced caseload, reports WHO mission",
+      "Research": "",
+      "Link": "https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "2/29/20",
+      "Policy/Politics": "Cansino injects first people with COVID-19 vaccine"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "3/4/20",
+      "Policy/Politics": "",
+      "Research": "Contact tracing in China suggests children are just as likely to be infected as adults",
+      "Link": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30287-5/fulltext"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "3/11/20",
+      "Policy/Politics": "WHO declares the outbreak a pandemic",
+      "Research": "",
+      "Link": "https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "Early March",
+      "Policy/Politics": "",
+      "Research": "Age, hypertension, diabetes, heart disease, and male sex are all risk factors for severe disease",
+      "Link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "3/16/20",
+      "Policy/Politics": "",
+      "Research": "Without extreme measures, healthcare systems will be overwhelmed, warns Imperial College",
+      "Link": "https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "3/16/20",
+      "Policy/Politics": "Moderna and CanSino vaccine trials launch",
+      "Research": "",
+      "Link": "https://www.sciencemag.org/news/2020/03/record-setting-speed-vaccine-makers-take-their-first-shots-new-coronavirus"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "3/17/20",
+      "Policy/Politics": "",
+      "Research": "SARS-COV2 shows no signs of being engineered by scientists, according to genetic analyses",
+      "Link": "https://www.nature.com/articles/s41591-020-0820-9"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "3/24/20",
+      "Policy/Politics": "India announces a 21-day lockdown",
+      "Research": "",
+      "Link": "https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "3/26/20",
+      "Policy/Politics": "",
+      "Research": "Widespread viral RNA in hospital rooms suggests airborne transmission",
+      "Link": "https://www.nature.com/articles/s41598-020-69286-3"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "3/26/20",
+      "Policy/Politics": "New York City becomes the epicenter of the U.S. outbreak",
+      "Research": "",
+      "Link": "https://www.vox.com/coronavirus-covid19/2020/3/27/21195162/new-york-coronavirus-news-andrew-cuomo-hospitals-population-ventilators"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "3/30/02",
+      "Policy/Politics": "U.S. FDA issues EUA for hydroxychloroquine [and chloroquine?]",
+      "Research": "",
+      "Link": "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-daily-roundup-march-30-2020"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "4/3/20",
+      "Policy/Politics": "U.S. CDC suggests people wear cloth masks",
+      "Research": "",
+      "Link": "https://www.bjc.org/Coronavirus/Information-Resources/ArtMID/5707/ArticleID/4430/CDC-issues-new-guidelines-on-wearing-cloth-face-masks-in-public"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "Early April",
+      "Policy/Politics": "",
+      "Research": "COVID-19 damages the heart, kidneys, and other major organ systems",
+      "Link": "https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "4/19/20",
+      "Policy/Politics": "",
+      "Research": "First evidence that COVID-19 vaccine can protect monkeys",
+      "Link": "https://www.sciencemag.org/news/2020/04/covid-19-vaccine-protects-monkeys-new-coronavirus-chinese-biotech-reports"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "4/24/20",
+      "Policy/Politics": "",
+      "Research": "Asymptomatic carriers play a large role in COVID-19 transmission",
+      "Link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2008457"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "4/27/20",
+      "Policy/Politics": "",
+      "Research": "Remdesivir reduces hospital stays in severely ill patients",
+      "Link": "https://www.nejm.org/doi/10.1056/NEJMoa2007764"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "5/1/20",
+      "Policy/Politics": "U.S. FDA issues EUA for remdesivir",
+      "Research": "",
+      "Link": "https://www.ajmc.com/view/fda-grants-emergency-use-authorization-to-covid19-treatment"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "5/11/20",
+      "Policy/Politics": "",
+      "Research": "Black, Latino, and Asian patients in the U.S. and U.K. have a higher risk of death",
+      "Link": "https://jamanetwork.com/journals/jama/fullarticle/2766098"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "5/15/20",
+      "Policy/Politics": "U.S. government formally launches Warp Speed vaccine project",
+      "Research": "",
+      "Link": "https://www.hhs.gov/about/news/2020/05/15/trump-administration-announces-framework-and-leadership-for-operation-warp-speed.html"
+    },
+    {
+      "Priority": "Nice to have",
+      "Date": "6/1/20",
+      "Policy/Politics": "India, European countries, U.S. begin to ease lockdowns"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "6/4/20",
+      "Policy/Politics": "Major medical journals retract coronavirus papers over fabricated data",
+      "Research": "",
+      "Link": "https://www.sciencemag.org/news/2020/06/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "6/5/20",
+      "Policy/Politics": "",
+      "Research": "Hydroxychloroquine did not reduce death in hospitalized patients",
+      "Link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2022926"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "6/15/20",
+      "Policy/Politics": "U.S. FDA revokes EUA for hydroxychloroquine",
+      "Research": "",
+      "Link": "https://www.statnews.com/2020/06/15/fda-revokes-hydroxychloroquine/"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "6/16/20",
+      "Policy/Politics": "",
+      "Research": "Dexamethasone reduces fatality up to 1/3 in hospitalized patients",
+      "Link": "https://www.nejm.org/doi/10.1056/NEJMoa2021436"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "7/7/20",
+      "Policy/Politics": "U.S. sends a formal notice of withdrawl from the WHO"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "7/9/20",
+      "Policy/Politics": "",
+      "Research": "Early studies hint at the lingering symptoms of \"long COVID\"",
+      "Link": "https://jamanetwork.com/journals/jama/fullarticle/2768351"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "7/16/20",
+      "Policy/Politics": "",
+      "Research": "Older children can spread COVID-19 just as easily as adults",
+      "Link": "https://wwwnc.cdc.gov/eid/article/26/10/20-1315_article"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "7/22/20",
+      "Policy/Politics": "",
+      "Research": "Scientists isolate potent neutralizing monoclonal antibodies from recovered patients",
+      "Link": "https://www.nature.com/articles/s41586-020-2571-7"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "8/25/20",
+      "Policy/Politics": "",
+      "Research": "First confirmed case of reinfection",
+      "Link": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1275/5897019"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "9/21/20",
+      "Policy/Politics": "Two-thirds of countries have joined WHO's vaccine distribution effort, COVAX",
+      "Research": "",
+      "Link": "https://www.who.int/publications/m/item/fair-allocation-mechanism-for-covid-19-vaccines-through-the-covax-facility"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "9/24/20",
+      "Policy/Politics": "",
+      "Research": "Up to 14% of severe cases linked to genetic factors",
+      "Link": "https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "10/15/20",
+      "Policy/Politics": "",
+      "Research": "Remdesivir and interferon did not increase survival in COVID-19 patients, according to WHO megatrial",
+      "Link": "https://www.medrxiv.org/content/10.1101/2020.10.15.20209817v1.article-info"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "10/22/20",
+      "Policy/Politics": "U.S. FDA approves remdesivir for COVID-19",
+      "Research": "",
+      "Link": "https://www.sciencemag.org/news/2020/10/very-very-bad-look-remdesivir-first-fda-approved-covid-19-drug"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "Mid-November",
+      "Policy/Politics": "Drug companies Pfizer and Moderna reveal vaccine efficacy of 95%",
+      "Research": "",
+      "Link": "https://www.sciencemag.org/news/2020/11/champagne-and-questions-greet-first-data-showing-covid-19-vaccine-works"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "11/16/20",
+      "Policy/Politics": "",
+      "Research": "Moderna announces that its mRNA vaccine has an efficacy of nearly 95%",
+      "Link": "https://www.sciencemag.org/news/2020/11/just-beautiful-another-covid-19-vaccine-newcomer-moderna-succeeds-large-scale-trial"
+    },
+    {
+      "Priority": "Should-do",
+      "Date": "11/16/20",
+      "Policy/Politics": "",
+      "Research": "Memory B and T cells seem to stay stable for at least 6 months",
+      "Link": "https://www.biorxiv.org/content/10.1101/2020.11.15.383323v1"
+    },
+    {
+      "Priority": "Must-do",
+      "Date": "11/18/20",
+      "Policy/Politics": "",
+      "Research": "Pfizer announces that its mRNA vaccine has an efficacy of 95%"
+    },
+    {
+      "Priority": "",
+      "Date": "12/2/20",
+      "Policy/Politics": "U.K. MHRA approves Pfizer's COVID-19 vaccine",
+      "Research": "",
+      "Link": "https://www.sciencemag.org/news/2020/12/wonderful-news-wake-uk-greenlights-pfizers-covid-19-vaccine"
+    }
+  ]
+}

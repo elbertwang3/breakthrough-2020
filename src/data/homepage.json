@@ -1,0 +1,109 @@
+{
+  "config": {
+    "url": "https://vis.sciencemag.org/breakthrough2019/",
+    "share_title": "And the biggest scientific breakthrough of 2019 is …",
+    "description": "Science chooses the top scientific achievement of the year, plus nine runners-up",
+    "pub_date": "17 December 2020",
+    "promo": "https://vis.sciencemag.org/breakthrough2019/social.jpg",
+    "byline": "<a href=\"https://www.sciencemag.org/author/daniel-clery\">Daniel Clery</a>",
+    "hed": "Darkness made visible",
+    "dek": "An international team of astronomers has produced the first ever image of a black hole"
+  },
+  "content": [
+    {
+      "type": "text",
+      "value": "Massive, ubiquitous, and in some cases as big as our Solar System, black holes hide in plain sight. The effect of their gravity on objects around them and, lately, the gravitational waves emitted when they collide reveal their presence. But no one had ever seen one directly—until April. That’s when an international team of radio astronomers released a startling close-up image of a black hole’s “shadow,” showing a dark heart surrounded by a ring of light created by photons zipping around it."
+    },
+    {
+      "type": "links",
+      "value": [
+        {
+          "text": "Watch a related video",
+          "url": "finalists/#video"
+        },
+        {
+          "text": "Do our crossword",
+          "url": ""
+        },
+        {
+          "text": "Listen to our podcast",
+          "url": "https://www.sciencemag.org/podcast/breakthrough-year-our-favorite-online-news-stories-and-year-books"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "value": [
+        {
+          "title": "Kai’s story",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Timeline",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        }
+      ]
+    },
+    {
+      "type": "subhed",
+      "value": "Runners-up"
+    },
+    {
+      "type": "grid",
+      "value": [
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        },
+        {
+          "title": "Obituaries",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg"
+        }
+      ]
+    }
+  ]
+}

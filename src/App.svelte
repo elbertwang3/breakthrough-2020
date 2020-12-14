@@ -7,6 +7,7 @@
   import Grid from "./Grid.svelte";
   import Subhed from "./Subhed.svelte";
   import TopGrid from "./TopGrid.svelte";
+  import Footer from "./Footer.svelte";
 
   const { config, content } = homepage;
   const { hed, dek, byline, pub_date } = config;
@@ -74,4 +75,5 @@
   {#each content as { type, value }, i}
     <svelte:component this={elementTypes[type]} {value} />
   {/each}
+  <Footer />
 </article>

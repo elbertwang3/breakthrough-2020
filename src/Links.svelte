@@ -7,6 +7,10 @@
     display: flex;
     justify-content: space-between;
     flex-flow: row wrap;
+    margin-bottom: 3em;
+  }
+  .more-actions a {
+    font-weight: 400;
   }
 </style>
 

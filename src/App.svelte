@@ -6,6 +6,7 @@
   import Links from "./Links.svelte";
   import Grid from "./Grid.svelte";
   import Subhed from "./Subhed.svelte";
+  import TopGrid from "./TopGrid.svelte";
 
   const { config, content } = homepage;
   const { hed, dek, byline, pub_date } = config;
@@ -15,6 +16,7 @@
     links: Links,
     grid: Grid,
     subhed: Subhed,
+    "top-grid": TopGrid,
   };
 </script>
 
@@ -30,6 +32,11 @@
   :global(.article-spine) {
     max-width: 720px;
     margin: auto;
+    padding: 0 1em;
+  }
+
+  #story_cover {
+    margin-top: 50px;
   }
 </style>
 
@@ -52,14 +59,8 @@
           <p>Sorry, your browser does not support the &lt;video&gt; element.</p>
         </video>
       </div>
-      <h1 class="title2019"><strong>20<span>19</span></strong></h1>
-
+      <h1 class="year">2020</h1>
       <h1 class="titlebreak">Breakthrough <br /><em>of the</em> year</h1>
-      <h1 id="openerv-dek">
-        Seen from an imaginary planet, the black hole in the galaxy M87 warps
-        spacetime and pours out energy.
-        <tspan class="figure_credit_open ">Mark A. Garlick</tspan>
-      </h1>
     </div>
   </section>
   <section class="section toc_intro" id="intro">

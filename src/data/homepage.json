@@ -32,22 +32,25 @@
       ]
     },
     {
-      "type": "grid",
+      "type": "top-grid",
       "value": [
         {
           "title": "Kai’s story",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
-        },
-        {
-          "title": "Timeline",
-          "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_QuantumSupremacy-768.jpg",
+          "alt": ""
         },
         {
           "title": "Obituaries",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_QuantumSupremacy-768.jpg",
+          "alt": ""
+        },
+        {
+          "title": "Timeline",
+          "url": "",
+          "img": "BOTY_QuantumSupremacy-768.jpg",
+          "alt": ""
         }
       ]
     },
@@ -59,49 +62,58 @@
       "type": "grid",
       "value": [
         {
-          "title": "Obituaries",
+          "title": "Sickle Sell",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_SickleCell-1280.jpg",
+          "alt": ""
         },
         {
-          "title": "Obituaries",
+          "title": "#BlackIn",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_BlackIn-1280.jpg",
+          "alt": ""
         },
         {
-          "title": "Obituaries",
+          "title": "Climate Sensitivity",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_ClimateSensitivity-1280.jpg",
+          "alt": ""
         },
         {
-          "title": "Obituaries",
+          "title": "Fast Radio Bursts",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_FastRadioBurst-1280.jpg",
+          "alt": ""
         },
         {
-          "title": "Obituaries",
+          "title": "Oldest Rock Art",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_RockArt-1280.jpg",
+          "alt": ""
         },
         {
-          "title": "Obituaries",
+          "title": "Protein Folding",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_ProteinFolding-1280.jpg",
+          "alt": ""
         },
         {
-          "title": "Obituaries",
+          "title": "HIV",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_HIV-1280.jpg",
+          "alt": ""
         },
         {
-          "title": "Obituaries",
+          "title": "Super Conductivity",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_Superconductivity-1280.jpg",
+          "alt": ""
         },
         {
-          "title": "Obituaries",
+          "title": "Bird Brains",
           "url": "",
-          "img": "BOTY_QuantumSupremacy-768.jpg"
+          "img": "BOTY_Birdbrains-1280.jpg",
+          "alt": ""
         }
       ]
     }

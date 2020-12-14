@@ -5,7 +5,8 @@
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public",
-    "data:fetch": "node ./utils/get-data.js"
+    "data:fetch": "node ./utils/get-data.js",
+    "deploy": "surge"
   },
   "devDependencies": {
     "@newswire/doc-to-archieml": "^1.0.0",

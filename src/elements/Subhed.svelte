@@ -9,7 +9,4 @@
   }
 </style>
 
-<h2 class="subhed article-spine">
-  <span class="span donut">⭕&nbsp;&nbsp;</span>{value}<span
-    class="span donut">&nbsp;&nbsp;⭕</span>
-</h2>
+<h2 class="subhed article-spine">{value}</h2>

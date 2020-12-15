@@ -1,25 +1,25 @@
 {
   "config": {
-    "url": "https://vis.sciencemag.org/breakthrough2019/",
+    "url": "https://vis.sciencemag.org/breakthrough2020/",
     "share_title": "And the biggest scientific breakthrough of 2019 is …",
     "description": "Science chooses the top scientific achievement of the year, plus nine runners-up",
     "pub_date": "17 December 2020",
-    "promo": "https://vis.sciencemag.org/breakthrough2019/social.jpg",
-    "byline": "<a href=\"https://www.sciencemag.org/author/daniel-clery\">Daniel Clery</a>",
-    "hed": "Darkness made visible",
-    "dek": "An international team of astronomers has produced the first ever image of a black hole"
+    "promo": "https://vis.sciencemag.org/breakthrough202020/social.jpg",
+    "byline": "<a href=\"https://www.sciencemag.org/author/jon-cohen\">Jon Cohen</a>",
+    "hed": "Shots of hope",
+    "dek": "Desperately needed vaccines against COVID-19, developed and tested at record speed, are 2020’s breakthrough"
   },
   "content": [
     {
       "type": "text",
-      "value": "Massive, ubiquitous, and in some cases as big as our Solar System, black holes hide in plain sight. The effect of their gravity on objects around them and, lately, the gravitational waves emitted when they collide reveal their presence. But no one had ever seen one directly—until April. That’s when an international team of radio astronomers released a startling close-up image of a black hole’s “shadow,” showing a dark heart surrounded by a ring of light created by photons zipping around it."
+      "value": "In March, when cases of COVID-19 began to overwhelm hospitals in the United States, I told my 90-year-old mother that she had to shelter in place. She lives alone in Los Angeles, and to keep her company, I FaceTimed her every night. In the role reversal that happens with time, I became the forever-worried, nagging parent, and she was the ever-doubting, defiant child."
     },
     {
       "type": "links",
       "value": [
         {
           "text": "Watch a related video",
-          "url": "finalists/#video"
+          "url": "#/finalists/#video"
         },
         {
           "text": "Do our crossword",
@@ -35,20 +35,20 @@
       "type": "top-grid",
       "value": [
         {
-          "title": "Kai’s story",
-          "url": "/finalists",
-          "img": "BOTY_QuantumSupremacy-768.jpg",
+          "title": "A divisive disease",
+          "url": "#/finalists",
+          "img": "BOTY_DivisiveDisease-1280.jpg",
           "alt": ""
         },
         {
-          "title": "Obituaries",
-          "url": "/finalists",
-          "img": "BOTY_QuantumSupremacy-768.jpg",
+          "title": "Ones we’ve lost",
+          "url": "#/finalists",
+          "img": "BOTY_Memorial-1280.jpg",
           "alt": ""
         },
         {
-          "title": "Timeline",
-          "url": "/finalists",
+          "title": "A year like no other",
+          "url": "#/finalists#timeline",
           "img": "BOTY_QuantumSupremacy-768.jpg",
           "alt": ""
         }
@@ -62,37 +62,37 @@
       "type": "grid",
       "value": [
         {
-          "title": "Sickle Sell",
+          "title": "First CRISPR cures?",
           "url": "",
           "img": "BOTY_SickleCell-1280.jpg",
           "alt": ""
         },
         {
-          "title": "#BlackIn",
+          "title": "Scientists speak up for diversity",
           "url": "",
           "img": "BOTY_BlackIn-1280.jpg",
           "alt": ""
         },
         {
-          "title": "Climate Sensitivity",
+          "title": "Global warming forecasts sharpen",
           "url": "",
           "img": "BOTY_ClimateSensitivity-1280.jpg",
           "alt": ""
         },
         {
-          "title": "Fast Radio Bursts",
+          "title": "Found: elusive source of fast radio bursts",
           "url": "",
           "img": "BOTY_FastRadioBurst-1280.jpg",
           "alt": ""
         },
         {
-          "title": "Oldest Rock Art",
+          "title": "World’s oldest hunting scene revealed",
           "url": "",
           "img": "BOTY_RockArt-1280.jpg",
           "alt": ""
         },
         {
-          "title": "Protein Folding",
+          "title": "AI disentangles protein folding",
           "url": "",
           "img": "BOTY_ProteinFolding-1280.jpg",
           "alt": ""

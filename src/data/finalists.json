@@ -1,1 +1,417 @@
-{}
+{
+  "content": [
+    {
+      "type": "section-head",
+      "value": "2020 BREAKTHROUGH OF THE YEAR"
+    },
+    {
+      "type": "stories",
+      "value": [
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Shots of kope"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Kai’s story"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "value": {}
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "A Year of Loss"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section-head",
+      "value": "RUNNERS-UP"
+    },
+    {
+      "type": "stories",
+      "value": [
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "First CRISPR cures?"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Scientists speak up for diversity"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Global Warming Forecasts Sharpen"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Fast Radio Bursts"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Oldest Rock Art"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Protein Folding"
+            },
+            {
+              "type": "story-subtitle",
+              "value": "With a trio of techniques, scientists are tracking embryo development in stunning detail"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackholeSimulation-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "The iconic image of galaxy Messier 87’s central black hole, showing a ring of photons bent by its gravity."
+            },
+            {
+              "type": "credit",
+              "value": "EHT COLLABORATION/CC 4.0"
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "text",
+              "value": "From at least the time of Hippocrates, biologists have been transfixed by the mystery of how a single cell develops into an adult animal with multiple organs and billions of cells. The ancient Greek physician hypothesized that moisture from a mother’s breath helps shape a growing infant, but now we know it is DNA that ultimately orchestrates the processes by which cells multiply and specialize."
+            },
+            {
+              "type": "byline",
+              "value": "Gretchen Vogel"
+            },
+            {
+              "type": "references",
+              "value": [
+                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section-head",
+      "value": "RELATED ITEMS"
+    }
+  ]
+}

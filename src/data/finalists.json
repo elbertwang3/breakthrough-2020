@@ -1115,6 +1115,55 @@
           "value": [
             {
               "type": "story-title",
+              "value": "Room temperature superconductivity finally achieved"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_Superconductivity-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "Crushed between two diamonds, a compound of hydrogen, sulfur, and carbon superconducts at room temperature."
+            },
+            {
+              "type": "credit",
+              "value": "ADAM FENSTER"
+            },
+            {
+              "type": "text",
+              "value": "Scientists have spent decades searching for materials that conduct electricity without resistance at room temperature. This year they found the first one, a hydrogen- and carbon-containing compound squeezed to a pressure approaching that at the center of Earth. The discovery is setting off a hunt for room temperature superconductors that work at typical surface pressures; such materials could transform technologies and save the vast amounts of energy wasted when electricity moves through wires."
+            },
+            {
+              "type": "text",
+              "value": "Superconductivity got its start in 1911 when physicist Heike Kamerlingh Onnes found that a mercury wire chilled to 4.2°C above absolute zero, or 4.2 K, conducted electrons without the usual heat-producing friction. In 1986, researchers found the same was true of a family of copper oxide ceramics. Because these superconductors worked above 77 K—the temperature of liquid nitrogen—they spawned a new generation of MRI machines and particle accelerator magnets. There were hints that copper oxides might superconduct at room temperature, but they were never verified."
+            },
+            {
+              "type": "text",
+              "value": "Confirmation now comes from high-pressure physics, in which scientists smash flecks of materials between the flattened points of two diamonds at pressures millions of times higher than those at Earth’s surface. With such a diamond anvil, researchers in Germany in 2019 compressed a mix of lanthanum and hydrogen to 170 giga-pascals (GPa), yielding superconductivity at temperatures up to 250 K, just under the freezing point of water. This year, researchers in the United States topped that result with a hydrogen, carbon, and sulfur compound compressed to 267 GPa. It conducted without resistance to 287 K, the temperature of a chilly room."
+            },
+            {
+              "type": "text",
+              "value": "So far, the new superconductors fall apart when the pressure is released. But the same isn’t true of all high-pressure materials: Diamonds born in the crushing depths of Earth, for example, survive after rising to the surface. Now, researchers hope to find a similarly long-lasting gem for their own field."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/robert-f-service\">Robert F. Service</a>"
+            },
+            {
+              "type": "references",
+              "value": [
+                "R. F. Service, <a href=\"https://science.sciencemag.org/content/370/6514/273\">At last, room temperature superconductivity achieved</a>, Science, Vol. 370, p. 273, 16 October 2020",
+                "A. P. Drozdov et al., <a href=\"https://www.nature.com/articles/nature14964\">Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system</a>, Nature, Vol. 525, p. 73, 17 August 2015",
+                "E. Snider et al., <a href=\"https://www.nature.com/articles/s41586-020-2801-z\">Room-temperature superconductivity in a carbonaceous sulfur hydride</a>, Nature, Vol. 586, p. 373, 14 October 2020"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
               "value": "Birds are smarter than you think"
             },
             {

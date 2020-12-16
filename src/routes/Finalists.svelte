@@ -161,7 +161,7 @@
     color: #333;
     width: 100%;
     overflow-x: hidden;
-    font-size: 14px;
+    font-size: 16px;
   }
   .text-container {
     margin: auto;

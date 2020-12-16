@@ -186,6 +186,14 @@ a {
   text-decoration: none;
 }
 
+p a {
+  color: #75a8c3;
+}
+
+p a:hover {
+  text-decoration: none;
+}
+
 /* a:visited {
   color: #c4161c;
   outline: 0;

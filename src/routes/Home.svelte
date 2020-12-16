@@ -25,6 +25,35 @@
   .homepage {
     color: #dbdbdb;
     background-color: #000025;
+    font-size: 16px;
+  }
+  .article-head {
+    font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    font-weight: 300;
+    text-align: center;
+  }
+  .lede {
+    font-size: 1.125em;
+    line-height: 1.4;
+    text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5em;
+  }
+
+  @media (min-width: 768px) {
+    .article-head {
+      margin-top: 1em;
+      font-size: 3em;
+    }
+  }
+
+  @media (min-width: 992px) {
+  }
+
+  @media (min-width: 1200px) {
   }
 </style>
 
@@ -51,7 +80,7 @@
     </div>
   </section>
   <section class="section toc_intro" id="intro">
-    <h2 class="article_head">{hed}</h2>
+    <h2 class="article-head">{hed}</h2>
     <p class="lede">{dek}</p>
     <p class="byline lightpink">
       By

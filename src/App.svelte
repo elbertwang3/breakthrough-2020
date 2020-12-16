@@ -23,7 +23,5 @@
       <Link to="blog">Blog</Link>
     </nav> -->
   <Route path="finalists" component={Finalists} />
-  <Route path="/">
-    <Home />
-  </Route>
+  <Route path="/" component={Home} />
 </Router>

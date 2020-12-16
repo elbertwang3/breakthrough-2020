@@ -72,10 +72,6 @@
     margin-bottom: 0.5em;
     font-size: 0.875em;
   }
-
-  .reference a {
-    color: #75a8c3;
-  }
 </style>
 
 <div class="finalist_item" id={slug}>

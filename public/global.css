@@ -182,7 +182,7 @@ body {
 }
 
 a {
-  color: #75a8c3;
+  /* color: #75a8c3; */
   text-decoration: none;
 }
 
@@ -867,7 +867,7 @@ header.navbar {
 }
 
 .row--footer {
-  background: #0e202b;
+  background-color: black;
   font-family: Roboto Condensed, Helvetica, sans-serif;
   width: 100%;
   vertical-align: bottom !important;
@@ -1178,7 +1178,6 @@ html {
 @media (min-width: 40rem) {
   .navbar.navbar-default {
     max-height: 70px;
-    background-color: #1a1a1a;
   }
 
   .minimal-header__navlist {
@@ -1262,10 +1261,10 @@ html {
     padding-right: 0;
   }
 
-  section p {
+  /* section p {
     padding-left: 5%;
     padding-right: 5%;
-  }
+  } */
 
   .addthis_inline_share_toolbox_h50m {
     top: 15%;
@@ -1357,7 +1356,7 @@ html {
   text-align: center;
 }
 
-.lede {
+/* .lede {
   font-size: 1.125em;
   line-height: 1.4;
   text-align: center;
@@ -1365,7 +1364,7 @@ html {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1.5em;
-}
+} */
 
 .cover_content h1 em {
   text-transform: lowercase;

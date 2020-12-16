@@ -1,15 +1,12 @@
 <script>
-  import Router from "svelte-spa-router";
+  import { Router, Route, Link } from "svelte-routing";
   import Metas from "./Metas.svelte";
   import Nav from "./Nav.svelte";
   import Footer from "./Footer.svelte";
   import Home from "./routes/Home.svelte";
   import Finalists from "./routes/Finalists.svelte";
 
-  const routes = {
-    "/": Home,
-    "/finalists": Finalists,
-  };
+  export let url = "";
 </script>
 
 <style>
@@ -19,6 +16,14 @@
   <Metas />
 </svelte:head>
 
-<article>
-  <Router {routes} />
-</article>
+<Router {url}>
+  <!-- <nav>
+      <Link to="/">Home</Link>
+      <Link to="about">About</Link>
+      <Link to="blog">Blog</Link>
+    </nav> -->
+  <Route path="finalists" component={Finalists} />
+  <Route path="/">
+    <Home />
+  </Route>
+</Router>

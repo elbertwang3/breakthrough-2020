@@ -1,9 +1,6 @@
 <script>
-  export let value, hideMenu;
-  const storyTitle = value[0].value;
-  const storySlug = storyTitle.replace(/\s+/g, "-").toLowerCase();
-  // console.log(storySlug);
-  // console.log(storyTitle);
+  export let value;
+  const { text, url } = value;
 </script>
 
 <style>
@@ -30,15 +27,6 @@
   li:hover {
     background-color: #333;
   }
-
-  li a {
-    display: block;
-  }
 </style>
 
-<li
-  on:click={() => {
-    hideMenu();
-  }}>
-  <a href={`#${storySlug}`}> {storyTitle}</a>
-</li>
+<li class=""><a href={url}>{text}</a></li>

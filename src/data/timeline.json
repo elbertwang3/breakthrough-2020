@@ -237,7 +237,7 @@
     },
     {
       "DATE": "9 November",
-      "POLICY AND PUBLIC HEALTH": "Pfizer-BioNTech announces vaccine efficacy above 90%.",
+      "POLICY AND PUBLIC HEALTH": "Pfizer and BioNTech announce vaccine efficacy above 90%.",
       "FINDINGS": "",
       "LINKS": "",
       "IMAGE": "syringe_timeline.png",
@@ -261,7 +261,7 @@
     },
     {
       "DATE": "24 November",
-      "POLICY AND PUBLIC HEALTH": "Russia's Gamaleya Center reports vaccine efficacy of 91.4%.",
+      "POLICY AND PUBLIC HEALTH": "Russia's Gamaleya institute reports vaccine efficacy of 91.4%.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/11/more-data-its-covid-19-vaccine-russia-institute-offers-new-evidence-success",
       "IMAGE": "",
@@ -274,6 +274,22 @@
       "LINKS": "https://www.sciencemag.org/news/2020/12/wonderful-news-wake-uk-greenlights-pfizers-covid-19-vaccine",
       "IMAGE": "",
       "TEXT TO LINK": "first to authorize"
+    },
+    {
+      "DATE": "9 December",
+      "POLICY AND PUBLIC HEALTH": "China National Biotec Group vaccine has 86% efficacy, according to UAE health ministry.",
+      "FINDINGS": "",
+      "LINKS": "https://www.sciencemag.org/news/2020/12/great-efficacy-claimed-another-covid-19-vaccine-one-china",
+      "IMAGE": "",
+      "TEXT TO LINK": "86% efficacy"
+    },
+    {
+      "DATE": "14 December",
+      "POLICY AND PUBLIC HEALTH": "U.S. health care workers begin to receive Pfizer vaccine.",
+      "FINDINGS": "",
+      "LINKS": "",
+      "IMAGE": "",
+      "TEXT TO LINK": "begin receiving"
     }
   ],
   "timeline": [

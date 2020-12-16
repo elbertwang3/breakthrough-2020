@@ -1,7 +1,7 @@
 {
   "content": [
     {
-      "type": "section-head",
+      "type": "list-header",
       "value": "2020 BREAKTHROUGH OF THE YEAR"
     },
     {
@@ -141,12 +141,6 @@
             {
               "type": "byline",
               "value": "<a href=\"https://www.sciencemag.org/author/jon-cohen\">Jon Cohen</a>"
-            },
-            {
-              "type": "references",
-              "value": [
-                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
-              ]
             }
           ]
         },
@@ -260,805 +254,948 @@
             {
               "type": "byline",
               "value": "<a href=\"https://www.sciencemag.org/author/kai-kupferschmidt\">Kai Kupferschmidt</a>"
-            },
-            {
-              "type": "references",
-              "value": [
-                "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
-              ]
             }
           ]
         },
         {
           "type": "timeline",
           "value": {}
-        },
+        }
+      ]
+    },
+    {
+      "type": "list-head",
+      "value": "OBITUARIES"
+    },
+    {
+      "type": "stories",
+      "value": [
         {
-          "type": "section-head",
-          "value": "OBITUARIES"
-        },
-        {
-          "type": "stories",
+          "type": "story",
           "value": [
             {
-              "type": "story",
+              "type": "story-title",
+              "value": "One’s we’ve lost"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_Memorial-1280.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "MARK RALSTON/AFP/GETTY IMAGES"
+            },
+            {
+              "type": "text",
+              "value": "COVID-19 has made 2020 a cruel year for us all. As Science went to press, the global toll of the pandemic had already exceeded 1.6 million, a tragic number that includes scientists of all specialties, ages, and backgrounds. Behind the mind-numbing total are individuals, each a spark of ingenuity, imagination, and creative spirit. Because we can’t do justice to every life lost, we’ve chosen only a few. In remembering them, we mourn the much larger losses for the scientific community—and the world."
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Li Wenliang"
+            },
+            {
+              "type": "img",
+              "value": "LiWenliang.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "Li Wenliang did not set out to be a hero. On 30 December 2019, the 33-year-old Wuhan Central Hospital ophthalmologist warned a small group of colleagues that cases of a severe acute respiratory syndrome–like illness had been confirmed in area hospitals. “Don’t spread the word, let your family members take precautions,” he wrote in a brief message."
+            },
+            {
+              "type": "text",
+              "value": "Someone did spread the word, which went viral. Four days later, Li was called to a meeting with local police, who forced him to confess to spreading rumors. When the young doctor fell ill with COVID-19 less than 1 week later, he took to the microblogging website Sina Weibo to tell his story."
+            },
+            {
+              "type": "text",
+              "value": "Citizens were outraged at the officials’ tactics. As Li’s condition deteriorated in the early hours of 7 February, millions followed media updates on his condition. When his hospital confirmed his death shortly before 3 a.m., thousands of locked-down Wuhan citizens came to their high-rise windows, calling his name and grieving. He became “the face of COVID-19 in China,” independent social media expert Manya Koetse wrote on her What’s on Weibo website."
+            },
+            {
+              "type": "text",
+              "value": "The outrage forced an investigation, and in March, officials formally exonerated Li and apologized to his family."
+            },
+            {
+              "type": "text",
+              "value": "Although his death shook a nation, Li was a modest man dedicated to his work. In one social media post, he apologized to his patients for being irritable, then added that he enjoyed his fried chicken dinner after “thinking about it all day.”"
+            },
+            {
+              "type": "text",
+              "value": "Ten months after his death, more than 1.5 million people still follow Li’s Weibo page. His final post, in which he finally reported testing positive for the COVID-19 virus weeks after infection, has drawn more than 1 million comments, with dozens more posted every day. Writers address Li as if he’s an old friend, sharing their daily troubles and future hopes, calling him an inspiration, and sending birthday wishes. Many sent congratulations when his wife gave birth to their second son, about 4 months after Li died."
+            },
+            {
+              "type": "text",
+              "value": "In early February, Li was “a symbol of public anger against the failure of the Chinese system to address the COVID-19 pandemic,” says Steve Tsang, a political scientist who focuses on China at the SOAS University of London. As China brought the outbreak under control, that anger has largely dissipated. But in the eyes of the public, Li remains the hero he never set out to be."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/dennis-normile\">Dennis Normile</a> and Bian Huihui"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Gita Ramjee"
+            },
+            {
+              "type": "img",
+              "value": "GitaRamjee.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "After finishing her Ph.D., epidemiologist Gita Ramjee made a decision that would change the course of her life—and many others. She paused her work on childhood kidney disease to explore whether vaginal microbicides could protect South African women from contracting HIV. It was 1994, and the world was at the height of the AIDS crisis: Few treatments were available, and no end was in sight. And women, especially sex workers, were being hit increasingly hard."
+            },
+            {
+              "type": "text",
+              "value": "The largely overlooked plight of these women “sparked her passion,” says Gavin Churchyard, CEO of the Aurum Institute, the HIV and tuberculosis prevention nonprofit where Ramjee was chief scientific officer. “She wouldn’t just sit back and allow things to happen,” Churchyard says. “She would make them happen.”"
+            },
+            {
+              "type": "text",
+              "value": "Ramjee, a fierce advocate for women’s health, devoted the rest of her life to searching for ways to prevent HIV infection and providing them to the communities that needed them most. She held herself and colleagues to high standards, Churchyard says, pushing for excellence in an area of research that often had disappointing results. “She was a persevering and dedicated person,” says social scientist Neetha Morar, whom Ramjee mentored at the South African Medical Research Council (SAMRC). “Every time a negative result came through, she would get up and continue on.”"
+            },
+            {
+              "type": "text",
+              "value": "Ramjee’s commitment to work was matched only by her devotion to her family, Morar says. When her two sons still lived at home, she would prepare a full meal—with handmade bread—every day before work, to make sure her family ate dinner together in the evening. After her sons left home, Morar says, she kept up the ritual with her husband. She was ecstatic at the birth of her first grandchild and often brought pictures to the office to show colleagues, Churchyard remembers."
+            },
+            {
+              "type": "text",
+              "value": "Ramjee died on 31 March at age 63. Even months after her passing, her life’s labor is still bearing fruit, says Wafaa El-Sadr, an epidemiologist at Columbia University and longtime collaborator. While at SAMRC, Ramjee oversaw on-site trials for a long-acting antiviral injection recently found to be more effective than a daily pill at preventing HIV in women. “She would have been thrilled,” El-Sadr says. “It’s very bittersweet to have this amazing victory and she’s not around to celebrate.”"
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/lucy-hicks\">Lucy Hicks</a>"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Lynika Strozier"
+            },
+            {
+              "type": "img",
+              "value": "LynikaStrozier.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "Lynika Strozier lay in a hospital bed dying of COVID-19 as Black Lives Matter protesters took to the streets of Chicago in June. The 35-year-old geneticist was a gifted laboratory scientist, a passionate teacher, and a mentor to scores of students, many from underrepresented backgrounds. “Science was her baby,” says her grandmother, Sharon Wright, who raised Strozier from birth."
+            },
+            {
+              "type": "text",
+              "value": "Her path wasn’t easy. Strozier was diagnosed early in life with a learning disability, and she had to study harder than her peers, Wright says. But she was a natural when it came to lab work, discovering her talent in college when she landed an internship taking care of cell lines at Truman College. “Most of us would have given up—and she always persevered,” says Matt von Konrat, a botanist at the Field Museum who watched Strozier move from intern to research assistant to collections associate at the museum’s Pritzker DNA Laboratory, where she studied evo-lution in liverworts, birds, and other organisms."
+            },
+            {
+              "type": "text",
+              "value": "By 2018, Strozier had completed two master’s degrees, one in biology and one in science education, before starting a job teaching ecology and evolution in January at Malcolm X College. “We had hoped that that would be just the beginning of her success story,” says Sushma Reddy, an evolutionary biologist at the University of Minnesota, Twin Cities, who was Strozier’s graduate adviser at Loyola University Chicago. She was an inspiring teacher, Reddy says, and she was also someone her students could aspire to be."
+            },
+            {
+              "type": "text",
+              "value": "“She was literally the first Black scientist I ever met,” says Heaven Wade, a biochemistry undergraduate at Denison University whom Strozier mentored during an internship at the Field Museum. “We all loved her.” Wade, who is also Black, credits Strozier with keeping her in science: When she considered switching her major because she wasn’t feeling “very welcome” in her program, Strozier persuaded her to stay. “She was so encouraging … it really inspired me to keep going.”"
+            },
+            {
+              "type": "text",
+              "value": "Even now, Strozier continues to inspire young scientists. Her colleagues came up with the idea of creating an internship in her name, to help women of color gain research experience at the Field Museum. The fund is halfway to its $100,000 goal. “That’s what Lynika would have wanted,” Reddy says"
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/katie-langin\">Katie Langin </a>"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "John Houghton"
+            },
+            {
+              "type": "img",
+              "value": "JohnHoughton.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "John Houghton loved a good country walk. So when the British climate scientist, instrumental to sounding the global alarm on climate change, found himself with a free afternoon at the National Center for Atmospheric Research’s Mesa Laboratory near Boulder, Colorado, he headed straight out the back door—and into the Rocky Mountains. He even convinced a handful of fellow visitors, in in-appropriate shoes, to join him as the sunlight waned."
+            },
+            {
+              "type": "text",
+              "value": "That spirit of exploration was fundamental to Houghton, who began his career in the 1960s developing space-based sensors that used the radiation emitted by carbon dioxide to take the atmosphere’s temperature. Those measurements soon helped make clear that the burning of fossil fuels could, in a few generations, deeply alter the planet. In time, Houghton found himself in a position to make a difference, directing the United Kingdom’s Met Office and helping lead the first three reports from the United Nations’s Intergovernmental Panel on Climate Change (IPCC)."
+            },
+            {
+              "type": "text",
+              "value": "Houghton was widely regarded as brilliant, but it was his emotional intelligence that made him so effective, says Robert Watson, a former IPCC chairman. “He showed respect for people,” Watson says. During the summit of the third IPCC assessment, published in 2001, government representatives spent the entire first day squabbling over a sentence that explained who was preparing the report. Fellow panelist David Griggs despaired of getting more controversial language approved."
+            },
+            {
+              "type": "text",
+              "value": "“Everyone wants to hear their own voice,” Houghton told him. “If I allow them to take control now, they’ll allow me more flexibility later.” And sure enough, by the third day, the IPCC scientists were willing to include a sentence that is now seen as a turning point in climate science: “Most of the warming observed over the last 50 years is attributable to human activities.”"
+            },
+            {
+              "type": "text",
+              "value": "Like many who led the charge on climate change, Houghton, who died in April at age 88, did not live to see the world mount a credible response. But he never lost faith in humanity, Griggs says. “He always felt, in the end, people would respond and act on climate change.” That optimism may have stemmed in part from Houghton’s deep Christian faith, which led him to engage with climate change skeptics—and sometimes convince them, Watson says."
+            },
+            {
+              "type": "text",
+              "value": "The hikers who set off from the Mesa Lab that afternoon never made it to the summit, says Griggs, who was among them. A pitch-black night fell, and they were ready to bed down outside—but Houghton believed they’d find the road back."
+            },
+            {
+              "type": "text",
+              "value": "They did."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/paul-voosen\">Paul Voosen</a>"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Lungile Pepeta"
+            },
+            {
+              "type": "img",
+              "value": "LungilePepeta.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "When the breadwinner of a Xhosa family dies, mourners say umthi omkhulu uwile, a mighty tree has fallen. That’s what family, friends, and colleagues felt when Lungile Pepeta, a leading South African pediatric cardiologist and dean of health sciences at Nelson Mandela University, lost his life to COVID-19 at age 46, says Samkelo Jiyana, a pediatric cardiologist who trained under Pepeta, a tireless champion of rural and child health care."
+            },
+            {
+              "type": "text",
+              "value": "“He was an incredible person,” says pediatric cardiologist Adèle Greyling, who also trained under Pepeta. “It was a devastating loss for us all.”"
+            },
+            {
+              "type": "text",
+              "value": "Pepeta, who grew up in Eastern Cape province, never forgot his roots. After his training in Johannesburg, he returned to the Eastern Cape, where he founded the poverty-stricken province’s first pediatric cardiology unit and began to train others to follow in his footsteps. Before his arrival, children with serious heart conditions were forced to travel hundreds of kilometers—often by bus or even hitchhiking—to medical centers in major cities."
+            },
+            {
+              "type": "text",
+              "value": "Pepeta’s research at Nelson Mandela University, in the Eastern Cape, focused on congenital heart conditions and rheumatic heart disease, which often arises from untreated streptococcal throat infections. It is a “disease of the poor,” says Jiyana, who now works at Netcare Greenacres Hospital in Port Elizabeth, South Africa. But when the pandemic reached the Eastern Cape, Pepeta launched a public information battle through social media and TV interviews in which he urged social distancing and the isolation of anyone who might be infected. He also called for coordination between the region’s public and private health care systems and advised the provincial government on its pandemic response."
+            },
+            {
+              "type": "text",
+              "value": "Pepeta did not live to see the achievement of one of his most ambitious dreams: the opening of South Africa’s 10th medical school, at his university. He deliberately located the school on the Missionvale campus—once an apartheid-era university built for Black people—to fulfill its mission of delivering “proper healthcare for all our communities,” he wrote last year."
+            },
+            {
+              "type": "text",
+              "value": "On his birthday on 16 July, Pepeta was in the hospital with COVID-19 symptoms when he received news that the medical school’s accreditation application had been approved. Soon after, when he was already on high-flow oxygen and within days of being admitted to the intensive care unit, he submitted his final paper to a medical journal. He died on 7 August. “He did the work of two or three other people in his lifetime,” Greyling says. “I don’t think we’ll ever meet anyone like him again.”"
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/cathleen-o-grady\">Cathleen O’Grady</a>"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Maria de Sousa"
+            },
+            {
+              "type": "img",
+              "value": "MariadeSousa.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "When Portuguese immunologist Maria de Sousa was teaching at the University of Porto in the 1990s, she would take her students to the city’s famous art museum, in a former 18th century palace. She would tell them to describe a painting, then take a second look. “She wanted to teach people how to see, because people miss what’s there,” says Rui Costa, a neuroscientist at Columbia University and former student."
+            },
+            {
+              "type": "text",
+              "value": "De Sousa herself looked beyond the obvious in a career that took her to top research centers in the United Kingdom and New York City, then back to her home country. Her discoveries, and her tireless devotion to Portuguese science, earned her the status of a revered hero in the research community. She died in Lisbon, Portugal, on 14 April at age 80."
+            },
+            {
+              "type": "text",
+              "value": "De Sousa’s work in immunology began in the 1960s, when a dictator ruled Portugal and most young women had no choice but to become homemakers. After earning a medical degree, de Sousa left at age 25 for graduate studies in London and Glasgow, U.K. There, she examined mice from which the thymus—an organ whose role in the immune system was just coming to light—had been removed soon after birth. A whole class of immune cells produced by the thymus was missing from the animals’ lymph nodes. She realized that the cells, now called T cells, must migrate from the thymus to specific areas in the lymph nodes, where they stand ready to fight pathogenic invaders. The discovery soon became part of standard immunology textbooks."
+            },
+            {
+              "type": "text",
+              "value": "De Sousa moved to New York City in 1975 and later established a cell ecology lab at what is now Memorial Sloan Kettering Cancer Center. But she was drawn back to Portugal in 1984 to study hemochromatosis, an inherited disease common in the northern part of the country that causes a harmful overload of iron in the blood."
+            },
+            {
+              "type": "text",
+              "value": "De Sousa also had a second mission: to bring scientific rigor to Portugal’s then-weak research institutions. She worked with the country’s science minister to establish outside reviews of university research programs. And de Sousa pushed for Portugal’s first graduate programs in biomedical science, including a highly regarded Ph.D. program that she led at the University of Porto. “She spearheaded a revolution in Portuguese science,” Costa says."
+            },
+            {
+              "type": "text",
+              "value": "De Sousa was not only a creative scientist and demanding mentor; she was also a poet, pianist, and art lover. “She was the quintessential intellectual,” Costa says. After her death, Portugal’s president, Marcelo Rebelo de Sousa, remembered her as “an unmatched figure in Portuguese science.”"
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/jocelyn-kaiser\">Jocelyn Kaiser</a>"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Mishik Kazaryan and Arpik Asratyan"
+            },
+            {
+              "type": "img",
+              "value": "MishikKazaryanandArpikAsratyan.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "In 1980, at the tender age of 32, experimental physicist Mishik Kazaryan won the Soviet Union’s top science prize for his pioneering work on metal vapor lasers. At the same time, his wife—epidemiologist Arpik Asratyan—was making her own mark as a scientist, crisscrossing the vast nation and probing disease outbreaks. The high-achieving couple, who mentored scores of scientists, persevered through the Soviet collapse and the subsequent privations visited on Russian research. But within days of celebrating their 45th wedding anniversary, they succumbed to COVID-19: Asratyan first, on 27 March, and Kazaryan 10 days later."
+            },
+            {
+              "type": "text",
+              "value": "The couple ran a science-first household: Their daughter, Serine Kazaryan, is a gynecologist with the Global Medical System Clinic in Moscow, and their son, Airazat Kazaryan, is a gastrointestinal surgeon at the Østfold Hospital Trust in Grålum, Norway. Talk at the dinner table often revolved around research, and daughter, father, and mother published several papers together."
+            },
+            {
+              "type": "text",
+              "value": "Mishik Kazaryan, born in Armenia, spent his entire working life at one of Russia’s scientific powerhouses, the P. N. Lebedev Physical Institute. His research spanned areas including high-power tunable lasers, laser isotope separation, and laser medicine; he collaborated with Alexander Prokhorov, who shared the 1964 Nobel Prize in Physics for the invention of the laser. Mishik Kazaryan’s “major contribution,” Serine Kazaryan says, was a self-heating copper vapor laser—the brightest pulsed visible-light laser—that found wide use in the precision machining of semiconductors and other materials."
+            },
+            {
+              "type": "text",
+              "value": "Asratyan, also born in Armenia, first studied Mycoplasma hominis, a then–little-known bacterium linked to pelvic inflammatory disease, vaginosis, and respiratory ailments. She became a leading figure in the diagnosis of hepatitis B and C at the Gamaleya Research Institute of Epidemiology and Microbiology, and she spent much of her career working with vulnerable individuals: drug addicts and those with psychiatric afflictions or HIV."
+            },
+            {
+              "type": "text",
+              "value": "“I don’t remember my parents to complain of anything,” says Serine Kazaryan, who lived with her son, daughter, and parents in an apartment in Moscow. They all took ill in mid-March. Serine Kazaryan and her children recovered. Her parents did not."
+            },
+            {
+              "type": "text",
+              "value": "Right up until his last days, Mishik Kazaryan was wrapping up a book about the laser cutting of glass. It was “very touching,” Serine Kazaryan says, when an old friend and co-author, Valery Revenko of the JSC Scientific Research Institute of Technical Glass, vowed to complete it."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/richard-stone\">Richard Stone</a>"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Ricardo Valderrama Fernández"
+            },
+            {
+              "type": "img",
+              "value": "RicardoValderrama.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "Peruvian scientist and politician Ricardo Valderrama Fernández was first in many things. In the 1970s, he was among the first anthropologists to make contact with the Kugapakori, an Indigenous group living in the Peruvian Amazon. He co-founded the first research institute for Andean studies in Cusco in 1974. And in 1977, he wrote a “revolutionary” work on Indigenous, Quechua-speaking laborers, in which—breaking with anthropological traditions of the time—their testimony took center stage."
+            },
+            {
+              "type": "text",
+              "value": "The book, one of the first works on contemporary Andean culture, “broke the barrier” between anthropology and politics, says César Aguilar León, an anthropologist at the National University of San Marcos. Gregorio Condori Mamani: An Autobiography documented the poverty, discrimination, and mistreatment faced by those left behind in a society grappling with the legacy of Spanish colonialism."
+            },
+            {
+              "type": "text",
+              "value": "“We wanted to be the voice of those who are not heard, to write the words of those who cannot read and write,” says Valderrama Fernández’s co-author and wife, anthropologist Carmen Escalante Gutiérrez."
+            },
+            {
+              "type": "text",
+              "value": "The couple always worked together and published four more books and dozens of articles on the legends and customs of the Andean people. They immersed themselves in remote communities and lived alongside Indigenous people for months. Valderrama Fernández’s fluency in abstract Quechua, which included theological and philosophical concepts and terms, helped him speak freely with Andean elders and understand how they adapted their ancient cosmology to the present. His love of the language, which he learned from his grandmother, never diminished. “That’s what made him special,” Escalante Gutiérrez says."
+            },
+            {
+              "type": "text",
+              "value": "Valderrama Fernández taught for 30 years at his alma mater, the National University of Saint Anthony the Abad in Cusco. In his final years, he embarked on a second career in politics, advocating for the region’s Indigenous people. In 2006, he was elected to the municipal council of his hometown; in December 2019, he became interim mayor of Cusco, after his predecessor left office under a cloud of corruption charges."
+            },
+            {
+              "type": "text",
+              "value": "In his new role, Valderrama Fernández led the COVID-19 response in Cusco, visiting markets and other areas of the city to enforce health measures. He caught the virus on one of those visits, and died on 30 August at 75 years old."
+            },
+            {
+              "type": "text",
+              "value": "Jan Szemiński, a historian at the Hebrew University of Jerusalem, says the world has lost a great anthropologist—and someone who embodied the Incan ideal of reciprocity, or ayni: the idea that you should give to others today—knowing that tomorrow, you will receive."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/rodrigo-p-rez-ortega\">Rodrigo Pérez Ortega</a>"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "John Horton Conway"
+            },
+            {
+              "type": "img",
+              "value": "JohnConway.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "John Horton Conway liked to have fun. The U.K.-born mathematician cut a broad path, making important contributions to geometry, group theory, and topology. But unlike some great mathematicians who grind away on inscrutable problems in jealously guarded isolation, Conway—who worked at the University of Cambridge and Princeton University—was gregarious, talkative, and, above all, playful, often drawing deep insights from mathematical games."
+            },
+            {
+              "type": "text",
+              "value": "In the 1970s, while musing about the end stage of the board game Go, Conway expanded the concept of real numbers into something called “surreal numbers,” which are smaller or larger than any positive number. In 1985, he and four colleagues essentially wrapped up an entire subfield of math by identifying all groups with a finite number of elements. (A group is a closed set of elements and a rule akin to addition or multiplication for combining them—for example, all rotations that leave the image of a featureless cube the same.)"
+            },
+            {
+              "type": "text",
+              "value": "Most famously, in 1970 Conway invented something he called the game of life. Imagine a grid of squares, some colored black for “living,” others colored white for “dead,” with rules for changing a square’s color that depend on those of its neighbors. The simple system can produce a shocking variety of moving patterns depending on its initial configuration, and the game became popular as computers made their way into everyday life. Conway showed the squares could also be configured to do computations."
+            },
+            {
+              "type": "text",
+              "value": "As impressive as Conway’s genius was his generosity of spirit, says Marjorie Senechal, a mathematician at Smith College. In the 1990s, she helped organize summer geometry institutes to build bridges among professional mathematicians, math teachers, and students. The first few summers, the pros simply lectured the others, Senechal says. Then she invited Conway, and everything clicked. “He didn’t see these as separate communities,” she says. “He was like the Pied Piper. He’d go to get a coffee and a hundred people would follow him.”"
+            },
+            {
+              "type": "text",
+              "value": "Conway, who died in April at age 82, would prowl the Princeton math department at night, chatting with anyone he could find about his latest interest, recalls Timothy Hsu, a mathematician at San Jose State University who earned his doctorate with Conway in 1995. Unkempt and funny, Conway studiously ignored his mail, but could be reached by phone—in the department common room. “Towards the end of my graduate career, he told me that because math is such a forbidding subject, it helps to make yourself slightly ridiculous,” Hsu says. Conway then teased, “That seems to come naturally to you.”"
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/adrian-cho\">Adrian Cho</a>"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Donald Kennedy"
+            },
+            {
+              "type": "img",
+              "value": "DonKennedy.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "N. DESAI/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "Neurobiologist Donald Kennedy brought a towering intellect, insatiable curiosity, and abiding interest in both the concerns of individuals and the fate of society to everything he did. The longtime faculty member and former president of Stanford University “could talk to people about science without condescending to them,” says research advocate Thomas Grumbly, a friend and colleague. “And he could stand toe to toe with the best scientists in the world.”"
+            },
+            {
+              "type": "text",
+              "value": "Kennedy, who died on 21 April at age 88, relished his role as a scientist, educator, public servant, and communicator—even when his views did not prevail. After Congress refused to embrace his proposed ban on the artificial sweetener saccharine while he was commissioner of the U.S. Food and Drug Administration in the late 1970s, he questioned its logic. The body had “established a principle,” Kennedy said. “You shouldn’t have cancer-causing substances in the food supply, unless people like them a lot.”"
+            },
+            {
+              "type": "text",
+              "value": "That dry wit did him no favors in a subsequent fight with a congressional panel investigating Stanford’s questionable use of federal research funds during his tenure as president. The fallout from that grueling inquiry led him to step down from the presidency in 1991."
+            },
+            {
+              "type": "text",
+              "value": "In 2000, Kennedy became editor-in-chief of Science. He used the platform to prod climate researchers to work harder on public outreach, condemn politicians who bent—or ignored—scientific findings to serve their own purposes, and publish the best research on the planet, including the first sequence of the human genome."
+            },
+            {
+              "type": "text",
+              "value": "Kennedy had been a larger-than-life figure at Stanford, whether dashing around campus on his bike or posing bare-chested with the championship swim team. He brought that enthusiasm to the journal, where he also liked to shine a light on the personal side of science."
+            },
+            {
+              "type": "text",
+              "value": "One of his editorials accompanied a 2005 paper describing a sighting of the ivory-billed woodpecker, long thought to be extinct. Kennedy recounted how, at age 7, he wrote a “fan letter” to famed Cornell University ornithologist Arthur Allen about Allen’s pursuit of the fabled bird. The letter, signed “Love, Donny,” prompted a reply that ended “Love, Arthur.”"
+            },
+            {
+              "type": "text",
+              "value": "The woodpecker sighting didn’t hold up to scrutiny. But Kennedy’s point did: that an encouraging word from a senior scientist could have a lasting impact on a curious child. In fact, one could say Kennedy spent his entire career paying forward that kindness."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/jeffrey-mervis\">Jeffrey Mervis</a>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list-head",
+      "value": "RUNNERS-UP"
+    },
+    {
+      "type": "stories",
+      "value": [
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "First CRISPR cures?"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_SickleCell-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "Sickled blood cells (foreground) have been fixed—at least temporarily—by the gene-editing tool CRISPR."
+            },
+            {
+              "type": "credit",
+              "value": "SCIENCE PICTURE CO/SCIENCE SOURCE"
+            },
+            {
+              "type": "text",
+              "value": "Since the revolutionary genome-snipping tool known as CRISPR burst on the scene in 2012, it has given researchers new power to engineer crops and animals, stirred ethical debates, and earned a Nobel Prize—not to mention Science’s Breakthrough of the Year in 2015. Now, CRISPR is again making waves, scoring its first success in the clinic by treating two inherited blood diseases."
+            },
+            {
+              "type": "text",
+              "value": "People with beta-thalassemia have low levels of the oxygen-carrying hemoglobin protein, leading to weakness and exhaustion; those with sickle cell disease make a defective form of the protein, resulting in sickle-shaped red blood cells that block blood vessels and often cause severe pain, organ damage, and strokes."
+            },
+            {
+              "type": "text",
+              "value": "To treat three sickle cell patients, researchers harvested immature blood cells, known as blood stem cells, from each. They then used CRISPR to disable an “off” switch that—in adults—stops production of the fetal form of hemoglobin, which can counter the effects of the sickling mutation. After the patients received chemotherapy to wipe out their diseased blood stem cells, the CRISPR-treated cells were infused back into their bodies."
+            },
+            {
+              "type": "text",
+              "value": "The patients, treated up to 17 months ago, are now making plentiful fetal hemoglobin, and have not experienced the painful attacks that used to strike every few months, the companies CRISPR Therapeutics and Vertex Pharmaceuticals reported in December. One patient, a young mother of three, says the treatment changed her life. The companies also gave the treatment to seven patients who normally receive blood transfusions for beta-thalassemia. They haven’t needed transfusions since, the companies reported in the same paper and meeting presentation. With more testing, the new treatment could rival the success of gene therapies that treat the two diseases by adding hemoglobin DNA to stem cells. But like gene therapy, the CRISPR approach requires high-tech medical care and could cost"
+            },
+            {
+              "type": "text",
+              "value": "$1 million or more per patient—putting it out of reach for much of Africa, where most people with sickle cell live"
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/jocelyn-kaiser\">Jocelyn Kaiser</a>"
+            },
+            {
+              "type": "references",
               "value": [
-                {
-                  "type": "story-title",
-                  "value": "One’s we’ve lost"
-                },
-                {
-                  "type": "img",
-                  "value": "BOTY_Memorial-1280.jpg"
-                },
-                {
-                  "type": "credit",
-                  "value": "MARK RALSTON/AFP/GETTY IMAGES"
-                },
-                {
-                  "type": "text",
-                  "value": "COVID-19 has made 2020 a cruel year for us all. As Science went to press, the global toll of the pandemic had already exceeded 1.6 million, a tragic number that includes scientists of all specialties, ages, and backgrounds. Behind the mind-numbing total are individuals, each a spark of ingenuity, imagination, and creative spirit. Because we can’t do justice to every life lost, we’ve chosen only a few. In remembering them, we mourn the much larger losses for the scientific community—and the world."
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "Li Wenliang"
-                    },
-                    {
-                      "type": "img",
-                      "value": "LiWenliang.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Li Wenliang did not set out to be a hero. On 30 December 2019, the 33-year-old Wuhan Central Hospital ophthalmologist warned a small group of colleagues that cases of a severe acute respiratory syndrome–like illness had been confirmed in area hospitals. “Don’t spread the word, let your family members take precautions,” he wrote in a brief message."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Someone did spread the word, which went viral. Four days later, Li was called to a meeting with local police, who forced him to confess to spreading rumors. When the young doctor fell ill with COVID-19 less than 1 week later, he took to the microblogging website Sina Weibo to tell his story."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Citizens were outraged at the officials’ tactics. As Li’s condition deteriorated in the early hours of 7 February, millions followed media updates on his condition. When his hospital confirmed his death shortly before 3 a.m., thousands of locked-down Wuhan citizens came to their high-rise windows, calling his name and grieving. He became “the face of COVID-19 in China,” independent social media expert Manya Koetse wrote on her What’s on Weibo website."
-                    },
-                    {
-                      "type": "text",
-                      "value": "The outrage forced an investigation, and in March, officials formally exonerated Li and apologized to his family."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Although his death shook a nation, Li was a modest man dedicated to his work. In one social media post, he apologized to his patients for being irritable, then added that he enjoyed his fried chicken dinner after “thinking about it all day.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Ten months after his death, more than 1.5 million people still follow Li’s Weibo page. His final post, in which he finally reported testing positive for the COVID-19 virus weeks after infection, has drawn more than 1 million comments, with dozens more posted every day. Writers address Li as if he’s an old friend, sharing their daily troubles and future hopes, calling him an inspiration, and sending birthday wishes. Many sent congratulations when his wife gave birth to their second son, about 4 months after Li died."
-                    },
-                    {
-                      "type": "text",
-                      "value": "In early February, Li was “a symbol of public anger against the failure of the Chinese system to address the COVID-19 pandemic,” says Steve Tsang, a political scientist who focuses on China at the SOAS University of London. As China brought the outbreak under control, that anger has largely dissipated. But in the eyes of the public, Li remains the hero he never set out to be."
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Dennis Normile and Bian Huihui"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "Gita Ramjee"
-                    },
-                    {
-                      "type": "img",
-                      "value": "GitaRamjee.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "After finishing her Ph.D., epidemiologist Gita Ramjee made a decision that would change the course of her life—and many others. She paused her work on childhood kidney disease to explore whether vaginal microbicides could protect South African women from contracting HIV. It was 1994, and the world was at the height of the AIDS crisis: Few treatments were available, and no end was in sight. And women, especially sex workers, were being hit increasingly hard."
-                    },
-                    {
-                      "type": "text",
-                      "value": "The largely overlooked plight of these women “sparked her passion,” says Gavin Churchyard, CEO of the Aurum Institute, the HIV and tuberculosis prevention nonprofit where Ramjee was chief scientific officer. “She wouldn’t just sit back and allow things to happen,” Churchyard says. “She would make them happen.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Ramjee, a fierce advocate for women’s health, devoted the rest of her life to searching for ways to prevent HIV infection and providing them to the communities that needed them most. She held herself and colleagues to high standards, Churchyard says, pushing for excellence in an area of research that often had disappointing results. “She was a persevering and dedicated person,” says social scientist Neetha Morar, whom Ramjee mentored at the South African Medical Research Council (SAMRC). “Every time a negative result came through, she would get up and continue on.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Ramjee’s commitment to work was matched only by her devotion to her family, Morar says. When her two sons still lived at home, she would prepare a full meal—with handmade bread—every day before work, to make sure her family ate dinner together in the evening. After her sons left home, Morar says, she kept up the ritual with her husband. She was ecstatic at the birth of her first grandchild and often brought pictures to the office to show colleagues, Churchyard remembers."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Ramjee died on 31 March at age 63. Even months after her passing, her life’s labor is still bearing fruit, says Wafaa El-Sadr, an epidemiologist at Columbia University and longtime collaborator. While at SAMRC, Ramjee oversaw on-site trials for a long-acting antiviral injection recently found to be more effective than a daily pill at preventing HIV in women. “She would have been thrilled,” El-Sadr says. “It’s very bittersweet to have this amazing victory and she’s not around to celebrate.”"
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Lucy Hicks"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "Lynika Strozier"
-                    },
-                    {
-                      "type": "img",
-                      "value": "LynikaStrozier.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Lynika Strozier lay in a hospital bed dying of COVID-19 as Black Lives Matter protesters took to the streets of Chicago in June. The 35-year-old geneticist was a gifted laboratory scientist, a passionate teacher, and a mentor to scores of students, many from underrepresented backgrounds. “Science was her baby,” says her grandmother, Sharon Wright, who raised Strozier from birth."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Her path wasn’t easy. Strozier was diagnosed early in life with a learning disability, and she had to study harder than her peers, Wright says. But she was a natural when it came to lab work, discovering her talent in college when she landed an internship taking care of cell lines at Truman College. “Most of us would have given up—and she always persevered,” says Matt von Konrat, a botanist at the Field Museum who watched Strozier move from intern to research assistant to collections associate at the museum’s Pritzker DNA Laboratory, where she studied evo-lution in liverworts, birds, and other organisms."
-                    },
-                    {
-                      "type": "text",
-                      "value": "By 2018, Strozier had completed two master’s degrees, one in biology and one in science education, before starting a job teaching ecology and evolution in January at Malcolm X College. “We had hoped that that would be just the beginning of her success story,” says Sushma Reddy, an evolutionary biologist at the University of Minnesota, Twin Cities, who was Strozier’s graduate adviser at Loyola University Chicago. She was an inspiring teacher, Reddy says, and she was also someone her students could aspire to be."
-                    },
-                    {
-                      "type": "text",
-                      "value": "“She was literally the first Black scientist I ever met,” says Heaven Wade, a biochemistry undergraduate at Denison University whom Strozier mentored during an internship at the Field Museum. “We all loved her.” Wade, who is also Black, credits Strozier with keeping her in science: When she considered switching her major because she wasn’t feeling “very welcome” in her program, Strozier persuaded her to stay. “She was so encouraging … it really inspired me to keep going.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Even now, Strozier continues to inspire young scientists. Her colleagues came up with the idea of creating an internship in her name, to help women of color gain research experience at the Field Museum. The fund is halfway to its $100,000 goal. “That’s what Lynika would have wanted,” Reddy says"
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Katie Langin"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "John Houghton"
-                    },
-                    {
-                      "type": "img",
-                      "value": "JohnHoughton.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "John Houghton loved a good country walk. So when the British climate scientist, instrumental to sounding the global alarm on climate change, found himself with a free afternoon at the National Center for Atmospheric Research’s Mesa Laboratory near Boulder, Colorado, he headed straight out the back door—and into the Rocky Mountains. He even convinced a handful of fellow visitors, in in-appropriate shoes, to join him as the sunlight waned."
-                    },
-                    {
-                      "type": "text",
-                      "value": "That spirit of exploration was fundamental to Houghton, who began his career in the 1960s developing space-based sensors that used the radiation emitted by carbon dioxide to take the atmosphere’s temperature. Those measurements soon helped make clear that the burning of fossil fuels could, in a few generations, deeply alter the planet. In time, Houghton found himself in a position to make a difference, directing the United Kingdom’s Met Office and helping lead the first three reports from the United Nations’s Intergovernmental Panel on Climate Change (IPCC)."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Houghton was widely regarded as brilliant, but it was his emotional intelligence that made him so effective, says Robert Watson, a former IPCC chairman. “He showed respect for people,” Watson says. During the summit of the third IPCC assessment, published in 2001, government representatives spent the entire first day squabbling over a sentence that explained who was preparing the report. Fellow panelist David Griggs despaired of getting more controversial language approved."
-                    },
-                    {
-                      "type": "text",
-                      "value": "“Everyone wants to hear their own voice,” Houghton told him. “If I allow them to take control now, they’ll allow me more flexibility later.” And sure enough, by the third day, the IPCC scientists were willing to include a sentence that is now seen as a turning point in climate science: “Most of the warming observed over the last 50 years is attributable to human activities.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Like many who led the charge on climate change, Houghton, who died in April at age 88, did not live to see the world mount a credible response. But he never lost faith in humanity, Griggs says. “He always felt, in the end, people would respond and act on climate change.” That optimism may have stemmed in part from Houghton’s deep Christian faith, which led him to engage with climate change skeptics—and sometimes convince them, Watson says."
-                    },
-                    {
-                      "type": "text",
-                      "value": "The hikers who set off from the Mesa Lab that afternoon never made it to the summit, says Griggs, who was among them. A pitch-black night fell, and they were ready to bed down outside—but Houghton believed they’d find the road back."
-                    },
-                    {
-                      "type": "text",
-                      "value": "They did."
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Paul Voosen"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "Lungile Pepeta"
-                    },
-                    {
-                      "type": "img",
-                      "value": "LungilePepeta.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "When the breadwinner of a Xhosa family dies, mourners say umthi omkhulu uwile, a mighty tree has fallen. That’s what family, friends, and colleagues felt when Lungile Pepeta, a leading South African pediatric cardiologist and dean of health sciences at Nelson Mandela University, lost his life to COVID-19 at age 46, says Samkelo Jiyana, a pediatric cardiologist who trained under Pepeta, a tireless champion of rural and child health care."
-                    },
-                    {
-                      "type": "text",
-                      "value": "“He was an incredible person,” says pediatric cardiologist Adèle Greyling, who also trained under Pepeta. “It was a devastating loss for us all.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Pepeta, who grew up in Eastern Cape province, never forgot his roots. After his training in Johannesburg, he returned to the Eastern Cape, where he founded the poverty-stricken province’s first pediatric cardiology unit and began to train others to follow in his footsteps. Before his arrival, children with serious heart conditions were forced to travel hundreds of kilometers—often by bus or even hitchhiking—to medical centers in major cities."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Pepeta’s research at Nelson Mandela University, in the Eastern Cape, focused on congenital heart conditions and rheumatic heart disease, which often arises from untreated streptococcal throat infections. It is a “disease of the poor,” says Jiyana, who now works at Netcare Greenacres Hospital in Port Elizabeth, South Africa. But when the pandemic reached the Eastern Cape, Pepeta launched a public information battle through social media and TV interviews in which he urged social distancing and the isolation of anyone who might be infected. He also called for coordination between the region’s public and private health care systems and advised the provincial government on its pandemic response."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Pepeta did not live to see the achievement of one of his most ambitious dreams: the opening of South Africa’s 10th medical school, at his university. He deliberately located the school on the Missionvale campus—once an apartheid-era university built for Black people—to fulfill its mission of delivering “proper healthcare for all our communities,” he wrote last year."
-                    },
-                    {
-                      "type": "text",
-                      "value": "On his birthday on 16 July, Pepeta was in the hospital with COVID-19 symptoms when he received news that the medical school’s accreditation application had been approved. Soon after, when he was already on high-flow oxygen and within days of being admitted to the intensive care unit, he submitted his final paper to a medical journal. He died on 7 August. “He did the work of two or three other people in his lifetime,” Greyling says. “I don’t think we’ll ever meet anyone like him again.”"
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Cathleen O’Grady"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "Maria de Sousa"
-                    },
-                    {
-                      "type": "img",
-                      "value": "MariadeSousa.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "When Portuguese immunologist Maria de Sousa was teaching at the University of Porto in the 1990s, she would take her students to the city’s famous art museum, in a former 18th century palace. She would tell them to describe a painting, then take a second look. “She wanted to teach people how to see, because people miss what’s there,” says Rui Costa, a neuroscientist at Columbia University and former student."
-                    },
-                    {
-                      "type": "text",
-                      "value": "De Sousa herself looked beyond the obvious in a career that took her to top research centers in the United Kingdom and New York City, then back to her home country. Her discoveries, and her tireless devotion to Portuguese science, earned her the status of a revered hero in the research community. She died in Lisbon, Portugal, on 14 April at age 80."
-                    },
-                    {
-                      "type": "text",
-                      "value": "De Sousa’s work in immunology began in the 1960s, when a dictator ruled Portugal and most young women had no choice but to become homemakers. After earning a medical degree, de Sousa left at age 25 for graduate studies in London and Glasgow, U.K. There, she examined mice from which the thymus—an organ whose role in the immune system was just coming to light—had been removed soon after birth. A whole class of immune cells produced by the thymus was missing from the animals’ lymph nodes. She realized that the cells, now called T cells, must migrate from the thymus to specific areas in the lymph nodes, where they stand ready to fight pathogenic invaders. The discovery soon became part of standard immunology textbooks."
-                    },
-                    {
-                      "type": "text",
-                      "value": "De Sousa moved to New York City in 1975 and later established a cell ecology lab at what is now Memorial Sloan Kettering Cancer Center. But she was drawn back to Portugal in 1984 to study hemochromatosis, an inherited disease common in the northern part of the country that causes a harmful overload of iron in the blood."
-                    },
-                    {
-                      "type": "text",
-                      "value": "De Sousa also had a second mission: to bring scientific rigor to Portugal’s then-weak research institutions. She worked with the country’s science minister to establish outside reviews of university research programs. And de Sousa pushed for Portugal’s first graduate programs in biomedical science, including a highly regarded Ph.D. program that she led at the University of Porto. “She spearheaded a revolution in Portuguese science,” Costa says."
-                    },
-                    {
-                      "type": "text",
-                      "value": "De Sousa was not only a creative scientist and demanding mentor; she was also a poet, pianist, and art lover. “She was the quintessential intellectual,” Costa says. After her death, Portugal’s president, Marcelo Rebelo de Sousa, remembered her as “an unmatched figure in Portuguese science.”"
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Jocelyn Kaiser"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "Mishik Kazaryan and Arpik Asratyan"
-                    },
-                    {
-                      "type": "img",
-                      "value": "MishikKazaryanandArpikAsratyan.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "In 1980, at the tender age of 32, experimental physicist Mishik Kazaryan won the Soviet Union’s top science prize for his pioneering work on metal vapor lasers. At the same time, his wife—epidemiologist Arpik Asratyan—was making her own mark as a scientist, crisscrossing the vast nation and probing disease outbreaks. The high-achieving couple, who mentored scores of scientists, persevered through the Soviet collapse and the subsequent privations visited on Russian research. But within days of celebrating their 45th wedding anniversary, they succumbed to COVID-19: Asratyan first, on 27 March, and Kazaryan 10 days later."
-                    },
-                    {
-                      "type": "text",
-                      "value": "The couple ran a science-first household: Their daughter, Serine Kazaryan, is a gynecologist with the Global Medical System Clinic in Moscow, and their son, Airazat Kazaryan, is a gastrointestinal surgeon at the Østfold Hospital Trust in Grålum, Norway. Talk at the dinner table often revolved around research, and daughter, father, and mother published several papers together."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Mishik Kazaryan, born in Armenia, spent his entire working life at one of Russia’s scientific powerhouses, the P. N. Lebedev Physical Institute. His research spanned areas including high-power tunable lasers, laser isotope separation, and laser medicine; he collaborated with Alexander Prokhorov, who shared the 1964 Nobel Prize in Physics for the invention of the laser. Mishik Kazaryan’s “major contribution,” Serine Kazaryan says, was a self-heating copper vapor laser—the brightest pulsed visible-light laser—that found wide use in the precision machining of semiconductors and other materials."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Asratyan, also born in Armenia, first studied Mycoplasma hominis, a then–little-known bacterium linked to pelvic inflammatory disease, vaginosis, and respiratory ailments. She became a leading figure in the diagnosis of hepatitis B and C at the Gamaleya Research Institute of Epidemiology and Microbiology, and she spent much of her career working with vulnerable individuals: drug addicts and those with psychiatric afflictions or HIV."
-                    },
-                    {
-                      "type": "text",
-                      "value": "“I don’t remember my parents to complain of anything,” says Serine Kazaryan, who lived with her son, daughter, and parents in an apartment in Moscow. They all took ill in mid-March. Serine Kazaryan and her children recovered. Her parents did not."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Right up until his last days, Mishik Kazaryan was wrapping up a book about the laser cutting of glass. It was “very touching,” Serine Kazaryan says, when an old friend and co-author, Valery Revenko of the JSC Scientific Research Institute of Technical Glass, vowed to complete it."
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Richard Stone"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "Ricardo Valderrama Fernández"
-                    },
-                    {
-                      "type": "img",
-                      "value": "RicardoValderrama.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Peruvian scientist and politician Ricardo Valderrama Fernández was first in many things. In the 1970s, he was among the first anthropologists to make contact with the Kugapakori, an Indigenous group living in the Peruvian Amazon. He co-founded the first research institute for Andean studies in Cusco in 1974. And in 1977, he wrote a “revolutionary” work on Indigenous, Quechua-speaking laborers, in which—breaking with anthropological traditions of the time—their testimony took center stage."
-                    },
-                    {
-                      "type": "text",
-                      "value": "The book, one of the first works on contemporary Andean culture, “broke the barrier” between anthropology and politics, says César Aguilar León, an anthropologist at the National University of San Marcos. Gregorio Condori Mamani: An Autobiography documented the poverty, discrimination, and mistreatment faced by those left behind in a society grappling with the legacy of Spanish colonialism."
-                    },
-                    {
-                      "type": "text",
-                      "value": "“We wanted to be the voice of those who are not heard, to write the words of those who cannot read and write,” says Valderrama Fernández’s co-author and wife, anthropologist Carmen Escalante Gutiérrez."
-                    },
-                    {
-                      "type": "text",
-                      "value": "The couple always worked together and published four more books and dozens of articles on the legends and customs of the Andean people. They immersed themselves in remote communities and lived alongside Indigenous people for months. Valderrama Fernández’s fluency in abstract Quechua, which included theological and philosophical concepts and terms, helped him speak freely with Andean elders and understand how they adapted their ancient cosmology to the present. His love of the language, which he learned from his grandmother, never diminished. “That’s what made him special,” Escalante Gutiérrez says."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Valderrama Fernández taught for 30 years at his alma mater, the National University of Saint Anthony the Abad in Cusco. In his final years, he embarked on a second career in politics, advocating for the region’s Indigenous people. In 2006, he was elected to the municipal council of his hometown; in December 2019, he became interim mayor of Cusco, after his predecessor left office under a cloud of corruption charges."
-                    },
-                    {
-                      "type": "text",
-                      "value": "In his new role, Valderrama Fernández led the COVID-19 response in Cusco, visiting markets and other areas of the city to enforce health measures. He caught the virus on one of those visits, and died on 30 August at 75 years old."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Jan Szemiński, a historian at the Hebrew University of Jerusalem, says the world has lost a great anthropologist—and someone who embodied the Incan ideal of reciprocity, or ayni: the idea that you should give to others today—knowing that tomorrow, you will receive."
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Rodrigo Pérez Ortega"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "John Horton Conway"
-                    },
-                    {
-                      "type": "img",
-                      "value": "JohnConway.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "John Horton Conway liked to have fun. The U.K.-born mathematician cut a broad path, making important contributions to geometry, group theory, and topology. But unlike some great mathematicians who grind away on inscrutable problems in jealously guarded isolation, Conway—who worked at the University of Cambridge and Princeton University—was gregarious, talkative, and, above all, playful, often drawing deep insights from mathematical games."
-                    },
-                    {
-                      "type": "text",
-                      "value": "In the 1970s, while musing about the end stage of the board game Go, Conway expanded the concept of real numbers into something called “surreal numbers,” which are smaller or larger than any positive number. In 1985, he and four colleagues essentially wrapped up an entire subfield of math by identifying all groups with a finite number of elements. (A group is a closed set of elements and a rule akin to addition or multiplication for combining them—for example, all rotations that leave the image of a featureless cube the same.)"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Most famously, in 1970 Conway invented something he called the game of life. Imagine a grid of squares, some colored black for “living,” others colored white for “dead,” with rules for changing a square’s color that depend on those of its neighbors. The simple system can produce a shocking variety of moving patterns depending on its initial configuration, and the game became popular as computers made their way into everyday life. Conway showed the squares could also be configured to do computations."
-                    },
-                    {
-                      "type": "text",
-                      "value": "As impressive as Conway’s genius was his generosity of spirit, says Marjorie Senechal, a mathematician at Smith College. In the 1990s, she helped organize summer geometry institutes to build bridges among professional mathematicians, math teachers, and students. The first few summers, the pros simply lectured the others, Senechal says. Then she invited Conway, and everything clicked. “He didn’t see these as separate communities,” she says. “He was like the Pied Piper. He’d go to get a coffee and a hundred people would follow him.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Conway, who died in April at age 82, would prowl the Princeton math department at night, chatting with anyone he could find about his latest interest, recalls Timothy Hsu, a mathematician at San Jose State University who earned his doctorate with Conway in 1995. Unkempt and funny, Conway studiously ignored his mail, but could be reached by phone—in the department common room. “Towards the end of my graduate career, he told me that because math is such a forbidding subject, it helps to make yourself slightly ridiculous,” Hsu says. Conway then teased, “That seems to come naturally to you.”"
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Adrian Cho"
-                    }
-                  ]
-                },
-                {
-                  "type": "story",
-                  "value": [
-                    {
-                      "type": "story-title",
-                      "value": "Donald Kennedy"
-                    },
-                    {
-                      "type": "img",
-                      "value": "DonKennedy.jpg"
-                    },
-                    {
-                      "type": "credit",
-                      "value": "N. DESAI/SCIENCE"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Neurobiologist Donald Kennedy brought a towering intellect, insatiable curiosity, and abiding interest in both the concerns of individuals and the fate of society to everything he did. The longtime faculty member and former president of Stanford University “could talk to people about science without condescending to them,” says research advocate Thomas Grumbly, a friend and colleague. “And he could stand toe to toe with the best scientists in the world.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "Kennedy, who died on 21 April at age 88, relished his role as a scientist, educator, public servant, and communicator—even when his views did not prevail. After Congress refused to embrace his proposed ban on the artificial sweetener saccharine while he was commissioner of the U.S. Food and Drug Administration in the late 1970s, he questioned its logic. The body had “established a principle,” Kennedy said. “You shouldn’t have cancer-causing substances in the food supply, unless people like them a lot.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "That dry wit did him no favors in a subsequent fight with a congressional panel investigating Stanford’s questionable use of federal research funds during his tenure as president. The fallout from that grueling inquiry led him to step down from the presidency in 1991."
-                    },
-                    {
-                      "type": "text",
-                      "value": "In 2000, Kennedy became editor-in-chief of Science. He used the platform to prod climate researchers to work harder on public outreach, condemn politicians who bent—or ignored—scientific findings to serve their own purposes, and publish the best research on the planet, including the first sequence of the human genome."
-                    },
-                    {
-                      "type": "text",
-                      "value": "Kennedy had been a larger-than-life figure at Stanford, whether dashing around campus on his bike or posing bare-chested with the championship swim team. He brought that enthusiasm to the journal, where he also liked to shine a light on the personal side of science."
-                    },
-                    {
-                      "type": "text",
-                      "value": "One of his editorials accompanied a 2005 paper describing a sighting of the ivory-billed woodpecker, long thought to be extinct. Kennedy recounted how, at age 7, he wrote a “fan letter” to famed Cornell University ornithologist Arthur Allen about Allen’s pursuit of the fabled bird. The letter, signed “Love, Donny,” prompted a reply that ended “Love, Arthur.”"
-                    },
-                    {
-                      "type": "text",
-                      "value": "The woodpecker sighting didn’t hold up to scrutiny. But Kennedy’s point did: that an encouraging word from a senior scientist could have a lasting impact on a curious child. In fact, one could say Kennedy spent his entire career paying forward that kindness."
-                    },
-                    {
-                      "type": "byline",
-                      "value": "Jeffrey Mervis"
-                    }
-                  ]
-                },
-                {
-                  "type": "section-head",
-                  "value": "RUNNERS-UP"
-                },
-                {
-                  "type": "stories",
-                  "value": [
-                    {
-                      "type": "story",
-                      "value": [
-                        {
-                          "type": "story-title",
-                          "value": "First CRISPR cures?"
-                        },
-                        {
-                          "type": "img",
-                          "value": "BOTY_SickleCell-1280.jpg"
-                        },
-                        {
-                          "type": "caption",
-                          "value": "Sickled blood cells (foreground) have been fixed—at least temporarily—by the gene-editing tool CRISPR."
-                        },
-                        {
-                          "type": "credit",
-                          "value": "SCIENCE PICTURE CO/SCIENCE SOURCE"
-                        },
-                        {
-                          "type": "text",
-                          "value": "Since the revolutionary genome-snipping tool known as CRISPR burst on the scene in 2012, it has given researchers new power to engineer crops and animals, stirred ethical debates, and earned a Nobel Prize—not to mention Science’s Breakthrough of the Year in 2015. Now, CRISPR is again making waves, scoring its first success in the clinic by treating two inherited blood diseases."
-                        },
-                        {
-                          "type": "text",
-                          "value": "People with beta-thalassemia have low levels of the oxygen-carrying hemoglobin protein, leading to weakness and exhaustion; those with sickle cell disease make a defective form of the protein, resulting in sickle-shaped red blood cells that block blood vessels and often cause severe pain, organ damage, and strokes."
-                        },
-                        {
-                          "type": "text",
-                          "value": "To treat three sickle cell patients, researchers harvested immature blood cells, known as blood stem cells, from each. They then used CRISPR to disable an “off” switch that—in adults—stops production of the fetal form of hemoglobin, which can counter the effects of the sickling mutation. After the patients received chemotherapy to wipe out their diseased blood stem cells, the CRISPR-treated cells were infused back into their bodies."
-                        },
-                        {
-                          "type": "text",
-                          "value": "The patients, treated up to 17 months ago, are now making plentiful fetal hemoglobin, and have not experienced the painful attacks that used to strike every few months, the companies CRISPR Therapeutics and Vertex Pharmaceuticals reported in December. One patient, a young mother of three, says the treatment changed her life. The companies also gave the treatment to seven patients who normally receive blood transfusions for beta-thalassemia. They haven’t needed transfusions since, the companies reported in the same paper and meeting presentation. With more testing, the new treatment could rival the success of gene therapies that treat the two diseases by adding hemoglobin DNA to stem cells. But like gene therapy, the CRISPR approach requires high-tech medical care and could cost"
-                        },
-                        {
-                          "type": "text",
-                          "value": "$1 million or more per patient—putting it out of reach for much of Africa, where most people with sickle cell live"
-                        },
-                        {
-                          "type": "byline",
-                          "value": "Jocelyn Kaiser"
-                        },
-                        {
-                          "type": "references",
-                          "value": [
-                            "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "story",
-                      "value": [
-                        {
-                          "type": "story-title",
-                          "value": "Scientists speak up for diversity"
-                        },
-                        {
-                          "type": "img",
-                          "value": "BOTY_BlackIn-1280.jpg"
-                        },
-                        {
-                          "type": "credit",
-                          "value": "C. SMITH/SCIENCE"
-                        },
-                        {
-                          "type": "text",
-                          "value": "Within days of a racially charged confrontation between a white dog owner and a Black birdwatcher in New York City’s Central Park in late May, scientists flocked to Twitter to celebrate—and support—Black nature enthusiasts. The #BlackBirdersWeek hashtag was soon followed by others, in disciplines from neuroscience to physics, all aiming to create community among Black scientists on Twitter, Zoom, and other platforms. “We’re few and far between, so having us come together as a conglomerate in one virtual space—it really helped,” says Ti’Air Riggins, a biomedical engineering Ph.D. student at Michigan State University who helped organize #BlackInNeuro week."
-                        },
-                        {
-                          "type": "text",
-                          "value": "The social media events took place against the backdrop of the anguished response to police killings in the United States, the Black Lives Matter movement, and discussions within science about the need to create a more equitable, welcoming environment for people of color. Through those discussions, many scientists hoped to reach colleagues who had paid little attention to these issues in the past. “People of color across the board are struggling,” says Tanisha Williams, a botanist at Bucknell University who spearheaded #BlackBotanistsWeek. “It’s a systemic problem.”"
-                        },
-                        {
-                          "type": "text",
-                          "value": "Although it’s too early to tell whether the events of this year will spur lasting change, many are hopeful. “This year feels different,” says Shirley Malcom, a senior adviser at AAAS (publisher of Science) who has worked on diversity, equity, and inclusion issues since the 1970s. “All of a sudden, after George Floyd and everything else that came out after that time, you could at least get people’s attention,” she says—adding that many scientists now seem more open to the idea that systemic racism is a problem in their community."
-                        },
-                        {
-                          "type": "text",
-                          "value": "“I definitely feel like our voices are being heard, and in a different way [than before],” Williams says. “But it’s not going to be a quick fix … we have a long road.”"
-                        },
-                        {
-                          "type": "byline",
-                          "value": "Katie Langin"
-                        },
-                        {
-                          "type": "references",
-                          "value": [
-                            "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "story",
-                      "value": [
-                        {
-                          "type": "story-title",
-                          "value": "Global Warming Forecasts Sharpen"
-                        },
-                        {
-                          "type": "img",
-                          "value": "BOTY_ClimateSensitivity-1280.jpg"
-                        },
-                        {
-                          "type": "caption",
-                          "value": "Clouds are no longer expected to significantly dampen global warming."
-                        },
-                        {
-                          "type": "credit",
-                          "value": "ISS EXPEDITION 7 CREW/EOL/NASA"
-                        },
-                        {
-                          "type": "text",
-                          "value": "More than 40 years ago, the world’s leading climate scientists gathered in Woods Hole, Massachusetts, to answer a simple question: How hot would Earth get if humans kept emitting greenhouse gases? Their answer, informed by rudimentary climate models, was broad: If atmospheric carbon dioxide (CO2) doubled from preindustrial levels, the planet would eventually warm between 1.5°C and 4.5°C, a climate sensitivity range encompassing the merely troubling and the catastrophic. Now, they’ve finally ruled out the mildest scenarios—and the most dire."
-                        },
-                        {
-                          "type": "text",
-                          "value": "Narrowing those bounds has taken decades of scientific advancement. Understanding how clouds trap or reflect heat has been a particular challenge. Depending on their thickness, location, and composition, clouds can amplify warming—or suppress it. Now, high-resolution cloud models, supported by satellite evidence, have shown that global warming thins low, light-blocking clouds: Hotter air dries them out and subdues the turbulence that drives their formation."
-                        },
-                        {
-                          "type": "text",
-                          "value": "Longer and better temperature records have also helped narrow the range. Studies of Earth’s ancient climate, which estimate paleotemperatures and CO2 levels using ice and ocean sediment cores, suggest how greenhouse gases may have driven previous episodes of warming. And modern global warming has now gone on long enough that surface temperatures, 1.1°C hotter than in preindustrial times, can be used to more confidently project trends into the future."
-                        },
-                        {
-                          "type": "text",
-                          "value": "This year, these advances enabled 25 scientists affiliated with the World Climate Research Programme to narrow climate sensitivity to a range between 2.6°C and 3.9°C. The study rules out some of the worst-case scenarios—but it all but guarantees warming that will flood coastal cities, escalate extreme heat waves, and displace millions of people."
-                        },
-                        {
-                          "type": "text",
-                          "value": "If we’re lucky, such clarity might galvanize action. Atmospheric CO2 is already at 420 parts per million—halfway to the doubling point of 560 ppm. Barring more aggressive action on climate change, humanity could reach that threshold by 2060—and lock in the foreseen warming."
-                        },
-                        {
-                          "type": "byline",
-                          "value": "Paul Voosen"
-                        },
-                        {
-                          "type": "references",
-                          "value": [
-                            "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "story",
-                      "value": [
-                        {
-                          "type": "story-title",
-                          "value": "Found: elusive source of fast radio bursts"
-                        },
-                        {
-                          "type": "img",
-                          "value": "BOTY_FastRadioBurst-1280.jpg"
-                        },
-                        {
-                          "type": "caption",
-                          "value": "Magnetars are neutron stars with magnetic fields 100 million times stronger than that of any magnet on Earth."
-                        },
-                        {
-                          "type": "credit",
-                          "value": "© PITRIS/DREAMSTIME.COM"
-                        },
-                        {
-                          "type": "text",
-                          "value": "Everyone loves a good mystery. Take fast radio bursts (FRBs)—short, powerful flashes of radio waves from distant galaxies. For 13 years, they tantalized astronomers keen to understand their origins. One running joke said there were more theories explaining what causes FRBs than there were FRBs. (Currently, astronomers know of more than 100.)"
-                        },
-                        {
-                          "type": "text",
-                          "value": "Now, cosmic sleuths have fingered a likely culprit: magnetars, neutron stars that fizzle and pop with powerful magnetic fields. Because FRBs are so fast, they must come from a small but intense energy source like a magnetar, which are formed when burned-out stars collapse to the size of a city. But although a handful of FRBs had been traced to particular galaxies, no telescope had sharp enough vision to connect them to an individual magnetar at such great distances."
-                        },
-                        {
-                          "type": "text",
-                          "value": "Then, in April, an FRB went off in the Milky Way—close enough that astronomers could examine the scene. The Canadian Hydrogen Intensity Mapping Experiment, a pioneering survey telescope in British Columbia responsible for the discovery of many FRBs, narrowed the source to a small area of sky, which was soon confirmed by the U.S. radio array STARE2. Orbiting observatories sensitive to higher frequencies quickly found that a known magnetar in that part of the sky, called SGR 1935+2154, was acting up at the same time, spewing out bursts of x-rays and gamma rays."
-                        },
-                        {
-                          "type": "text",
-                          "value": "Although astronomers studying FRBs believe they have finally found their perpetrator, they still don’t know exactly how magnetars produce the radio bursts. They could come from close to the magnetar’s surface, as magnetic field lines break and reconnect—similar to the Sun’s flaring behavior. Or they could come from farther out, as shock waves slam into clouds of charged particles and generate laserlike radio pulses. Stay tuned for a sequel: Crack theorists are on the case."
-                        },
-                        {
-                          "type": "byline",
-                          "value": "Daniel Clery"
-                        },
-                        {
-                          "type": "references",
-                          "value": [
-                            "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "story",
-                      "value": [
-                        {
-                          "type": "story-title",
-                          "value": "World’s oldest hunting scene revealed"
-                        },
-                        {
-                          "type": "img",
-                          "value": "BOTY_RockArt-1280.jpg"
-                        },
-                        {
-                          "type": "caption",
-                          "value": "A painting on an Indonesian cave wall shows tiny hunters corralling a dwarf buffalo with ropes or spears."
-                        },
-                        {
-                          "type": "credit",
-                          "value": "RATNO SARDI"
-                        },
-                        {
-                          "type": "text",
-                          "value": "More than 40,000 years ago on the Indonesian island of Sulawesi, a prehistoric Pablo Picasso ventured into the depths of a cave and sketched a series of fantastic animal-headed hunters cornering wild hogs and buffaloes. The age of the paintings, pinned down just 1 year ago, makes them the earliest known figurative art made by modern humans."
-                        },
-                        {
-                          "type": "text",
-                          "value": "In 2017, when an Indonesian researcher chanced across the scene, the figures alone told him he had found something special. The animals appear to be Sulawesi warty pigs and dwarf buffaloes, both of which still live on the island. But it was the animallike features of the eight hunters, armed with spears or ropes, that captivated archaeologists. Several of the hunters seem to have long muzzles or snouts. One sports a tail. Another’s mouth resembles a bird beak."
-                        },
-                        {
-                          "type": "text",
-                          "value": "It’s possible the artist was depicting the hunters wearing masks or camouflage, the researchers say, but they may also represent mythical animal-human hybrids. Such hybrids appear in other ancient works of art, including a 35,000-year-old ivory figurine of a lion-man found in the German Alps."
-                        },
-                        {
-                          "type": "text",
-                          "value": "Parts of the paintings were covered in white, bumpy mineral deposits known as cave popcorn. Uranium in this popcorn decays at a fixed rate, which allowed researchers to date minerals on top of the pigment to about 44,000 years ago. The cave scene must be at least that old—about 4000 years older than any other known figurative rock art, they reported in late December 2019. It decisively unseats Europe as the first place where modern humans are known to have created figurative art."
-                        },
-                        {
-                          "type": "text",
-                          "value": "If the figures do depict mythical human-animal hunters, their creators may have already passed an important cognitive milestone: the ability to imagine beings that do not exist. That, the researchers say, forms the roots of most modern—and ancient—religions."
-                        },
-                        {
-                          "type": "byline",
-                          "value": "Michael Price"
-                        },
-                        {
-                          "type": "references",
-                          "value": [
-                            "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "story",
-                      "value": [
-                        {
-                          "type": "story-title",
-                          "value": "AI disentangles protein folding"
-                        },
-                        {
-                          "type": "img",
-                          "value": "BOTY_ProteinFolding-1280.jpg"
-                        },
-                        {
-                          "type": "caption",
-                          "value": "Structures of a protein that were predicted by artificial intelligence (blue) and experimentally determined (green) match almost perfectly."
-                        },
-                        {
-                          "type": "credit",
-                          "value": "DEEPMIND"
-                        },
-                        {
-                          "type": "text",
-                          "value": "For 5 decades, scientists have struggled to solve one of biology’s biggest challenges: predicting the precise 3D shape a string of amino acids will fold into as it becomes a working protein. This year, they achieved that goal, developing an artificial intelligence (AI) program that predicts most protein structures as accurately as laboratory experiments can map them. Because a protein’s precise shape determines its biochemical functions, the new program could help researchers uncover mechanisms of disease, develop new drugs, and even create drought-tolerant plants and cheaper biofuels."
-                        },
-                        {
-                          "type": "text",
-                          "value": "Researchers traditionally decipher structures using laborious techniques such as x-ray crystallography and cryo–electron microscopy. But detailed molecular maps only exist for about 170,000 of the 200 million known proteins. Computational biologists have dreamed of simply predicting a protein’s structure by modeling the amino acid interactions that govern its 3D shape. But because amino acids can interact in so many ways, the number of possible structures for single protein is astronomical."
-                        },
-                        {
-                          "type": "text",
-                          "value": "In 1994, structural biologists launched a biennial competition called the Critical Assessment of Protein Structure Prediction (CASP). Entrants are given amino acid sequences for about 100 proteins with as-yet-unknown structures. Some groups try to predict their structures, while others map the same structures in the lab; afterward, their results are compared. Even in CASP’s early years, the predictions for small, simple proteins were on par with experimental observations. But predictions for larger, more challenging proteins lagged far behind."
-                        },
-                        {
-                          "type": "text",
-                          "value": "Not anymore. This year, an AI program created by researchers at U.K.-based DeepMind tallied a median score of 92.4 on a 100-point scale, where anything above 90 is considered as accurate as an experimentally derived structure. On the most challenging proteins, the AlphaFold program averaged 87, 25 points ahead of its closest competitor. And because contest rules require competitors to reveal enough of their methods for others to make use of them, organizers say it’s only a matter of months before other groups match AlphaFold’s success."
-                        },
-                        {
-                          "type": "byline",
-                          "value": "Robert F. Service"
-                        },
-                        {
-                          "type": "references",
-                          "value": [
-                            "V. Slon et al., <a href=\"https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf\">The genome of the offspring of a Neanderthal mother and a Denisovan father</a>, Nature, Vol. 561, p. 113, 22 August 2018"
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "section-head",
-                  "value": "RELATED ITEMS"
-                }
+                "H. Frangoul et al., <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2031054\">CRISPR-Cas9 Gene Editing for Sickle Cell Disease and β-Thalassemia</a>, The New England Journal of Medicine, 5 December 2020",
+                "J. Kaiser, <a href=\"http://science.sciencemag.org/content/370/6522/1254\">Tweaking genes with CRISPR or viruses fixes blood disorders</a>, Science, Vol. 370, p. 1254, 11 December 2020"
               ]
             }
           ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Scientists speak up for diversity"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_BlackIn-1280.jpg"
+            },
+            {
+              "type": "credit",
+              "value": "C. SMITH/SCIENCE"
+            },
+            {
+              "type": "text",
+              "value": "Within days of a racially charged confrontation between a white dog owner and a Black birdwatcher in New York City’s Central Park in late May, scientists flocked to Twitter to celebrate—and support—Black nature enthusiasts. The #BlackBirdersWeek hashtag was soon followed by others, in disciplines from neuroscience to physics, all aiming to create community among Black scientists on Twitter, Zoom, and other platforms. “We’re few and far between, so having us come together as a conglomerate in one virtual space—it really helped,” says Ti’Air Riggins, a biomedical engineering Ph.D. student at Michigan State University who helped organize #BlackInNeuro week."
+            },
+            {
+              "type": "text",
+              "value": "The social media events took place against the backdrop of the anguished response to police killings in the United States, the Black Lives Matter movement, and discussions within science about the need to create a more equitable, welcoming environment for people of color. Through those discussions, many scientists hoped to reach colleagues who had paid little attention to these issues in the past. “People of color across the board are struggling,” says Tanisha Williams, a botanist at Bucknell University who spearheaded #BlackBotanistsWeek. “It’s a systemic problem.”"
+            },
+            {
+              "type": "text",
+              "value": "Although it’s too early to tell whether the events of this year will spur lasting change, many are hopeful. “This year feels different,” says Shirley Malcom, a senior adviser at AAAS (publisher of Science) who has worked on diversity, equity, and inclusion issues since the 1970s. “All of a sudden, after George Floyd and everything else that came out after that time, you could at least get people’s attention,” she says—adding that many scientists now seem more open to the idea that systemic racism is a problem in their community."
+            },
+            {
+              "type": "text",
+              "value": "“I definitely feel like our voices are being heard, and in a different way [than before],” Williams says. “But it’s not going to be a quick fix … we have a long road.”"
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/katie-langin\">Katie Langin </a>"
+            },
+            {
+              "type": "references",
+              "value": [
+                "K. Langin, <a href=\"https://www.sciencemag.org/careers/2020/06/i-cant-even-enjoy-blackbirdersweek-organizer-shares-her-struggles-black-scientist\">‘I can’t even enjoy this.’ #BlackBirdersWeek organizer shares her struggles as a black scientist</a>, Science, 5 June 2020",
+                "S. Chen, <a href=\"https://www.sciencemag.org/news/2020/06/researchers-around-world-prepare-shutdownstem-and-strike-black-lives\">Researchers around the world prepare to #ShutDownSTEM and ‘Strike For Black Lives’</a>, Science, 9 June 2020",
+                "G. Barabino, <a href=\"https://science.sciencemag.org/content/369/6509/1277\">Systemic equity in education</a>, Science, Vol. 369, p. 1277, 11 September 2020",
+                "N. Lewis, <a href=\"https://www.sciencemag.org/careers/2020/06/what-ive-learned-about-being-black-scientist\">What I’ve learned about being a Black scientist</a>, Science, 16 July 2020"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Global Warming Forecasts Sharpen"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_ClimateSensitivity-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "Clouds are no longer expected to significantly dampen global warming."
+            },
+            {
+              "type": "credit",
+              "value": "ISS EXPEDITION 7 CREW/EOL/NASA"
+            },
+            {
+              "type": "text",
+              "value": "More than 40 years ago, the world’s leading climate scientists gathered in Woods Hole, Massachusetts, to answer a simple question: How hot would Earth get if humans kept emitting greenhouse gases? Their answer, informed by rudimentary climate models, was broad: If atmospheric carbon dioxide (CO2) doubled from preindustrial levels, the planet would eventually warm between 1.5°C and 4.5°C, a climate sensitivity range encompassing the merely troubling and the catastrophic. Now, they’ve finally ruled out the mildest scenarios—and the most dire."
+            },
+            {
+              "type": "text",
+              "value": "Narrowing those bounds has taken decades of scientific advancement. Understanding how clouds trap or reflect heat has been a particular challenge. Depending on their thickness, location, and composition, clouds can amplify warming—or suppress it. Now, high-resolution cloud models, supported by satellite evidence, have shown that global warming thins low, light-blocking clouds: Hotter air dries them out and subdues the turbulence that drives their formation."
+            },
+            {
+              "type": "text",
+              "value": "Longer and better temperature records have also helped narrow the range. Studies of Earth’s ancient climate, which estimate paleotemperatures and CO2 levels using ice and ocean sediment cores, suggest how greenhouse gases may have driven previous episodes of warming. And modern global warming has now gone on long enough that surface temperatures, 1.1°C hotter than in preindustrial times, can be used to more confidently project trends into the future."
+            },
+            {
+              "type": "text",
+              "value": "This year, these advances enabled 25 scientists affiliated with the World Climate Research Programme to narrow climate sensitivity to a range between 2.6°C and 3.9°C. The study rules out some of the worst-case scenarios—but it all but guarantees warming that will flood coastal cities, escalate extreme heat waves, and displace millions of people."
+            },
+            {
+              "type": "text",
+              "value": "If we’re lucky, such clarity might galvanize action. Atmospheric CO2 is already at 420 parts per million—halfway to the doubling point of 560 ppm. Barring more aggressive action on climate change, humanity could reach that threshold by 2060—and lock in the foreseen warming."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/paul-voosen\">Paul Voosen</a>"
+            },
+            {
+              "type": "references",
+              "value": [
+                "P. Voosen, <a href=\"https://science.sciencemag.org/content/369/6502/354\">Earth’s climate destiny finally seen more clearly</a>, Science, Vol. 369, p. 354, 24 July 2020",
+                "S. C. Sherwood et al., <a href=\"https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019RG000678\">An Assessment of Earth's Climate Sensitivity Using Multiple Lines of Evidence</a>, Reviews of Geophysics, 22 July 2020",
+                "P. Voosen, <a href=\"https://science.sciencemag.org/content/364/6437/222\">New climate models forecast a warming surge</a>, Science, Vol. 364, p. 222, 19 April 2019"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Found: elusive source of fast radio bursts"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_FastRadioBurst-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "Magnetars are neutron stars with magnetic fields 100 million times stronger than that of any magnet on Earth."
+            },
+            {
+              "type": "credit",
+              "value": "© PITRIS/DREAMSTIME.COM"
+            },
+            {
+              "type": "text",
+              "value": "Everyone loves a good mystery. Take fast radio bursts (FRBs)—short, powerful flashes of radio waves from distant galaxies. For 13 years, they tantalized astronomers keen to understand their origins. One running joke said there were more theories explaining what causes FRBs than there were FRBs. (Currently, astronomers know of more than 100.)"
+            },
+            {
+              "type": "text",
+              "value": "Now, cosmic sleuths have fingered a likely culprit: magnetars, neutron stars that fizzle and pop with powerful magnetic fields. Because FRBs are so fast, they must come from a small but intense energy source like a magnetar, which are formed when burned-out stars collapse to the size of a city. But although a handful of FRBs had been traced to particular galaxies, no telescope had sharp enough vision to connect them to an individual magnetar at such great distances."
+            },
+            {
+              "type": "text",
+              "value": "Then, in April, an FRB went off in the Milky Way—close enough that astronomers could examine the scene. The Canadian Hydrogen Intensity Mapping Experiment, a pioneering survey telescope in British Columbia responsible for the discovery of many FRBs, narrowed the source to a small area of sky, which was soon confirmed by the U.S. radio array STARE2. Orbiting observatories sensitive to higher frequencies quickly found that a known magnetar in that part of the sky, called SGR 1935+2154, was acting up at the same time, spewing out bursts of x-rays and gamma rays."
+            },
+            {
+              "type": "text",
+              "value": "Although astronomers studying FRBs believe they have finally found their perpetrator, they still don’t know exactly how magnetars produce the radio bursts. They could come from close to the magnetar’s surface, as magnetic field lines break and reconnect—similar to the Sun’s flaring behavior. Or they could come from farther out, as shock waves slam into clouds of charged particles and generate laserlike radio pulses. Stay tuned for a sequel: Crack theorists are on the case."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/daniel-clery\">Daniel Clery</a>"
+            },
+            {
+              "type": "references",
+              "value": [
+                "CHIME/FRB Collaboration, <a href=\"https://www.nature.com/articles/s41586-020-2863-y\">A bright millisecond-duration radio burst from a Galactic magnetar</a>, Nature, Vol. 587, p. 54, 4 November 2020",
+                "C. D. Bochenek et al., <a href=\"https://www.nature.com/articles/s41586-020-2872-x\">A fast radio burst associated with a Galactic magnetar</a>, Nature, Vol. 587, p. 59, 4 November 2020",
+                "L. Lin et al., <a href=\"https://www.nature.com/articles/s41586-020-2839-y\">No pulsed radio emission during a bursting phase of a Galactic magnetar</a>, Nature, Vol. 587, p. 63, 4 November 2020",
+                "D. Clery, <a href=\"https://www.sciencemag.org/news/2020/06/galactic-flash-points-long-sought-source-enigmatic-radio-bursts\">Galactic flash points to long-sought source for enigmatic radio bursts</a>, Science, 8 June 2020",
+                "D. Clery, <a href=\"https://science.sciencemag.org/content/363/6432/1138\">Flashes in the scan</a>, Science, Vol. 363, p. 1138, 15 March 2019"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "World’s oldest hunting scene revealed"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_RockArt-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "A painting on an Indonesian cave wall shows tiny hunters corralling a dwarf buffalo with ropes or spears."
+            },
+            {
+              "type": "credit",
+              "value": "RATNO SARDI"
+            },
+            {
+              "type": "text",
+              "value": "More than 40,000 years ago on the Indonesian island of Sulawesi, a prehistoric Pablo Picasso ventured into the depths of a cave and sketched a series of fantastic animal-headed hunters cornering wild hogs and buffaloes. The age of the paintings, pinned down just 1 year ago, makes them the earliest known figurative art made by modern humans."
+            },
+            {
+              "type": "text",
+              "value": "In 2017, when an Indonesian researcher chanced across the scene, the figures alone told him he had found something special. The animals appear to be Sulawesi warty pigs and dwarf buffaloes, both of which still live on the island. But it was the animallike features of the eight hunters, armed with spears or ropes, that captivated archaeologists. Several of the hunters seem to have long muzzles or snouts. One sports a tail. Another’s mouth resembles a bird beak."
+            },
+            {
+              "type": "text",
+              "value": "It’s possible the artist was depicting the hunters wearing masks or camouflage, the researchers say, but they may also represent mythical animal-human hybrids. Such hybrids appear in other ancient works of art, including a 35,000-year-old ivory figurine of a lion-man found in the German Alps."
+            },
+            {
+              "type": "text",
+              "value": "Parts of the paintings were covered in white, bumpy mineral deposits known as cave popcorn. Uranium in this popcorn decays at a fixed rate, which allowed researchers to date minerals on top of the pigment to about 44,000 years ago. The cave scene must be at least that old—about 4000 years older than any other known figurative rock art, they reported in late December 2019. It decisively unseats Europe as the first place where modern humans are known to have created figurative art."
+            },
+            {
+              "type": "text",
+              "value": "If the figures do depict mythical human-animal hunters, their creators may have already passed an important cognitive milestone: the ability to imagine beings that do not exist. That, the researchers say, forms the roots of most modern—and ancient—religions."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/michael-price\">Michael Price</a>"
+            },
+            {
+              "type": "references",
+              "value": [
+                "N. Conard, <a href=\"https://www.nature.com/articles/nature02186/\">Palaeolithic ivory sculptures from southwestern Germany and the origins of figurative art</a>, Nature, Vol. 426, p. 830, 18 December 2003",
+                "M. Aubert et al., <a href=\"https://www.journals.uchicago.edu/doi/10.1086/694414\">The Timing and Nature of Human Colonization of Southeast Asia in the Late Pleistocene: A Rock Art Perspective</a>, Current Anthropology, Vol. 58, p. S553, 15 November 2017",
+                "D. L. Hoffmann et al., <a href=\"https://science.sciencemag.org/content/359/6378/912\">U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art</a>, Science, Vol. 359, p. 912, 23 February 2018",
+                "M. Price, <a href=\"https://www.sciencemag.org/news/2019/12/world-s-oldest-hunting-scene-shows-half-human-half-animal-figures-and-sophisticated\">World’s oldest hunting scene shows half-human, half-animal figures—and a sophisticated imagination</a>, Science, 11 December 2019"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "AI disentangles protein folding"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_ProteinFolding-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "Structures of a protein that were predicted by artificial intelligence (blue) and experimentally determined (green) match almost perfectly."
+            },
+            {
+              "type": "credit",
+              "value": "DEEPMIND"
+            },
+            {
+              "type": "text",
+              "value": "For 5 decades, scientists have struggled to solve one of biology’s biggest challenges: predicting the precise 3D shape a string of amino acids will fold into as it becomes a working protein. This year, they achieved that goal, developing an artificial intelligence (AI) program that predicts most protein structures as accurately as laboratory experiments can map them. Because a protein’s precise shape determines its biochemical functions, the new program could help researchers uncover mechanisms of disease, develop new drugs, and even create drought-tolerant plants and cheaper biofuels."
+            },
+            {
+              "type": "text",
+              "value": "Researchers traditionally decipher structures using laborious techniques such as x-ray crystallography and cryo–electron microscopy. But detailed molecular maps only exist for about 170,000 of the 200 million known proteins. Computational biologists have dreamed of simply predicting a protein’s structure by modeling the amino acid interactions that govern its 3D shape. But because amino acids can interact in so many ways, the number of possible structures for single protein is astronomical."
+            },
+            {
+              "type": "text",
+              "value": "In 1994, structural biologists launched a biennial competition called the Critical Assessment of Protein Structure Prediction (CASP). Entrants are given amino acid sequences for about 100 proteins with as-yet-unknown structures. Some groups try to predict their structures, while others map the same structures in the lab; afterward, their results are compared. Even in CASP’s early years, the predictions for small, simple proteins were on par with experimental observations. But predictions for larger, more challenging proteins lagged far behind."
+            },
+            {
+              "type": "text",
+              "value": "Not anymore. This year, an AI program created by researchers at U.K.-based DeepMind tallied a median score of 92.4 on a 100-point scale, where anything above 90 is considered as accurate as an experimentally derived structure. On the most challenging proteins, the AlphaFold program averaged 87, 25 points ahead of its closest competitor. And because contest rules require competitors to reveal enough of their methods for others to make use of them, organizers say it’s only a matter of months before other groups match AlphaFold’s success."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/robert-f-service\">Robert F. Service</a>"
+            },
+            {
+              "type": "references",
+              "value": [
+                "R. F. Service, <a href=\"https://science.sciencemag.org/content/370/6521/1144\">‘The game has changed.’ AI triumphs at protein folding</a>, Science, Vol. 370, p. 1144, 4 December 2020",
+                "R. F. Service, <a href=\"https://www.sciencemag.org/news/2018/12/google-s-deepmind-aces-protein-folding\">Google’s DeepMind aces protein folding</a>, Science, 6 December 2018"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "How elite controllers keep HIV at bay"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_HIV-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "HIV (dark blue) inserts itself into host DNA."
+            },
+            {
+              "type": "credit",
+              "value": "JANET IWAS/CC BY NC SA"
+            },
+            {
+              "type": "text",
+              "value": "HIV, like all retroviruses, has a nasty feature that allows it to dodge attack: It integrates its genetic material into human chromosomes, creating “reservoirs” where it can hide, undetected by the immune system and invulnerable to antiretroviral drugs. But where it hides may make all the difference."
+            },
+            {
+              "type": "text",
+              "value": "This year, a study of 64 HIV-infected people who have been healthy for years without antiretroviral drugs reveals a link between their unusual success and where the virus has hunkered down in their genomes. Although the new understanding of these “elite controllers” won’t lead directly to a cure, it opens up a novel strategy that may routinely allow other infected people to live for decades without treatment."
+            },
+            {
+              "type": "text",
+              "value": "Many studies have examined elite controllers, who make up about 0.5% of the 38 million people living with HIV. But this new work stood apart in size and scope, comparing integrated HIV in the 64 elite controllers with that in 41 HIV-infected people on treatment. HIV does best when it slots itself within genes. When the cell transcribes the genes, the integrated HIV, or “provirus,” can produce new viruses that infect other cells. If it parks in “gene deserts,” portions of chromosomes that rarely transcribe DNA, the provirus sits around like a fully functioning car stuck in a place that doesn’t sell gas."
+            },
+            {
+              "type": "text",
+              "value": "The study found that in the elite controllers, 45% of functioning proviruses resided in gene deserts, compared with just 17.8% for the people on treatment. Presumably, immune responses in the elite controllers somehow cleared proviruses from the more dangerous parking spots. Now, the challenge is to figure out interventions that will train the immune systems of the vast majority of people living with HIV to behave similarly."
+            },
+            {
+              "type": "text",
+              "value": "That new insight suggests long-standing, frustrating attempts to cure people by eliminating HIV reservoirs may be too ambitious an approach. Instead, success may depend on shrinking—and then making peace with—these reservoirs, and minding the old real estate dictum of location, location, location."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/jon-cohen\">Jon Cohen</a>"
+            },
+            {
+              "type": "references",
+              "value": [
+                "C. Jiang et al., <a href=\"https://www.nature.com/articles/s41586-020-2651-8\">Distinct viral reservoirs in individuals with spontaneous control of HIV-1</a>, Nature, Vol. 585, p. 261, 26 August 2020",
+                "J. Cohen, <a href=\"https://www.sciencemag.org/news/2020/08/how-elite-controllers-tame-hiv-without-drugs\">How ‘elite controllers’ tame HIV without drugs</a>, Science, 26 August 2020"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Birds are smarter than you think"
+            },
+            {
+              "type": "img",
+              "value": "BOTY_Birdbrains-1280.jpg"
+            },
+            {
+              "type": "caption",
+              "value": "This homing pigeon may have the necessary neural anatomy for consciousness."
+            },
+            {
+              "type": "credit",
+              "value": "RUTH SWAN/ALAMY STOCK PHOTO"
+            },
+            {
+              "type": "text",
+              "value": "Their eyes are beady and their brains are no bigger than a walnut. But two studies published this year suggest birds have startling mental powers. One reveals that part of the avian brain resembles the human neocortex, the source of human intelligence. The other shows that carrion crows are even more aware than researchers had thought—and may be capable of some conscious thought."
+            },
+            {
+              "type": "text",
+              "value": "In humans, the neocortex consists of horizontal layers laced with interconnected columns of nerve cells, which allow for complex thinking. Bird brains, in contrast, were thought to be arranged in simple clusters of nerve cells. By using a technique called 3D polarized light imaging, neuroanatomists took a closer look at the forebrain of homing pigeons and owls and found that nerves there connect both horizontally—like the layers in the neocortex—and vertically, echoing the columns seen in human brains."
+            },
+            {
+              "type": "text",
+              "value": "Another team of scientists probed this part of the brains of carrion crows— well-known for their intelligence—for clues that they are aware of what they see and do. The researchers first trained lab-raised crows to turn their heads when they saw certain sequences of lights flashing on a computer monitor. Electrodes in the crows’ brains detected nerve activity between the moment the birds saw the signal and when they moved their heads. The activity developed even when the lights were barely detectable, suggesting it was not simply a response to sensory input, and it was present regardless of whether the birds reacted. The scientists think the neural chatter represents a kind of awareness—a mental representation of what the birds saw."
+            },
+            {
+              "type": "text",
+              "value": "Such “sensory consciousness” is a rudimentary form of the self-awareness that humans experience. Its presence in both birds and mammals suggests to the researchers that some form of consciousness may date back 320 million years, to our last common ancestor."
+            },
+            {
+              "type": "byline",
+              "value": "<a href=\"https://www.sciencemag.org/author/elizabeth-pennisi\">Elizabeth Pennisi</a>"
+            },
+            {
+              "type": "references",
+              "value": [
+                "A. Nieder et al., <a href=\"https://science.sciencemag.org/content/369/6511/1626\">A neural correlate of sensory consciousness in a corvid bird</a>, Science, Vol. 369, p. 1626, 25 September 2020",
+                "S. Herculano-Houzel, <a href=\"https://science.sciencemag.org/content/369/6511/1567\">Birds do have a brain cortex—and think</a>, Science, Vol. 369, p. 1567, 25 September 2020",
+                "V. Morell, <a href=\"https://www.sciencemag.org/news/2020/09/newfound-brain-structure-explains-why-some-birds-are-so-smart-and-maybe-even-self-aware\">Newfound brain structure explains why some birds are so smart—and maybe even self-aware</a>, Science, 24 September 2020",
+                "M. Stacho et al., <a href=\"https://science.sciencemag.org/content/369/6511/eabc5534?ijkey=7d66b2c60ddec779a314af6a27efa0eae4f7bdb8&keytype2=tf_ipsecsha\">A cortex-like canonical circuit in the avian forebrain</a>, Science, Vol. 369, 25 September 2020"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list-head",
+      "value": "RELATED ITEMS"
+    },
+    {
+      "type": "stories",
+      "value": [
+        {
+          "type": "link",
+          "value": {
+            "text": "Video",
+            "url": "#video"
+          }
+        },
+        {
+          "type": "link",
+          "value": {
+            "text": "Editorial",
+            "url": ""
+          }
+        },
+        {
+          "type": "link",
+          "value": {
+            "text": "Podcast",
+            "url": ""
+          }
+        },
+        {
+          "type": "link",
+          "value": {
+            "text": "Crossword",
+            "url": ""
+          }
         }
       ]
     }

@@ -1,0 +1,6 @@
+<script>
+  import data from "../data/timeline";
+  console.log(data);
+</script>
+
+<div class="timeline" />

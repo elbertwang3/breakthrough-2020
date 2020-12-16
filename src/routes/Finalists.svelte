@@ -3,20 +3,260 @@
   import SectionHead from "../elements/SectionHead.svelte";
   import ListHead from "../elements/ListHead.svelte";
   import Stories from "../elements/Stories.svelte";
+  import ListHeader from "../elements/ListHeader.svelte";
+  import SectionStories from "../elements/SectionStories.svelte";
 
-  console.log(finalists);
   const { content } = finalists;
+  let menuContentActive = false;
+
+  function hideMenu() {
+    menuContentActive = false;
+  }
+  console.log(content);
   const menuTypes = {
-    "section-head": ListHead,
+    "list-head": ListHead,
+    "list-header": ListHeader,
     stories: Stories,
   };
 
   const elementTypes = {
-    "section-head": SectionHead,
+    "list-head": SectionHead,
+    "list-header": SectionHead,
+    stories: SectionStories,
   };
 </script>
 
-<header>
+<style>
+  /* your styles go here */
+  .addthis_inline_share_toolbox_h50m {
+    display: none;
+  }
+
+  .toggle-btn {
+    display: block;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 110 !important;
+    padding: 0;
+    width: 60px;
+    height: 60px;
+  }
+
+  .toggle-btn img {
+    width: 30px;
+    height: 20px;
+    opacity: 1;
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+
+  .toggle-btn.active img {
+    opacity: 0.5;
+  }
+  header {
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #dbdbdb;
+    width: 100%;
+    left: 0;
+    z-index: 99;
+    height: 40px;
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    overflow-y: scroll;
+  }
+
+  .nav-side-menu {
+    font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 0;
+  }
+  .brand {
+    height: 40px;
+    width: 100%;
+    background-color: #000;
+  }
+  .navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+  }
+  .brand img {
+    margin-left: 0;
+    height: 1.25rem;
+    margin-top: -5px;
+  }
+  .nav-side-menu .toggle-btn {
+    display: block;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 110 !important;
+    padding: 0;
+    width: 60px;
+    height: 60px;
+  }
+  .menu-content {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+    opacity: 0;
+    height: 0;
+    width: 100%;
+    pointer-events: none;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+
+  .menu-content.active {
+    pointer-events: auto;
+    opacity: 1;
+    height: auto;
+  }
+  li.list-placeholder {
+    height: 10px;
+    list-style: none;
+  }
+
+  .interstitial {
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .overline {
+    color: #df897c;
+    /* color: #d40016; */
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
+    letter-spacing: 0.5px;
+  }
+  .priority-3 {
+    font-size: 0.6rem;
+    margin: 7.5px 0;
+    line-height: 1.2;
+    color: #dbdbdb;
+  }
+
+  .priority-3 a {
+    color: #75a8c3;
+  }
+  article {
+    background-color: white;
+    color: #333;
+    width: 100%;
+    overflow-x: hidden;
+    font-size: 14px;
+  }
+  .text-container {
+    margin: auto;
+    padding: 5em 1em 0 1em;
+    width: 100%;
+  }
+
+  @media (min-width: 768px) {
+    .text-container {
+      padding-top: 2em;
+    }
+    header {
+      height: 100%;
+      width: 35%;
+      z-index: 0;
+      background-color: #000;
+      /* overflow-y: scroll;
+      position: fixed; */
+    }
+
+    .nav-side-menu {
+      width: 100%;
+      height: auto;
+    }
+    .brand a {
+      width: 100%;
+      padding: 0;
+      margin: 0;
+    }
+    .brand a img {
+      height: 1.5rem;
+      margin-left: 15px;
+      margin-top: 15px;
+    }
+    .nav-side-menu .toggle-btn {
+      display: none;
+    }
+    .menu-content {
+      display: block;
+      opacity: 1 !important;
+      padding-left: 0 !important;
+      height: auto !important;
+      pointer-events: auto !important;
+    }
+    li.list-placeholder {
+      height: 0;
+    }
+    article {
+      width: 65%;
+      margin-left: 35%;
+    }
+    .text-container {
+      width: 83.33333333%;
+    }
+  }
+
+  @media (min-width: 992px) {
+    header {
+      width: 30%;
+    }
+    article {
+      width: 70%;
+      margin-left: 30%;
+    }
+
+    .text-container {
+      width: 66.66666667%;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    header {
+      width: 400px;
+    }
+    article {
+      width: calc(100vw - 400px);
+      margin-left: 400px;
+    }
+    .text-container {
+      width: 66.66666667%;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    article.active {
+      margin: 0;
+      height: 100vh;
+      overflow: hidden;
+    }
+    header.active {
+      height: auto !important;
+    }
+  }
+</style>
+
+<header class:active={menuContentActive}>
   <div class="nav-side-menu">
     <div class="brand">
       <a href="//www.sciencemag.org/" class="navbar-brand"><img
@@ -25,7 +265,12 @@
           src="../img/logo-science.svg" /></a>
     </div>
     <div
+      on:click={() => {
+        console.log('getting clicked');
+        menuContentActive = !menuContentActive;
+      }}
       class="toggle-btn"
+      class:active={menuContentActive}
       id="toggle-btn"
       data-toggle="collapse"
       data-target="#menu-content"
@@ -33,37 +278,19 @@
       <img src="../img/collapse_btn.jpg" alt="A menu button." />
     </div>
     <div class="menu-list">
-      <ul id="menu-content" class="menu-content">
-        <li class="list-placeholder">&nbsp;</li>
+      <ul
+        id="menu-content"
+        class="menu-content"
+        class:active={menuContentActive}>
+        <li class="list-placeholder" />
         {#each content as { type, value }, i}
-          <svelte:component this={menuTypes[type]} {value} />
+          <svelte:component this={menuTypes[type]} {value} {hideMenu} />
         {/each}
-        <ul class="sub-menu related">
-          <li
-            class="related"
-            id="video-li"
-            name="video"
-            data-interactive-action="video">
-            Video
-          </li>
-          <li
-            class="related right"
-            name="not"
-            data-interactive-action="editorial">
-            <a
-              href="https://science.sciencemag.org/content/366/6472/1423"
-              target="_blank">Editorial</a>
-          </li>
-          <li class="related" name="not" data-interactive-action="podcast">
-            <a
-              href="https://www.sciencemag.org/podcast/breakthrough-year-our-favorite-online-news-stories-and-year-books"
-              target="_blank">Podcast</a>
-          </li>
-        </ul>
+
         <div class="article__body">
           <div
             class="interstitial"
-            style="margin-top:10px;padding:10px 0;border-top:1px solid #ddd;border-bottom:1px solid #ddd">
+            style="margin-top:10px; border-top:1px solid #ddd;border-bottom:1px solid #ddd">
             <form
               name="myForm"
               method="POST"
@@ -429,8 +656,8 @@
   </div>
   <div
     class="addthis_inline_share_toolbox_h50m"
-    data-url="https://vis.sciencemag.org/breakthrough2019/finalists/"
-    data-title="And the biggest scientific breakthrough of 2019 is …"
+    data-url="https://vis.sciencemag.org/breakthrough2020/finalists/"
+    data-title="And the biggest scientific breakthrough of 2020 is …"
     data-description="Science chooses the top scientific achievement of the year, plus nine runners-up"
     style="clear: both;">
     <div
@@ -535,3 +762,10 @@
     </div>
   </div>
 </header>
+<article class:active={menuContentActive}>
+  <div class="text-container">
+    {#each content as { type, value }, i}
+      <svelte:component this={elementTypes[type]} {value} />
+    {/each}
+  </div>
+</article>

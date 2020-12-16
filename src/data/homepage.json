@@ -1,10 +1,10 @@
 {
   "config": {
     "url": "https://vis.sciencemag.org/breakthrough2020/",
-    "share_title": "And the biggest scientific breakthrough of 2019 is …",
-    "description": "Science chooses the top scientific achievement of the year, plus nine runners-up",
+    "share_title": "Science's Breakthrough of the Year 2020: shots of hope in a pandemic-ravaged world",
+    "description": "Swiftly developed vaccines may curb COVID-19, even as second pandemic of misinformation rages",
     "pub_date": "17 December 2020",
-    "promo": "https://vis.sciencemag.org/breakthrough202020/social.jpg",
+    "promo": "https://vis.sciencemag.org/breakthrough2020/social.jpg",
     "byline": "<a href=\"https://www.sciencemag.org/author/jon-cohen\">Jon Cohen</a>",
     "hed": "Shots of hope",
     "dek": "Desperately needed vaccines against COVID-19, developed and tested at record speed, are 2020’s breakthrough"
@@ -19,7 +19,7 @@
       "value": [
         {
           "text": "Watch a related video",
-          "url": "#/finalists/#video"
+          "url": "finalists/#video"
         },
         {
           "text": "Do our crossword",
@@ -36,19 +36,19 @@
       "value": [
         {
           "title": "A divisive disease",
-          "url": "#/finalists",
+          "url": "finalists",
           "img": "BOTY_DivisiveDisease-1280.jpg",
           "alt": ""
         },
         {
           "title": "Ones we’ve lost",
-          "url": "#/finalists",
+          "url": "finalists",
           "img": "BOTY_Memorial-1280.jpg",
           "alt": ""
         },
         {
           "title": "A year like no other",
-          "url": "#/finalists#timeline",
+          "url": "finalists#timeline",
           "img": "timeline_homepage.png",
           "alt": ""
         }
@@ -110,7 +110,7 @@
           "alt": ""
         },
         {
-          "title": "Birds aresmarter thanyou think",
+          "title": "Birds are smarter than you think",
           "url": "",
           "img": "BOTY_Birdbrains-1280.jpg",
           "alt": ""

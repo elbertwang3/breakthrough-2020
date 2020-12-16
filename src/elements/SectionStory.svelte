@@ -1,7 +1,10 @@
 <script>
   export let value;
   let els = value;
-  const slug = value[0].value.replace(/\s+/g, "-").toLowerCase();
+  const slug = value[0].value
+    .replace(/\s+/g, "-")
+    .replace("?", "")
+    .toLowerCase();
 </script>
 
 <style>

@@ -1,5 +1,6 @@
 <script>
   export let value;
+  console.log(value);
 </script>
 
 <style>
@@ -22,7 +23,11 @@
 
 <div class="grid article-spine">
   {#each value as item}
-    <a href={item.url}>
+    <a
+      href={`#/finalists/${item.title
+        .replace(/\s+/g, '-')
+        .replace('?', '')
+        .toLowerCase()}`}>
       <img class="img-responsive" src={`img/${item.img}`} alt={item.alt} />
       <h4 class="story-title">{item.title}</h4>
     </a>

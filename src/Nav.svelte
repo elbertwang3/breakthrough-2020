@@ -27,7 +27,7 @@
       </li>
     </ul>
   </nav>
-  <div
+  <!-- <div
     class="addthis_inline_share_toolbox_h50m"
     data-url="https://vis.sciencemag.org/breakthrough2019/index.html"
     data-title="And the biggest scientific breakthrough of 2019 is …"
@@ -138,5 +138,5 @@
             style="font-size: 10.5px; line-height: 20px; color: rgb(255, 255, 255);">40</span></a>
       </div>
     </div>
-  </div>
+  </div>-->
 </header>

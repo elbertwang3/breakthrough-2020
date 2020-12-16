@@ -3,4 +3,4 @@
   console.log(data);
 </script>
 
-<div class="timeline" />
+<div class="timeline" id="timeline" />

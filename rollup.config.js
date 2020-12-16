@@ -46,7 +46,6 @@ export default [
       svelte({
         compilerOptions: {
           // enable run-time checks when not in production
-          hydratable: true,
           dev: !production,
         },
       }),
@@ -81,22 +80,5 @@ export default [
     watch: {
       clearScreen: false,
     },
-  },
-  {
-    input: "src/App.svelte",
-    output: {
-      sourcemap: false,
-      format: "cjs",
-      name: "app",
-      file: "public/App.js",
-    },
-    plugins: [
-      svelte({
-        generate: "ssr",
-      }),
-      resolve(),
-      commonjs(),
-      production && terser(),
-    ],
   },
 ];

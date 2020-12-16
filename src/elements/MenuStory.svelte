@@ -1,7 +1,10 @@
 <script>
   export let value, hideMenu;
   const storyTitle = value[0].value;
-  const storySlug = storyTitle.replace(/\s+/g, "-").toLowerCase();
+  const storySlug = storyTitle
+    .replace(/\s+/g, "-")
+    .replace("?", "")
+    .toLowerCase();
   // console.log(storySlug);
   // console.log(storyTitle);
 </script>
@@ -40,5 +43,5 @@
   on:click={() => {
     hideMenu();
   }}>
-  <a href={`#${storySlug}`}> {storyTitle}</a>
+  <a href={`#/finalists/${storySlug}`}> {storyTitle}</a>
 </li>

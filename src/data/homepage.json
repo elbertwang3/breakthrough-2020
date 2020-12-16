@@ -19,7 +19,7 @@
       "value": [
         {
           "text": "Watch a related video",
-          "url": "finalists/#video"
+          "url": "#/finalists#video"
         },
         {
           "text": "Do our crossword",
@@ -36,19 +36,19 @@
       "value": [
         {
           "title": "A divisive disease",
-          "url": "finalists",
+          "url": "#/finalists/a-divisive-disease",
           "img": "BOTY_DivisiveDisease-1280.jpg",
           "alt": ""
         },
         {
           "title": "Ones we’ve lost",
-          "url": "finalists",
+          "url": "#/finalists/one’s-we’ve-lost",
           "img": "BOTY_Memorial-1280.jpg",
           "alt": ""
         },
         {
           "title": "A year like no other",
-          "url": "finalists#timeline",
+          "url": "#/finalists/timeline",
           "img": "timeline_homepage.png",
           "alt": ""
         }
@@ -63,55 +63,46 @@
       "value": [
         {
           "title": "First CRISPR cures?",
-          "url": "",
           "img": "BOTY_SickleCell-1280.jpg",
           "alt": ""
         },
         {
           "title": "Scientists speak up for diversity",
-          "url": "",
           "img": "BOTY_BlackIn-1280.jpg",
           "alt": ""
         },
         {
           "title": "Global warming forecasts sharpen",
-          "url": "",
           "img": "BOTY_ClimateSensitivity-1280.jpg",
           "alt": ""
         },
         {
           "title": "Found: elusive source of fast radio bursts",
-          "url": "",
           "img": "BOTY_FastRadioBurst-1280.jpg",
           "alt": ""
         },
         {
           "title": "World’s oldest hunting scene revealed",
-          "url": "",
           "img": "BOTY_RockArt-1280.jpg",
           "alt": ""
         },
         {
           "title": "AI disentangles protein folding",
-          "url": "",
           "img": "BOTY_ProteinFolding-1280.jpg",
           "alt": ""
         },
         {
           "title": "How elite controllers keep HIV at bay",
-          "url": "",
           "img": "BOTY_HIV-1280.jpg",
           "alt": ""
         },
         {
           "title": "Room temperature superconductivity finally achieved",
-          "url": "",
           "img": "BOTY_Superconductivity-1280.jpg",
           "alt": ""
         },
         {
           "title": "Birds are smarter than you think",
-          "url": "",
           "img": "BOTY_Birdbrains-1280.jpg",
           "alt": ""
         }

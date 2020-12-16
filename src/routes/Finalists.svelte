@@ -1,4 +1,5 @@
 <script>
+  import { onMount, beforeUpdate, afterUpdate } from "svelte";
   import finalists from "../data/finalists";
   import SectionHead from "../elements/SectionHead.svelte";
   import ListHead from "../elements/ListHead.svelte";
@@ -6,6 +7,8 @@
   import ListHeader from "../elements/ListHeader.svelte";
   import SectionStories from "../elements/SectionStories.svelte";
 
+  export let params = {};
+  console.log(params.wild);
   const { content } = finalists;
   let menuContentActive = false;
 
@@ -24,6 +27,14 @@
     "list-header": SectionHead,
     stories: SectionStories,
   };
+
+  afterUpdate(() => {
+    if (params.wild) {
+      var elmnt = document.getElementById(params.wild);
+      console.log(elmnt);
+      elmnt.scrollIntoView();
+    }
+  });
 </script>
 
 <style>
@@ -654,7 +665,7 @@
       </ul>
     </div>
   </div>
-  <div
+  <!-- <div
     class="addthis_inline_share_toolbox_h50m"
     data-url="https://vis.sciencemag.org/breakthrough2020/finalists/"
     data-title="And the biggest scientific breakthrough of 2020 is …"
@@ -760,7 +771,7 @@
               </g></svg></span></a>
       </div>
     </div>
-  </div>
+  </div> -->
 </header>
 <article class:active={menuContentActive}>
   <div class="text-container">

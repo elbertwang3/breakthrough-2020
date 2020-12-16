@@ -1,3 +1,7 @@
+<script>
+  const year = new Date().getFullYear();
+</script>
+
 <footer class="row row--footer">
   <div class="container container--footer">
     <div class="footer__header">
@@ -11,9 +15,7 @@
     <div class="footer__body">
       <p class="copyright-statement">
         ©
-        <script type="text/javascript">
-          document.write(new Date().getFullYear());
-        </script>2020
+        {year}
         <a href="//www.aaas.org">American Association for the Advancement of
           Science</a>. All rights Reserved. AAAS is a partner of
         <a href="https://www.who.int/hinari/en/">HINARI</a>,

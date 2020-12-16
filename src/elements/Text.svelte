@@ -9,4 +9,6 @@
   }
 </style>
 
-<p class="article-text article-spine">{value}</p>
+<p class="article-text article-spine">
+  {@html value}
+</p>

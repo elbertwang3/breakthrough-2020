@@ -3,7 +3,6 @@
   import MenuLink from "./MenuLink.svelte";
   export let value, hideMenu;
 
-  console.log(value);
   const menuTypes = {
     story: MenuStory,
     link: MenuLink,

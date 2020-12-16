@@ -12,6 +12,15 @@
   .more-actions a {
     font-weight: 400;
   }
+  a,
+  a:visited {
+    color: #75a8c3;
+  }
+
+  a:hover {
+    color: #21718c;
+    text-decoration: none;
+  }
 </style>
 
 <div class="more-actions lightpink article-spine">

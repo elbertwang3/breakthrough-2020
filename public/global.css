@@ -14,16 +14,14 @@ html {
 body {
   margin: 0;
 }
-
+/* 
 header {
   width: 100%;
-  background-color: #42403c;
-  background: rgb(0, 0, 0);
   position: fixed;
   height: 50px;
   top: 0;
   z-index: 99;
-}
+} */
 
 footer {
   background-color: #0e202b;
@@ -789,7 +787,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
  */
 
 .navbar.navbar-default {
-  background-color: black;
+  background-color: #1a1a1a;
   min-height: 1.25rem;
   max-height: 40px;
   border-bottom: none;
@@ -875,7 +873,7 @@ header.navbar {
 }
 
 .row--footer {
-  background-color: black;
+  background-color: #1a1a1a;
   font-family: Roboto Condensed, Helvetica, sans-serif;
   width: 100%;
   vertical-align: bottom !important;
@@ -983,7 +981,6 @@ html {
 .byline a,
 .research a {
   font-family: Roboto, Helvetica, Arial, sans-serif;
-  color: #eb7500;
   font-weight: 700;
   background-image: none;
 }
@@ -1315,7 +1312,7 @@ html {
   position: absolute;
   top: 0px;
   left: 0;
-  z-index: -100;
+  z-index: 0;
 }
 
 .closing_content {
@@ -1343,9 +1340,18 @@ html {
 
 .byline a {
   font-family: Roboto, Helvetica, Arial, sans-serif;
-  color: #37588a;
   font-weight: 700;
   background-image: none;
+}
+
+.byline a,
+.byline a:visited {
+  color: #75a8c3;
+}
+
+.byline a:hover {
+  color: #21718c;
+  text-decoration: none;
 }
 
 .byline em.time {

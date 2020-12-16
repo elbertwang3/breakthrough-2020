@@ -18,8 +18,23 @@
     margin: 0 auto;
   }
 
-  img {
+  a img {
     width: 100%;
+    transition: opacity 0.3s;
+  }
+
+  a,
+  a:visited {
+    color: #dbdbdb;
+  }
+
+  a:hover {
+    color: #75a8c3;
+    text-decoration: none;
+  }
+
+  a:hover img {
+    opacity: 0.5;
   }
 </style>
 

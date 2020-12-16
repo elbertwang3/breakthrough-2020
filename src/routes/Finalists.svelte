@@ -78,6 +78,7 @@
     bottom: 0;
     position: fixed;
     overflow-y: scroll;
+    overflow-x: hidden;
   }
 
   .nav-side-menu {
@@ -148,7 +149,7 @@
   }
 
   .overline {
-    color: #df897c;
+    color: #75a8c3;
     /* color: #d40016; */
     text-transform: uppercase;
     font-size: 0.75rem;

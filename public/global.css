@@ -189,6 +189,7 @@ p a {
 }
 
 p a:hover {
+  color: #21718c;
   text-decoration: none;
 }
 
@@ -1373,10 +1374,11 @@ h1.year {
   text-transform: uppercase;
   text-shadow: none;
   font-weight: 700;
-  font-size: 6em;
+  font-size: 15vw;
   line-height: 1;
   margin-top: 0;
   margin-bottom: 0;
+  text-shadow: 2px 2px 5px black;
 }
 
 .article-spine {

@@ -27,6 +27,10 @@
     background-color: #000025;
     font-size: 16px;
   }
+  .titlebreak {
+    font-size: 6vw;
+    text-shadow: 2px 2px 5px black;
+  }
   .article-head {
     font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
     font-size: 2em;

@@ -16,8 +16,9 @@
 <style>
 </style>
 
+<!-- 
 <svelte:head>
   <Metas />
-</svelte:head>
+</svelte:head> -->
 
 <Router {routes} />

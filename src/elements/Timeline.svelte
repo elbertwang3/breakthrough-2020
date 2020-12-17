@@ -47,15 +47,15 @@
   }
 
   .timeline-chart {
-    height: 4000px;
+    height: 5000px;
   }
 
-  @media only screen and (max-width: 400px) {
+  /* @media only screen and (max-width: 400px) {
     .timeline-chart {
       margin-top: 2em;
       height: 5000px;
     }
-  }
+  } */
 </style>
 
 <div class="timeline" id="a-year-like-no-other">

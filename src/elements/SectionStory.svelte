@@ -5,6 +5,7 @@
     .replace(/\s+/g, "-")
     .replace("?", "")
     .replace("’", "")
+    .replace("'", "")
     .toLowerCase();
 </script>
 

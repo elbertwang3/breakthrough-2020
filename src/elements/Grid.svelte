@@ -48,6 +48,8 @@
       href={`#/finalists/${item.title
         .replace(/\s+/g, '-')
         .replace('?', '')
+        .replace('’', '')
+        .replace("'", '')
         .toLowerCase()}`}>
       <img class="img-responsive" src={`img/${item.img}`} alt={item.alt} />
       <h4 class="story-title">{item.title}</h4>

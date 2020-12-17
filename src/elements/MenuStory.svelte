@@ -4,6 +4,8 @@
   const storySlug = storyTitle
     .replace(/\s+/g, "-")
     .replace("?", "")
+    .replace("’", "")
+                  .replace('\'', '')
     .toLowerCase();
   // console.log(storySlug);
   // console.log(storyTitle);

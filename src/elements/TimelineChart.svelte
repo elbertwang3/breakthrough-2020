@@ -83,7 +83,7 @@
   } */
 
   .img-container {
-    width: 75%;
+    width: 65%;
   }
 
   .img-container img {
@@ -101,15 +101,20 @@
   }
 
   .brain_timeline {
-    height: 100px;
+    height: 90px;
   }
 
   .paper_timeline {
-    height: 80px;
+    height: 70px;
+  }
+
+  .DNA_timeline {
+    height: 100px;
   }
 
   .brain_timeline img,
-  .paper_timeline img {
+  .paper_timeline img,
+  .DNA_timeline img {
     width: auto;
     height: 100%;
   }

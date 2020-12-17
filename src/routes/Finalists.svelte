@@ -1,5 +1,5 @@
 <script>
-  import { onMount, beforeUpdate, afterUpdate } from "svelte";
+  import { onMount, beforeUpdate, afterUpdate, tick } from "svelte";
   import finalists from "../data/finalists";
   import SectionHead from "../elements/SectionHead.svelte";
   import ListHead from "../elements/ListHead.svelte";
@@ -28,24 +28,12 @@
     stories: SectionStories,
   };
 
-  $: if (params.wild) {
-    console.log(params.wild);
-    let elmnt = document.getElementById(params.wild);
-    console.log(elmnt);
-    if (elmnt) {
-      console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
-      elmnt.scrollIntoView({
-        behavior: "smooth",
-        block: "start",
-        inline: "nearest",
-      });
-    }
-  }
-  // afterUpdate(() => {
-
-  //   if (params.wild) {
-  //     var elmnt = document.getElementById(params.wild);
-  //     console.log(elmnt);
+  // $: if (params.wild) {
+  //   console.log(params.wild);
+  //   tick();
+  //   let elmnt = document.getElementById(params.wild);
+  //   console.log(elmnt);
+  //   if (elmnt) {
   //     console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
   //     elmnt.scrollIntoView({
   //       behavior: "smooth",
@@ -53,7 +41,39 @@
   //       inline: "nearest",
   //     });
   //   }
-  // });
+  // }
+  beforeUpdate(async () => {
+    if (params.wild) {
+      console.log(params.wild);
+      let elmnt = document.getElementById(params.wild);
+      if (!elmnt) {
+        console.log("NULL FIRST");
+        await tick();
+        elmnt = document.getElementById(params.wild);
+        console.log(elmnt);
+        console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
+        let yOffset = window.pageYOffset + elmnt.getBoundingClientRect().top;
+        // window.scrollTo({
+        //   top: yOffset,
+        //   left: 0,
+        //   behavior: "auto",
+        // });
+        elmnt.scrollIntoView({
+          behavior: "auto",
+          block: "start",
+          inline: "nearest",
+        });
+      } else {
+        console.log("NOT NULL FIRST");
+        console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
+        elmnt.scrollIntoView({
+          behavior: "auto",
+          block: "start",
+          inline: "nearest",
+        });
+      }
+    }
+  });
 </script>
 
 <style>

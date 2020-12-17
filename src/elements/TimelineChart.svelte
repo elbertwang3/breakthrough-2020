@@ -60,7 +60,7 @@
 
   .event-text {
     font-weight: 400;
-    font-size: 14px;
+    font-size: 13px;
     line-height: 16px;
     margin: 0;
   }

@@ -798,7 +798,7 @@
             },
             {
               "type": "text",
-              "value": "In 2000, Kennedy became editor-in-chief of <i>Science<i>. He used the platform to prod climate researchers to work harder on public outreach, condemn politicians who bent—or ignored—scientific findings to serve their own purposes, and publish the best research on the planet, including the first sequence of the human genome."
+              "value": "In 2000, Kennedy became editor-in-chief of <i>Science</i>. He used the platform to prod climate researchers to work harder on public outreach, condemn politicians who bent—or ignored—scientific findings to serve their own purposes, and publish the best research on the planet, including the first sequence of the human genome."
             },
             {
               "type": "text",
@@ -1020,7 +1020,7 @@
               "type": "references",
               "value": [
                 "CHIME/FRB Collaboration, <a href=\"https://www.nature.com/articles/s41586-020-2863-y\">A bright millisecond-duration radio burst from a Galactic magnetar</a>, <i>Nature</i>, Vol. 587, p. 54, 4 November 2020",
-                "C. D. Bochenek<i>et al.</i>, <a href=\"https://www.nature.com/articles/s41586-020-2872-x\">A fast radio burst associated with a Galactic magnetar</a>, <i>Nature</i>, Vol. 587, p. 59, 4 November 2020",
+                "C. D. Bochenek <i>et al.</i>, <a href=\"https://www.nature.com/articles/s41586-020-2872-x\">A fast radio burst associated with a Galactic magnetar</a>, <i>Nature</i>, Vol. 587, p. 59, 4 November 2020",
                 "L. Lin <i>et al.</i>, <a href=\"https://www.nature.com/articles/s41586-020-2839-y\">No pulsed radio emission during a bursting phase of a Galactic magnetar</a>, <i>Nature</i>, Vol. 587, p. 63, 4 November 2020",
                 "D. Clery, <a href=\"https://www.sciencemag.org/news/2020/06/galactic-flash-points-long-sought-source-enigmatic-radio-bursts\">Galactic flash points to long-sought source for enigmatic radio bursts</a>, <i>Science</i>, 8 June 2020",
                 "D. Clery, <a href=\"https://science.sciencemag.org/content/363/6432/1138\">Flashes in the scan</a>, <i>Science</i>, Vol. 363, p. 1138, 15 March 2019"
@@ -1226,7 +1226,7 @@
               "value": [
                 "R. F. Service, <a href=\"https://science.sciencemag.org/content/370/6514/273\">At last, room temperature superconductivity achieved</a>, <i>Science</i>, Vol. 370, p. 273, 16 October 2020",
                 "A. P. Drozdov <i>et al</i>., <a href=\"https://www.nature.com/articles/nature14964\">Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system</a>, <i>Nature</i>, Vol. 525, p. 73, 17 August 2015",
-                "E. Snider <i>et al</i>., <a href=\"https://www.nature.com/articles/s41586-020-2801-z\">Room-temperature superconductivity in a carbonaceous sulfur hydride</a>, </i>Nature</i>, Vol. 586, p. 373, 14 October 2020"
+                "E. Snider <i>et al</i>., <a href=\"https://www.nature.com/articles/s41586-020-2801-z\">Room-temperature superconductivity in a carbonaceous sulfur hydride</a>, <i>Nature</i>, Vol. 586, p. 373, 14 October 2020"
               ]
             }
           ]

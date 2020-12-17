@@ -4,6 +4,7 @@
   const slug = value[0].value
     .replace(/\s+/g, "-")
     .replace("?", "")
+    .replace("’", "")
     .toLowerCase();
 </script>
 

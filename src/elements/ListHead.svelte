@@ -1,5 +1,5 @@
 <script>
-  export let value;
+  export let value, hideMenu;
 </script>
 
 <style>
@@ -37,6 +37,12 @@
   }
 </style>
 
-<li class="primary" name="not" data-interactive-action="to-toc">
+<li
+  on:click={() => {
+    hideMenu();
+  }}
+  class="primary"
+  name="not"
+  data-interactive-action="to-toc">
   <a href={value.url}>{value.text}</a>
 </li>

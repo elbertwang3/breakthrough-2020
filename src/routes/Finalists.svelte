@@ -290,7 +290,7 @@
       <a href="//www.sciencemag.org/" class="navbar-brand"><img
           id="finalist_navbarimg"
           alt="Science"
-          src="../img/logo-science.svg" /></a>
+          src="img/logo-science.svg" /></a>
     </div>
     <div
       on:click={() => {

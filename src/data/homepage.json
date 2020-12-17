@@ -12,15 +12,23 @@
   "content": [
     {
       "type": "text",
-      "value": "In March, when cases of COVID-19 began to overwhelm hospitals in the United States, I told my 90-year-old mother that she had to shelter in place. She lives alone in Los Angeles, and to keep her company, I FaceTimed her every night. In the role reversal that happens with time, I became the forever-worried, nagging parent, and she was the ever-doubting, defiant child. <a href=\"#/finalists/shots-of-hope\">Read more …</a>"
+      "value": "In March, when cases of COVID-19 began to overwhelm hospitals in the United States, I told my 90-year-old mother that she had to shelter in place. She lives alone in Los Angeles, and to keep her company, I FaceTimed her every night. In the role reversal that happens with time, I became the forever-worried, nagging parent, and she was the ever-doubting, defiant child."
+    },
+    {
+      "type": "text",
+      "value": "Over my increasingly loud objections, she’d gone to the mall with her sister, had her nails done, and lost 56 cents playing mahjong with “the girls.” The world she knew was dying, and after a few weeks of denial, bargaining, and anger, she finally entered the grief stages of depression and acceptance and quarantined herself."
+    },
+    {
+      "type": "text",
+      "value": "My mother’s loneliness, fear, and boredom sometimes make me feel like our chats are jailhouse visits on phones separated by a glass wall. “I didn’t leave my house today—again,” she says, day after day, as though it were my fault. “Same everything. Same nothing.” And she plaintively asks the same question."
+    },
+    {
+      "type": "text",
+      "value": "“When is this going to end?” <a href=\"#/finalists/shots-of-hope\">Read more …</a>"
     },
     {
       "type": "links",
       "value": [
-        {
-          "text": "Watch a related video",
-          "url": "#/finalists#video"
-        },
         {
           "text": "Do our crossword",
           "url": ""
@@ -28,6 +36,10 @@
         {
           "text": "Listen to our podcast",
           "url": "https://www.sciencemag.org/podcast/breakthrough-year-our-favorite-online-news-stories-and-year-books"
+        },
+        {
+          "text": "Do our crossword",
+          "url": ""
         }
       ]
     },
@@ -38,19 +50,19 @@
           "title": "A divisive disease",
           "url": "#/finalists/a-divisive-disease",
           "img": "BOTY_DivisiveDisease-1280.jpg",
-          "alt": ""
+          "alt": "Illustration of a chaotic scene of laboratory cubicles with scientists running around, working together, studying COVID-19, with hints of distrust in science also going on."
         },
         {
           "title": "Ones we’ve lost",
           "url": "#/finalists/one’s-we’ve-lost",
           "img": "BOTY_Memorial-1280.jpg",
-          "alt": ""
+          "alt": "A woman places flowers down next to a large poster with photos of Li Wenliang."
         },
         {
-          "title": "A year like no other",
+          "title": "Timeline: A year like no other",
           "url": "#/finalists/timeline",
           "img": "timeline_homepage.png",
-          "alt": ""
+          "alt": "A graphic of a timeline from January to April, with icons of a bat, virus, brain, mask and Sars-CoV-2 label."
         }
       ]
     },
@@ -64,47 +76,47 @@
         {
           "title": "First CRISPR cures?",
           "img": "BOTY_SickleCell-1280.jpg",
-          "alt": ""
+          "alt": "An illustration of red blood cells and sickle cells on a black background."
         },
         {
           "title": "Scientists speak up for diversity",
           "img": "BOTY_BlackIn-1280.jpg",
-          "alt": ""
+          "alt": "A graphic with gray twitter hashtags on a black background, overlaid with the word “#BlackIn”"
         },
         {
           "title": "Global warming forecasts sharpen",
           "img": "BOTY_ClimateSensitivity-1280.jpg",
-          "alt": ""
+          "alt": "An aerial view of the earth from low atmosphere."
         },
         {
           "title": "Found: elusive source of fast radio bursts",
           "img": "BOTY_FastRadioBurst-1280.jpg",
-          "alt": ""
+          "Alt": "An illustration of a bright neutron star in the center, with multiple blue radial magnetic lines extending in a semi-circle around the star."
         },
         {
           "title": "World’s oldest hunting scene revealed",
           "img": "BOTY_RockArt-1280.jpg",
-          "alt": ""
+          "alt": "Brown markings on yellowish rocks show the shape of a large buffalo next to small human figures with spears."
         },
         {
           "title": "AI disentangles protein folding",
           "img": "BOTY_ProteinFolding-1280.jpg",
-          "alt": ""
+          "alt": "Blue and green ribbon protein crystal structure."
         },
         {
           "title": "How elite controllers keep HIV at bay",
           "img": "BOTY_HIV-1280.jpg",
-          "alt": ""
+          "Alt": "HIV inserting itself into a strand of DNA."
         },
         {
           "title": "Room temperature superconductivity finally achieved",
           "img": "BOTY_Superconductivity-1280.jpg",
-          "alt": ""
+          "alt": "A flat sheet of hydrogen, sulfur, and carbon pinned between two diamonds."
         },
         {
           "title": "Birds are smarter than you think",
           "img": "BOTY_Birdbrains-1280.jpg",
-          "alt": ""
+          "Alt": "The top half of a homing pigeon on a green background."
         }
       ]
     }

@@ -6,11 +6,15 @@
   .subhed {
     text-align: center;
     font-weight: 400;
-    text-transform: uppercase;
-
     border-bottom: 1px solid #dbdbdb;
     line-height: 0.1em;
-    margin: 10px auto 20px;
+    margin: 3em auto 20px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .subhed {
+      margin: 3em 0.8em 20px;
+    }
   }
   .subhed span {
     background: #000025;

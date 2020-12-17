@@ -14,22 +14,6 @@ html {
 body {
   margin: 0;
 }
-/* 
-header {
-  width: 100%;
-  position: fixed;
-  height: 50px;
-  top: 0;
-  z-index: 99;
-} */
-
-footer {
-  background-color: #0e202b;
-}
-
-p {
-  font-size: 16px;
-}
 
 img {
   width: 100%;
@@ -874,7 +858,7 @@ header.navbar {
 }
 
 .row--footer {
-  background-color: #1a1a1a;
+  background-color: #222;
   font-family: Roboto Condensed, Helvetica, sans-serif;
   width: 100%;
   vertical-align: bottom !important;
@@ -892,7 +876,7 @@ header.navbar {
 .footer__header {
   max-width: 100px;
   line-height: 1;
-  margin: 1em 1em 0 0;
+  margin: 1em 2em 0 0;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 100px;
   flex: 0 0 100px;
@@ -1382,9 +1366,15 @@ h1.year {
 }
 
 .article-spine {
-  max-width: 720px;
+  max-width: 768px;
   margin: auto;
-  padding: 0 1em;
+  /* padding: 0 1em; */
+}
+
+@media only screen and (max-width: 768px) {
+  .article-spine {
+    margin: 0 1em;
+  }
 }
 
 article {
@@ -1416,9 +1406,9 @@ article {
 .cover-header {
   position: absolute;
   z-index: 2;
-  top: 50%;
+  top: 60%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -40%);
   color: white;
 }
 

@@ -14,24 +14,10 @@
 </script>
 
 <style>
-  ul {
-    position: fixed;
-    height: 100px;
-    z-index: 10000000;
-  }
 </style>
 
 <svelte:head>
   <Metas />
 </svelte:head>
 
-<!-- <Router {url}>
-  <Route path="finalists" component={Finalists} />
-  <Route path="/" component={Home} />
-</Router> -->
-
-<ul>
-  <li><a href="#/">Home</a></li>
-  <li><a href="#/finalists">Say hi!</a></li>
-</ul>
 <Router {routes} />

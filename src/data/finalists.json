@@ -2,7 +2,10 @@
   "content": [
     {
       "type": "list-header",
-      "value": "2020 BREAKTHROUGH OF THE YEAR"
+      "value": {
+        "text": "2020 BREAKTHROUGH OF THE YEAR",
+        "url": ".."
+      }
     },
     {
       "type": "stories",
@@ -143,7 +146,19 @@
               "value": "<a href=\"https://www.sciencemag.org/author/jon-cohen\">Jon Cohen</a>"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "list-head",
+      "value": {
+        "text": "BREAKDOWN OF THE YEAR",
+        "url": "#/finalists/breakdown-of-the-year"
+      }
+    },
+    {
+      "type": "stories",
+      "value": [
         {
           "type": "story",
           "value": [
@@ -259,13 +274,19 @@
         },
         {
           "type": "timeline",
-          "value": {}
+          "value": {
+            "text": "Timeline: A year like no other",
+            "url": "#/finalists/timeline:-a-year-like-no-other"
+          }
         }
       ]
     },
     {
       "type": "list-head",
-      "value": "OBITUARIES"
+      "value": {
+        "text": "OBITUARIES",
+        "url": "#/finalists/obituaries"
+      }
     },
     {
       "type": "stories",
@@ -301,6 +322,10 @@
             {
               "type": "img",
               "value": "LiWenliang.jpg"
+            },
+            {
+              "type": "img_type",
+              "value": "float"
             },
             {
               "type": "credit",
@@ -352,6 +377,10 @@
               "value": "GitaRamjee.jpg"
             },
             {
+              "type": "img_type",
+              "value": "float"
+            },
+            {
               "type": "credit",
               "value": "N. DESAI/SCIENCE"
             },
@@ -391,6 +420,10 @@
             {
               "type": "img",
               "value": "LynikaStrozier.jpg"
+            },
+            {
+              "type": "img_type",
+              "value": "float"
             },
             {
               "type": "credit",
@@ -434,6 +467,10 @@
               "value": "JohnHoughton.jpg"
             },
             {
+              "type": "img_type",
+              "value": "float"
+            },
+            {
               "type": "credit",
               "value": "N. DESAI/SCIENCE"
             },
@@ -451,7 +488,7 @@
             },
             {
               "type": "text",
-              "value": "“Everyone wants to hear their own voice,” Houghton told him. “If I allow them to take control now, they’ll allow me more flexibility later.” And sure enough, by the third day, the IPCC scientists were willing to include a sentence that is now seen as a turning point in climate science: “Most of the warming observed over the last 50 years is attributable to human activities.”"
+              "value": "“Everyone wants to hear their own voice,” Houghton told him. “If I allow them to take control now, they’ll allow me more flexibility later.” And sure enough, by the third day, the representatives were willing to include a sentence that is now seen as a turning point in climate science: “Most of the warming observed over the last 50 years is attributable to human activities.”"
             },
             {
               "type": "text",
@@ -481,6 +518,10 @@
             {
               "type": "img",
               "value": "LungilePepeta.jpg"
+            },
+            {
+              "type": "img_type",
+              "value": "float"
             },
             {
               "type": "credit",
@@ -528,6 +569,10 @@
               "value": "MariadeSousa.jpg"
             },
             {
+              "type": "img_type",
+              "value": "float"
+            },
+            {
               "type": "credit",
               "value": "N. DESAI/SCIENCE"
             },
@@ -573,6 +618,10 @@
               "value": "MishikKazaryanandArpikAsratyan.jpg"
             },
             {
+              "type": "img_type",
+              "value": "float"
+            },
+            {
               "type": "credit",
               "value": "N. DESAI/SCIENCE"
             },
@@ -616,6 +665,10 @@
             {
               "type": "img",
               "value": "RicardoValderrama.jpg"
+            },
+            {
+              "type": "img_type",
+              "value": "float"
             },
             {
               "type": "credit",
@@ -667,6 +720,10 @@
               "value": "JohnConway.jpg"
             },
             {
+              "type": "img_type",
+              "value": "float"
+            },
+            {
               "type": "credit",
               "value": "N. DESAI/SCIENCE"
             },
@@ -706,6 +763,10 @@
             {
               "type": "img",
               "value": "DonKennedy.jpg"
+            },
+            {
+              "type": "img_type",
+              "value": "float"
             },
             {
               "type": "credit",
@@ -749,7 +810,10 @@
     },
     {
       "type": "list-head",
-      "value": "RUNNERS-UP"
+      "value": {
+        "text": "RUNNERS-UP",
+        "url": "#/finalists/runners-up"
+      }
     },
     {
       "type": "stories",
@@ -873,7 +937,7 @@
             },
             {
               "type": "text",
-              "value": "More than 40 years ago, the world’s leading climate scientists gathered in Woods Hole, Massachusetts, to answer a simple question: How hot would Earth get if humans kept emitting greenhouse gases? Their answer, informed by rudimentary climate models, was broad: If atmospheric carbon dioxide (CO2) doubled from preindustrial levels, the planet would eventually warm between 1.5°C and 4.5°C, a climate sensitivity range encompassing the merely troubling and the catastrophic. Now, they’ve finally ruled out the mildest scenarios—and the most dire."
+              "value": "More than 40 years ago, the world’s leading climate scientists gathered in Woods Hole, Massachusetts, to answer a simple question: How hot would Earth get if humans kept emitting greenhouse gases? Their answer, informed by rudimentary climate models, was broad: If atmospheric carbon dioxide (CO<sub>2</sub>) doubled from preindustrial levels, the planet would eventually warm between 1.5°C and 4.5°C, a climate sensitivity range encompassing the merely troubling and the catastrophic. Now, they’ve finally ruled out the mildest scenarios—and the most dire."
             },
             {
               "type": "text",
@@ -1213,37 +1277,46 @@
     },
     {
       "type": "list-head",
-      "value": "RELATED ITEMS"
+      "value": {
+        "text": "RELATED ITEMS",
+        "url": "#/finalists/related-items"
+      }
     },
     {
       "type": "stories",
       "value": [
         {
-          "type": "link",
-          "value": {
-            "text": "Video",
-            "url": "#video"
-          }
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Video"
+            },
+            {
+              "type": "video",
+              "value": "https://www.youtube.com/embed/LtY6w1bi1So"
+            }
+          ]
         },
         {
           "type": "link",
           "value": {
             "text": "Editorial",
-            "url": ""
+            "url": "https://science.sciencemag.org/content/370/6523/1381"
           }
         },
         {
           "type": "link",
           "value": {
             "text": "Podcast",
-            "url": ""
+            "url": "https://www.sciencemag.org/podcast/breakthrough-year-top-online-news-and-science-book-highlights"
           }
         },
         {
           "type": "link",
           "value": {
             "text": "Crossword",
-            "url": ""
+            "url": "https://www.sciencemag.org/news/2020/12/breakthrough-year-crossword-puzzle"
           }
         }
       ]

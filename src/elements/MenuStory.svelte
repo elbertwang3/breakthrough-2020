@@ -24,18 +24,15 @@
     line-height: 1.7;
     text-decoration: none;
     text-transform: none;
+    display: block;
   }
 
-  li.active {
+  li:active {
     background-color: #555;
   }
 
   li:hover {
     background-color: #333;
-  }
-
-  li a {
-    display: block;
   }
 </style>
 

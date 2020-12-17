@@ -1,23 +1,26 @@
 <script>
   export let value;
-  console.log(value);
 </script>
 
 <style>
   li.primary {
-    color: #75a8c3;
     text-transform: uppercase;
     text-align: left;
     line-height: 1.2;
     margin-top: 0.5em;
     padding-left: 15px;
+    font-weight: 700;
   }
 
   li.list-header a {
-    font-weight: 700;
+    color: #75a8c3 !important;
     display: block;
     width: 100%;
     margin-top: 0;
+  }
+
+  li.list-header a:visited {
+    color: #75a8c3 !important;
   }
 
   li:hover {
@@ -31,5 +34,5 @@
 </style>
 
 <li class="primary list-header" name="not" data-interactive-action="to-toc">
-  <a href={value.url}>{value}</a>
+  <a href={value.url}>{value.text}</a>
 </li>

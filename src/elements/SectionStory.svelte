@@ -28,6 +28,7 @@
     width: 100%;
     margin: 0;
     font-weight: 700;
+    margin-bottom: 0.5em;
   }
 
   .lede {
@@ -49,6 +50,7 @@
     text-align: left;
     width: 100%;
     line-height: 1.2;
+    margin-bottom: 1em;
   }
 
   .figure-credit span {
@@ -75,6 +77,25 @@
     margin-bottom: 0.5em;
     font-size: 0.875em;
   }
+
+  .float {
+    max-width: 50%;
+    float: left;
+    margin-right: 24px;
+  }
+
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+  }
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 </style>
 
 <div class="finalist_item" id={slug}>
@@ -85,11 +106,31 @@
       <p class="lede">{value}</p>
       <!-- else if content here -->
     {:else if type == 'img'}
-      <img class="img-responsive" src={`img/${value}`} />
+      <img
+        class="img-responsive"
+        class:float={els[i + 1].value == 'float'}
+        src={`img/${value}`} />
+    {:else if type == 'video'}
+      <div class="video-container">
+        <iframe
+          id="breakthrough_video"
+          width="100%"
+          src={value}
+          frameborder="0"
+          gesture="media"
+          allow="encrypted-media"
+          allowfullscreen="" />
+      </div>
     {:else if type == 'caption'}
       <p class="figure-credit">{value} <span>{els[i + 1].value}</span></p>
+    {:else if type == 'credit' && els[i - 1].type != 'caption'}
+      <p class="figure-credit" class:float={els[i - 1].value == 'float'}>
+        <span>{value}</span>
+      </p>
     {:else if type == 'text'}
-      <p>{value}</p>
+      <p>
+        {@html value}
+      </p>
     {:else if type == 'byline'}
       <p class="byline">
         —

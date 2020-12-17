@@ -2,10 +2,12 @@
   "FINAL TIMELINE": [
     {
       "DATE": "31 December 2019",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Health officials in Wuhan, China, report a cluster of mysterious pneumonia cases."
     },
     {
       "DATE": "8 January",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "A novel coronavirus is publicly identified as the source of the outbreak.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/01/scientists-urge-china-quickly-share-data-virus-linked-pneumonia-outbreak",
@@ -14,6 +16,7 @@
     },
     {
       "DATE": "10 January",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Genetic sequence posted to virological.org",
       "LINKS": "https://virological.org/t/novel-2019-coronavirus-genome/319",
@@ -22,6 +25,7 @@
     },
     {
       "DATE": "20 January",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Human-to-human transmission confirmed",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/01/arrival-sars-new-virus-united-states-heightens-concerns-about-global-spread (this link is for human-to-human transmission)",
@@ -30,10 +34,12 @@
     },
     {
       "DATE": "23 January",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Wuhan lockdown begins"
     },
     {
       "DATE": "23 January",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "The novel coronavirus is 96.2% similar to a virus in bats.",
       "LINKS": "https://www.nature.com/articles/s41586-020-2012-7",
@@ -42,14 +48,17 @@
     },
     {
       "DATE": "30 January",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "WHO declares the outbreak a Public Health Emergency of International Concern."
     },
     {
       "DATE": "5 February",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Diamond Princess cruise ship begins its 2-week quarantine."
     },
     {
       "DATE": "11 February",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "The virus gets its name.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/02/bit-chaotic-christening-new-coronavirus-and-its-disease-name-create-confusion",
@@ -58,6 +67,7 @@
     },
     {
       "DATE": "Mid-February",
+      "FAKE DATES": "02/15/2020",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Age, hypertension, diabetes, heart disease, and male sex are all confirmed as risk factors for severe disease.",
       "LINKS": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext",
@@ -66,6 +76,7 @@
     },
     {
       "DATE": "17 February",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Widespread undocumented infection led to the rapid spread of COVID-19.",
       "LINKS": "https://science.sciencemag.org/content/368/6490/489",
@@ -74,6 +85,7 @@
     },
     {
       "DATE": "19 February",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Scientists image the atomic-level structure of the spike protein.\n",
       "LINKS": "https://science.sciencemag.org/content/367/6483/1260",
@@ -82,14 +94,17 @@
     },
     {
       "DATE": "23 February",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "First major European outbreak in Italy"
     },
     {
       "DATE": "11 March",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "WHO declares the coronavirus outbreak a pandemic.\r\n"
     },
     {
       "DATE": "16 March",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Moderna and CanSino vaccine trials launch.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/03/record-setting-speed-vaccine-makers-take-their-first-shots-new-coronavirus",
@@ -98,6 +113,7 @@
     },
     {
       "DATE": "16 March",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Imperial College London model suggests health care systems will be overwhelmed.",
       "LINKS": "https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf",
@@ -106,10 +122,12 @@
     },
     {
       "DATE": "26 March",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "New York City becomes the epicenter of the U.S. outbreak.\r\n"
     },
     {
       "DATE": "26 March",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Widespread viral RNA in hospital rooms suggests airborne transmission.",
       "LINKS": "https://www.nature.com/articles/s41598-020-69286-3",
@@ -118,10 +136,12 @@
     },
     {
       "DATE": "28 March",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "U.S. regulators issue emergency use authorization (EUA) for hydroxychloroquine."
     },
     {
       "DATE": "Early April",
+      "FAKE DATES": "04/01/2020",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "COVID-19 can damage multiple organ systems, including the heart, blood vessels, kidneys, and brain.",
       "LINKS": "https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes",
@@ -130,6 +150,7 @@
     },
     {
       "DATE": "3 April",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "U.S. public health officials suggest people wear cloth masks.",
       "FINDINGS": "",
       "LINKS": "",
@@ -137,6 +158,7 @@
     },
     {
       "DATE": "19 April",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "First evidence that a COVID-19 vaccine can protect monkeys",
       "LINKS": "https://www.sciencemag.org/news/2020/04/covid-19-vaccine-protects-monkeys-new-coronavirus-chinese-biotech-reports",
@@ -145,6 +167,7 @@
     },
     {
       "DATE": "24 April",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Asymptomatic carriers play a large role in COVID-19 transmission.",
       "LINKS": "https://www.nejm.org/doi/full/10.1056/NEJMoa2008457",
@@ -153,6 +176,7 @@
     },
     {
       "DATE": "27 April",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Remdesivir reduces hospital stays in severely ill patients.",
       "LINKS": "https://www.nejm.org/doi/10.1056/NEJMoa2007764",
@@ -161,10 +185,12 @@
     },
     {
       "DATE": "1 May",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "U.S. regulators issue EUA for remdesivir."
     },
     {
       "DATE": "15 May",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Operation Warp Speed vaccine project launches.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/05/unveiling-warp-speed-white-house-s-america-first-push-coronavirus-vaccine",
@@ -173,6 +199,7 @@
     },
     {
       "DATE": "4 June",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Major medical journals retract coronavirus papers over fabricated data.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/06/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions",
@@ -181,6 +208,7 @@
     },
     {
       "DATE": "5 June",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Hydroxychloroquine does not reduce death in hospitalized patients.",
       "LINKS": "https://www.nejm.org/doi/full/10.1056/NEJMoa2022926",
@@ -189,10 +217,12 @@
     },
     {
       "DATE": "15 June",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "U.S. regulators revoke EUA for hydroxychloroquine."
     },
     {
       "DATE": "16 June",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Dexamethasone reduces fatality by up to one-third in hospitalized patients.",
       "LINKS": "https://www.sciencemag.org/news/2020/06/cheap-steroid-first-drug-shown-reduce-death-covid-19-patients",
@@ -201,10 +231,12 @@
     },
     {
       "DATE": "6 July",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "United States sends a formal notice of withdrawal from WHO."
     },
     {
       "DATE": "9 July",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Early studies hint at the lingering symptoms of “long COVID.”",
       "LINKS": "https://jamanetwork.com/journals/jama/fullarticle/2768351",
@@ -213,6 +245,7 @@
     },
     {
       "DATE": "25 August",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "First confirmed case of reinfection",
       "LINKS": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1275/5897019",
@@ -221,10 +254,12 @@
     },
     {
       "DATE": "9 September",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Two-thirds of countries have joined COVAX, an international vaccine distribution effort."
     },
     {
       "DATE": "24 September",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "",
       "FINDINGS": "Up to 14% of severe cases are linked to genetic factors.",
       "LINKS": "https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients",
@@ -233,10 +268,12 @@
     },
     {
       "DATE": "Late October",
+      "FAKE DATES": "10/27/2020",
       "POLICY AND PUBLIC HEALTH": "Europe and the United States confront their second and third waves."
     },
     {
       "DATE": "9 November",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Pfizer and BioNTech announce vaccine efficacy above 90%.",
       "FINDINGS": "",
       "LINKS": "",
@@ -245,6 +282,7 @@
     },
     {
       "DATE": "16 November",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Moderna reveals vaccine efficacy nearing 95%.",
       "FINDINGS": "",
       "LINKS": "",
@@ -253,6 +291,7 @@
     },
     {
       "DATE": "23 November",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "AstraZeneca reports vaccine efficacy between 62% and 90%.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/11/another-covid-19-vaccine-success-candidate-may-prevent-further-coronavirus-transmission",
@@ -261,6 +300,7 @@
     },
     {
       "DATE": "24 November",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "Russia's Gamaleya institute reports vaccine efficacy of 91.4%.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/11/more-data-its-covid-19-vaccine-russia-institute-offers-new-evidence-success",
@@ -269,6 +309,7 @@
     },
     {
       "DATE": "2 December",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "U.K. regulators are the first to authorize the Pfizer-BioNTech COVID-19 vaccine.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/12/wonderful-news-wake-uk-greenlights-pfizers-covid-19-vaccine",
@@ -277,6 +318,7 @@
     },
     {
       "DATE": "9 December",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "China National Biotec Group vaccine has 86% efficacy, according to UAE health ministry.",
       "FINDINGS": "",
       "LINKS": "https://www.sciencemag.org/news/2020/12/great-efficacy-claimed-another-covid-19-vaccine-one-china",
@@ -285,6 +327,7 @@
     },
     {
       "DATE": "14 December",
+      "FAKE DATES": "",
       "POLICY AND PUBLIC HEALTH": "U.S. health care workers begin to receive Pfizer vaccine.",
       "FINDINGS": "",
       "LINKS": "",

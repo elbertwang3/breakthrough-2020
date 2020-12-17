@@ -30,16 +30,12 @@
       "type": "links",
       "value": [
         {
-          "text": "Do our crossword",
-          "url": ""
-        },
-        {
           "text": "Listen to our podcast",
-          "url": "https://www.sciencemag.org/podcast/breakthrough-year-our-favorite-online-news-stories-and-year-books"
+          "url": "https://www.sciencemag.org/podcast/breakthrough-year-top-online-news-and-science-book-highlights"
         },
         {
           "text": "Do our crossword",
-          "url": ""
+          "url": "<a href=\"https://www.sciencemag.org/news/2020/12/breakthrough-year-crossword-puzzle\">https://www.sciencemag.org/news/2020/12/breakthrough-year-crossword-puzzle</a>"
         }
       ]
     },
@@ -60,7 +56,7 @@
         },
         {
           "title": "Timeline: A year like no other",
-          "url": "#/finalists/timeline",
+          "url": "#/finalists/timeline:-a-year-like-no-other",
           "img": "timeline_homepage.png",
           "alt": "A graphic of a timeline from January to April, with icons of a bat, virus, brain, mask and Sars-CoV-2 label."
         }

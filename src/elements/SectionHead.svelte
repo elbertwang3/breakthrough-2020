@@ -1,5 +1,6 @@
 <script>
   export let value;
+  const id = value.text.replace(/\s+/g, "-").replace("?", "").toLowerCase();
 </script>
 
 <style>
@@ -42,4 +43,4 @@
   }
 </style>
 
-<h2 class="section-head">{value}</h2>
+<h2 class="section-head" {id}>{value.text}</h2>

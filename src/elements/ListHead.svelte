@@ -4,7 +4,6 @@
 
 <style>
   li.primary {
-    color: #75a8c3;
     text-transform: uppercase;
     text-align: left;
     line-height: 1.2;
@@ -12,10 +11,20 @@
     padding-left: 15px;
   }
 
-  li.list-header a {
+  li.primary a {
+    color: #75a8c3 !important;
     display: block;
     width: 100%;
     margin-top: 0;
+    text-decoration: none;
+  }
+
+  li.primary a:visited {
+    color: #75a8c3 !important;
+  }
+
+  li.primary a:active {
+    background-color: #555;
   }
 
   li:hover {
@@ -29,5 +38,5 @@
 </style>
 
 <li class="primary" name="not" data-interactive-action="to-toc">
-  <a href={value.url}>{value}</a>
+  <a href={value.url}>{value.text}</a>
 </li>

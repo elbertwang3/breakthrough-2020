@@ -13,6 +13,13 @@
   .story-title {
     text-align: center;
     margin: 0 auto;
+    font-size: 1.2em;
+  }
+
+  @media only screen and (max-width: 992px) {
+    .story-title {
+      font-size: 1.125em;
+    }
   }
 
   a img {
@@ -35,7 +42,7 @@
   }
 </style>
 
-<div class="grid article-spine">
+<div class="grid grid-spine">
   {#each value as item}
     <a
       href={`#/finalists/${item.title

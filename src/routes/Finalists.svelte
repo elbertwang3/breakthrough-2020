@@ -6,16 +6,16 @@
   import Stories from "../elements/Stories.svelte";
   import ListHeader from "../elements/ListHeader.svelte";
   import SectionStories from "../elements/SectionStories.svelte";
+  import Footer from "../Footer.svelte";
+  import Social from "../elements/Social.svelte";
 
   export let params = {};
-  console.log(params.wild);
   const { content } = finalists;
   let menuContentActive = false;
 
   function hideMenu() {
     menuContentActive = false;
   }
-  console.log(content);
   const menuTypes = {
     "list-head": ListHead,
     "list-header": ListHeader,
@@ -31,7 +31,6 @@
   afterUpdate(() => {
     if (params.wild) {
       var elmnt = document.getElementById(params.wild);
-      console.log(elmnt);
       elmnt.scrollIntoView();
     }
   });
@@ -40,9 +39,12 @@
 <style>
   /* your styles go here */
   .addthis_inline_share_toolbox_h50m {
-    display: none;
+    /* display: none; */
   }
 
+  .menu-list {
+    margin-top: 1em;
+  }
   .toggle-btn {
     display: block;
     cursor: pointer;
@@ -118,6 +120,7 @@
     height: 60px;
   }
   .menu-content {
+    list-style: none;
     margin: 0;
     padding: 0;
     background-color: rgba(0, 0, 0, 0.9);
@@ -278,7 +281,6 @@
     </div>
     <div
       on:click={() => {
-        console.log('getting clicked');
         menuContentActive = !menuContentActive;
       }}
       class="toggle-btn"
@@ -663,6 +665,7 @@
             </form>
           </div>
         </div>
+        <Social />
       </ul>
     </div>
   </div>
@@ -777,7 +780,10 @@
 <article class:active={menuContentActive}>
   <div class="text-container">
     {#each content as { type, value }, i}
-      <svelte:component this={elementTypes[type]} {value} />
+      {#if value.text != 'RELATED ITEMS'}
+        <svelte:component this={elementTypes[type]} {value} />
+      {/if}
     {/each}
   </div>
+  <Footer />
 </article>

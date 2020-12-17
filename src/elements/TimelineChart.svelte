@@ -26,7 +26,7 @@
   }
   .g-circle {
     fill: white;
-    stroke-width: 2.5px;
+    stroke-width: 3px;
   }
   .g-circle.findings {
     stroke: #75a8c3;
@@ -62,18 +62,47 @@
     font-weight: 400;
     font-size: 12px;
     line-height: 14px;
+    margin: 0;
   }
 
   .month {
+    width: 80px;
     position: absolute;
     text-align: center;
-    background-color: #9a9a9a;
+    background-color: #d1d3d4;
     padding: 0.25em;
     font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 16px;
     left: 50%;
     transform: translateX(-50%);
+  }
+
+  /* .event img {
+    max-width: 75%;
+  } */
+
+  .img-container {
+    width: 75%;
+  }
+
+  .img-container img {
+    width: 100%;
+  }
+
+  .img-container.findings {
+    /* text-align: end; */
+    margin-left: 25%;
+  }
+
+  .img-container.policy {
+    /* text-align: start; */
+    margin-right: 25%;
+  }
+
+  .brain_timeline,
+  .paper_timeline {
+    width: 50%;
   }
 </style>
 
@@ -82,9 +111,15 @@
     class={`event${event.type == 'FINDINGS' ? ' findings' : ' policy'}`}
     style={`top: ${event.yalign != 'bottom' && yScale(parseDate(event.date)) - 12}px; bottom: ${event.yalign == 'bottom' && chartHeight - yScale(parseDate(event.date)) - 12}px; left: ${event.type == 'FINDINGS' && chartWidth / 2 + lineLength}px; right: ${event.type != 'FINDINGS' && chartWidth / 2 + lineLength}px;`}>
     <div class="event-date">{event.date_text}</div>
-    <div class="event-text">
+    <p class="event-text">
       {@html event.text}
-    </div>
+    </p>
+    {#if event.img}
+      <div
+        class={`img-container ${event.img.replace('.png', '')}${event.type == 'FINDINGS' ? ' findings' : ' policy'}`}>
+        <img src={`img/${event.img}`} />
+      </div>
+    {/if}
   </div>
 {/each}
 
@@ -109,10 +144,10 @@
         <line
           class="g-line"
           x1={chartWidth / 2}
-          x2={chartWidth / 2 + (event.type == 'FINDINGS' ? lineLength : -lineLength)} />
+          x2={chartWidth / 2 + (event.type == 'FINDINGS' ? lineLength - 5 : -lineLength + 5)} />
         <circle
           class={`g-circle${event.type == 'FINDINGS' ? ' findings' : ' policy'}`}
-          r={5}
+          r={6}
           cx={chartWidth / 2}
           cy={0} />
       </g>

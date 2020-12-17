@@ -31,7 +31,11 @@
   afterUpdate(() => {
     if (params.wild) {
       var elmnt = document.getElementById(params.wild);
-      elmnt.scrollIntoView();
+      elmnt.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+        inline: "nearest",
+      });
     }
   });
 </script>

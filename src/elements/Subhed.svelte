@@ -8,7 +8,7 @@
     font-weight: 400;
     border-bottom: 1px solid #dbdbdb;
     line-height: 0.1em;
-    margin: 3em auto 20px;
+    margin: 3em auto 40px;
   }
 
   @media only screen and (max-width: 768px) {

@@ -51,7 +51,7 @@
             },
             {
               "type": "text",
-              "value": "For my mother and countless others, life was put on hold this year. But in biomedicine, progress has been astonishingly fast. Just weeks ago it culminated in what the world needs to answer my mother’s question: safe, effective vaccines against COVID-19."
+              "value": "<span class=\"section-break-style\">For my mother</span> and countless others, life was put on hold this year. But in biomedicine, progress has been astonishingly fast. Just weeks ago it culminated in what the world needs to answer my mother’s question: safe, effective vaccines against COVID-19."
             },
             {
               "type": "text",
@@ -99,7 +99,7 @@
             },
             {
               "type": "text",
-              "value": "Ninety-five percent. That’s higher than almost anyone dared hope for. (Influenza vaccines, in a good year, hit 60% effectiveness.) A confluence of forces propelled science from zero to a COVID-19 vaccine at revolutionary speed. Never before have researchers so quickly developed so many experimental vaccines against the same foe. Never before have so many competitors collaborated so openly and frequently. Never before have so many candidates advanced to large-scale efficacy trials virtually in parallel. And never before have governments, industry, academia, and nonprofits thrown so much money, muscle, and brains at the same infectious disease in such short order."
+              "value": "<span class=\"section-break-style\">Ninety-five percent.</span> That’s higher than almost anyone dared hope for. (Influenza vaccines, in a good year, hit 60% effectiveness.) A confluence of forces propelled science from zero to a COVID-19 vaccine at revolutionary speed. Never before have researchers so quickly developed so many experimental vaccines against the same foe. Never before have so many competitors collaborated so openly and frequently. Never before have so many candidates advanced to large-scale efficacy trials virtually in parallel. And never before have governments, industry, academia, and nonprofits thrown so much money, muscle, and brains at the same infectious disease in such short order."
             },
             {
               "type": "text",
@@ -127,7 +127,7 @@
             },
             {
               "type": "text",
-              "value": "Still, when I found out on 15 November—1 day before the news went public—that early data from Moderna matched the hard-to-believe preliminary report from Pfizer and BioNTech that came out the week before, my optimism overflowed, for the first time since the pandemic began. I swore my mother to secrecy and shared the good news."
+              "value": "<span class=\"section-break-style\">Still, when I found out</span> on 15 November—1 day before the news went public—that early data from Moderna matched the hard-to-believe preliminary report from Pfizer and BioNTech that came out the week before, my optimism overflowed, for the first time since the pandemic began. I swore my mother to secrecy and shared the good news."
             },
             {
               "type": "text",
@@ -200,7 +200,7 @@
             },
             {
               "type": "text",
-              "value": "News of a cluster of pneumonia cases in China emerged on the eve of the new year. Ten days later, a full genome sequence of the virus was posted online. A diagnostic test was ready a few days later. A team of experts sent to China by the World Health Organization (WHO) in February came home with a surprising finding: China had done the impossible—halting the outbreak of a respiratory pathogen—by locking down its citizens. Science was working faster than ever before."
+              "value": "<span class=\"section-break-style\">News of a cluster</span> of pneumonia cases in China emerged on the eve of the new year. Ten days later, a full genome sequence of the virus was posted online. A diagnostic test was ready a few days later. A team of experts sent to China by the World Health Organization (WHO) in February came home with a surprising finding: China had done the impossible—halting the outbreak of a respiratory pathogen—by locking down its citizens. Science was working faster than ever before."
             },
             {
               "type": "text",
@@ -220,7 +220,7 @@
             },
             {
               "type": "text",
-              "value": "But when it came to countering the other plague, that of disinformation and deception, the toolbox was empty. Just as videoconferencing and online shopping found massive new markets as stores, schools, and offices closed, so polarization, politicization, and a media ecosystem that elevates simple lies over complex truths were ready to take advantage of an unsettled public struggling with uncertainty. Even as hundreds of thousands died, many people downplayed the problem or refused to acknowledge its existence, no matter what the experts said. “It’s a little like watching a zombie movie in which half of the people can’t see the zombies and keep demanding to know what the fuss is about,” says epidemiologist William Hanage of the Harvard T.H. Chan School of Public Health. Politicians and some physicians began to promote drugs without evidence. The White House flouted epidemiologists’ advice about face masks and SARS-CoV-2’s propensity to spread in clusters indoors—and itself became the site of a superspreading event."
+              "value": "<span class=\"section-break-style\">But when it came</span> to countering the other plague, that of disinformation and deception, the toolbox was empty. Just as videoconferencing and online shopping found massive new markets as stores, schools, and offices closed, so polarization, politicization, and a media ecosystem that elevates simple lies over complex truths were ready to take advantage of an unsettled public struggling with uncertainty. Even as hundreds of thousands died, many people downplayed the problem or refused to acknowledge its existence, no matter what the experts said. “It’s a little like watching a zombie movie in which half of the people can’t see the zombies and keep demanding to know what the fuss is about,” says epidemiologist William Hanage of the Harvard T.H. Chan School of Public Health. Politicians and some physicians began to promote drugs without evidence. The White House flouted epidemiologists’ advice about face masks and SARS-CoV-2’s propensity to spread in clusters indoors—and itself became the site of a superspreading event."
             },
             {
               "type": "text",
@@ -248,7 +248,7 @@
             },
             {
               "type": "text",
-              "value": "Farrar is hopeful that humanity will come away wiser after staring into the abyss. “I think we will look back after the horror of this and say, humanity is incredibly vulnerable,” he says. “This will inspire a whole generation to come into science.” Evidence, he says, will carry the day."
+              "value": "<span class=\"section-break-style\">Farrar is hopeful</span> that humanity will come away wiser after staring into the abyss. “I think we will look back after the horror of this and say, humanity is incredibly vulnerable,” he says. “This will inspire a whole generation to come into science.” Evidence, he says, will carry the day."
             },
             {
               "type": "text",
@@ -271,12 +271,24 @@
               "value": "<a href=\"https://www.sciencemag.org/author/kai-kupferschmidt\">Kai Kupferschmidt</a>"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "list-head",
+      "value": {
+        "text": "TIMELINE",
+        "url": "#/finalists/timeline"
+      }
+    },
+    {
+      "type": "stories",
+      "value": [
         {
           "type": "timeline",
           "value": {
-            "text": "Timeline: A year like no other",
-            "url": "#/finalists/timeline:-a-year-like-no-other"
+            "text": "A year like no other",
+            "url": "#/finalists/a-year-like-no-other"
           }
         }
       ]
@@ -1286,17 +1298,20 @@
       "type": "stories",
       "value": [
         {
-          "type": "story",
-          "value": [
-            {
-              "type": "story-title",
-              "value": "Video"
-            },
-            {
-              "type": "video",
-              "value": "https://www.youtube.com/embed/LtY6w1bi1So"
-            }
-          ]
+          "type": "text",
+          "value": "[+.story]"
+        },
+        {
+          "type": "text",
+          "value": "story-title: Video"
+        },
+        {
+          "type": "text",
+          "value": "video: https://www.youtube.com/embed/LtY6w1bi1So"
+        },
+        {
+          "type": "text",
+          "value": "[]"
         },
         {
           "type": "link",

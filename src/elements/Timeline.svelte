@@ -31,7 +31,7 @@
     font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 1.5em;
+    font-size: 16px;
     line-height: 1.1;
     /* text-align: center; */
   }
@@ -47,7 +47,6 @@
   }
 
   .timeline-chart {
-    margin-top: 2em;
     height: 4000px;
   }
 
@@ -59,7 +58,7 @@
   }
 </style>
 
-<div class="timeline" id="timeline:-a-year-like-no-other">
+<div class="timeline" id="a-year-like-no-other">
   <h3 class="svelte-9jh3mz">Timeline: A year like no other</h3>
   <div class="timeline-headers">
     <div class="timeline-header policy">Policy and Public Health</div>

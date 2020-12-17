@@ -24,7 +24,7 @@
     },
     {
       "type": "text",
-      "value": "“When is this going to end?”  <a href=\"#/finalists/shots-of-hope\">Read more …</a>"
+      "value": "“When is this going to end?”  <a href=\"#/finalists\">Read more …</a>"
     },
     {
       "type": "links",
@@ -35,7 +35,7 @@
         },
         {
           "text": "Do our crossword",
-          "url": "<a href=\"https://www.sciencemag.org/news/2020/12/breakthrough-year-crossword-puzzle\">https://www.sciencemag.org/news/2020/12/breakthrough-year-crossword-puzzle</a>"
+          "url": "https://www.sciencemag.org/news/2020/12/breakthrough-year-crossword-puzzle"
         }
       ]
     },

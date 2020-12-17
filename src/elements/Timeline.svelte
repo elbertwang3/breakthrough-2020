@@ -1,7 +1,6 @@
 <script>
-  import data from "../data/timeline";
+  import { final, months } from "../data/timeline";
   import TimelineChart from "./TimelineChart.svelte";
-  console.log(data);
 
   let width, height;
 </script>
@@ -24,7 +23,7 @@
   .timeline-headers {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 3rem;
+    grid-gap: 2.5rem;
     align-items: center;
   }
 
@@ -34,20 +33,29 @@
     font-weight: 700;
     font-size: 1.5em;
     line-height: 1.1;
-    text-align: center;
+    /* text-align: center; */
   }
 
   .policy {
     color: #36bba5;
+    text-align: end;
   }
 
   .findings {
     color: #75a8c3;
+    text-align: start;
   }
 
   .timeline-chart {
     margin-top: 2em;
-    height: 3000px;
+    height: 4000px;
+  }
+
+  @media only screen and (max-width: 400px) {
+    .timeline-chart {
+      margin-top: 2em;
+      height: 5000px;
+    }
   }
 </style>
 
@@ -61,6 +69,6 @@
     class="timeline-chart"
     bind:clientWidth={width}
     bind:clientHeight={height}>
-    <TimelineChart data={data.final} {width} {height} />
+    <TimelineChart data={final} {months} {width} {height} />
   </div>
 </div>

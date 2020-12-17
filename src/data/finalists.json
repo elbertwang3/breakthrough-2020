@@ -329,7 +329,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -361,7 +361,7 @@
             },
             {
               "type": "byline",
-              "value": "<a href=\"https://www.sciencemag.org/author/dennis-normile\">Dennis Normile</a> and Bian Huihui"
+              "value": "<a href=\"https://www.sciencemag.org/author/dennis-normile\">Dennis Normile</a> and <a href=\"https://www.sciencemag.org/author/bian-huihui\">Bian Huihui</a>"
             }
           ]
         },
@@ -382,7 +382,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -427,7 +427,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -472,7 +472,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -525,7 +525,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -574,7 +574,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -623,7 +623,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -672,7 +672,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -725,7 +725,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -770,7 +770,7 @@
             },
             {
               "type": "credit",
-              "value": "N. DESAI/SCIENCE"
+              "value": "N. DESAI/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -786,7 +786,7 @@
             },
             {
               "type": "text",
-              "value": "In 2000, Kennedy became editor-in-chief of <i>Science. He used the platform to prod climate researchers to work harder on public outreach, condemn politicians who bent—or ignored—scientific findings to serve their own purposes, and publish the best research on the planet, including the first sequence of the human genome."
+              "value": "In 2000, Kennedy became editor-in-chief of <i>Science<i>. He used the platform to prod climate researchers to work harder on public outreach, condemn politicians who bent—or ignored—scientific findings to serve their own purposes, and publish the best research on the planet, including the first sequence of the human genome."
             },
             {
               "type": "text",
@@ -839,7 +839,7 @@
             },
             {
               "type": "text",
-              "value": "Since the revolutionary genome-snipping tool known as CRISPR burst on the scene in 2012, it has given researchers new power to engineer crops and animals, stirred ethical debates, and earned a Nobel Prize—not to mention Science’s Breakthrough of the Year in 2015. Now, CRISPR is again making waves, scoring its first success in the clinic by treating two inherited blood diseases."
+              "value": "Since the revolutionary genome-snipping tool known as CRISPR burst on the scene in 2012, it has given researchers new power to engineer crops and animals, stirred ethical debates, and earned a Nobel Prize—not to mention <i>Science</i>’s Breakthrough of the Year in 2015. Now, CRISPR is again making waves, scoring its first success in the clinic by treating two inherited blood diseases."
             },
             {
               "type": "text",
@@ -864,8 +864,8 @@
             {
               "type": "references",
               "value": [
-                "H. Frangoul et al., <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2031054\">CRISPR-Cas9 Gene Editing for Sickle Cell Disease and β-Thalassemia</a>, The New England Journal of Medicine, 5 December 2020",
-                "J. Kaiser, <a href=\"http://science.sciencemag.org/content/370/6522/1254\">Tweaking genes with CRISPR or viruses fixes blood disorders</a>, Science, Vol. 370, p. 1254, 11 December 2020"
+                "H. Frangoul <i>et al.</i>, <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2031054\">CRISPR-Cas9 Gene Editing for Sickle Cell Disease and β-Thalassemia</a>, <i>The New England Journal of Medicine</i>, 5 December 2020",
+                "J. Kaiser, <a href=\"http://science.sciencemag.org/content/370/6522/1254\">Tweaking genes with CRISPR or viruses fixes blood disorders</a>, <i>Science</i>, Vol. 370, p. 1254, 11 December 2020"
               ]
             }
           ]
@@ -883,7 +883,7 @@
             },
             {
               "type": "credit",
-              "value": "C. SMITH/SCIENCE"
+              "value": "C. SMITH/<i>SCIENCE</i>"
             },
             {
               "type": "text",
@@ -895,7 +895,7 @@
             },
             {
               "type": "text",
-              "value": "Although it’s too early to tell whether the events of this year will spur lasting change, many are hopeful. “This year feels different,” says Shirley Malcom, a senior adviser at AAAS (publisher of Science) who has worked on diversity, equity, and inclusion issues since the 1970s. “All of a sudden, after George Floyd and everything else that came out after that time, you could at least get people’s attention,” she says—adding that many scientists now seem more open to the idea that systemic racism is a problem in their community."
+              "value": "Although it’s too early to tell whether the events of this year will spur lasting change, many are hopeful. “This year feels different,” says Shirley Malcom, a senior adviser at AAAS (publisher of <i>Science</i>) who has worked on diversity, equity, and inclusion issues since the 1970s. “All of a sudden, after George Floyd and everything else that came out after that time, you could at least get people’s attention,” she says—adding that many scientists now seem more open to the idea that systemic racism is a problem in their community."
             },
             {
               "type": "text",
@@ -908,10 +908,10 @@
             {
               "type": "references",
               "value": [
-                "K. Langin, <a href=\"https://www.sciencemag.org/careers/2020/06/i-cant-even-enjoy-blackbirdersweek-organizer-shares-her-struggles-black-scientist\">‘I can’t even enjoy this.’ #BlackBirdersWeek organizer shares her struggles as a black scientist</a>, Science, 5 June 2020",
-                "S. Chen, <a href=\"https://www.sciencemag.org/news/2020/06/researchers-around-world-prepare-shutdownstem-and-strike-black-lives\">Researchers around the world prepare to #ShutDownSTEM and ‘Strike For Black Lives’</a>, Science, 9 June 2020",
-                "G. Barabino, <a href=\"https://science.sciencemag.org/content/369/6509/1277\">Systemic equity in education</a>, Science, Vol. 369, p. 1277, 11 September 2020",
-                "N. Lewis, <a href=\"https://www.sciencemag.org/careers/2020/06/what-ive-learned-about-being-black-scientist\">What I’ve learned about being a Black scientist</a>, Science, 16 July 2020"
+                "K. Langin, <a href=\"https://www.sciencemag.org/careers/2020/06/i-cant-even-enjoy-blackbirdersweek-organizer-shares-her-struggles-black-scientist\">‘I can’t even enjoy this.’ #BlackBirdersWeek organizer shares her struggles as a black scientist</a>, <i>Science</i>, 5 June 2020",
+                "S. Chen, <a href=\"https://www.sciencemag.org/news/2020/06/researchers-around-world-prepare-shutdownstem-and-strike-black-lives\">Researchers around the world prepare to #ShutDownSTEM and ‘Strike For Black Lives’</a>, <i>Science</i>, 9 June 2020",
+                "G. Barabino, <a href=\"https://science.sciencemag.org/content/369/6509/1277\">Systemic equity in education</a>, <i>Science</i>, Vol. 369, p. 1277, 11 September 2020",
+                "N. Lewis, <a href=\"https://www.sciencemag.org/careers/2020/06/what-ive-learned-about-being-black-scientist\">What I’ve learned about being a Black scientist</a>, <i>Science</i>, 16 July 2020"
               ]
             }
           ]
@@ -945,7 +945,7 @@
             },
             {
               "type": "text",
-              "value": "Longer and better temperature records have also helped narrow the range. Studies of Earth’s ancient climate, which estimate paleotemperatures and CO2 levels using ice and ocean sediment cores, suggest how greenhouse gases may have driven previous episodes of warming. And modern global warming has now gone on long enough that surface temperatures, 1.1°C hotter than in preindustrial times, can be used to more confidently project trends into the future."
+              "value": "Longer and better temperature records have also helped narrow the range. Studies of Earth’s ancient climate, which estimate paleotemperatures and CO<sub>2</sub> levels using ice and ocean sediment cores, suggest how greenhouse gases may have driven previous episodes of warming. And modern global warming has now gone on long enough that surface temperatures, 1.1°C hotter than in preindustrial times, can be used to more confidently project trends into the future."
             },
             {
               "type": "text",
@@ -953,7 +953,7 @@
             },
             {
               "type": "text",
-              "value": "If we’re lucky, such clarity might galvanize action. Atmospheric CO2 is already at 420 parts per million—halfway to the doubling point of 560 ppm. Barring more aggressive action on climate change, humanity could reach that threshold by 2060—and lock in the foreseen warming."
+              "value": "If we’re lucky, such clarity might galvanize action. Atmospheric CO<sub>2</sub> is already at 420 parts per million—halfway to the doubling point of 560 ppm. Barring more aggressive action on climate change, humanity could reach that threshold by 2060—and lock in the foreseen warming."
             },
             {
               "type": "byline",
@@ -962,9 +962,9 @@
             {
               "type": "references",
               "value": [
-                "P. Voosen, <a href=\"https://science.sciencemag.org/content/369/6502/354\">Earth’s climate destiny finally seen more clearly</a>, Science, Vol. 369, p. 354, 24 July 2020",
-                "S. C. Sherwood et al., <a href=\"https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019RG000678\">An Assessment of Earth's Climate Sensitivity Using Multiple Lines of Evidence</a>, Reviews of Geophysics, 22 July 2020",
-                "P. Voosen, <a href=\"https://science.sciencemag.org/content/364/6437/222\">New climate models forecast a warming surge</a>, Science, Vol. 364, p. 222, 19 April 2019"
+                "P. Voosen, <a href=\"https://science.sciencemag.org/content/369/6502/354\">Earth’s climate destiny finally seen more clearly</a>, <i>Science</i>, Vol. 369, p. 354, 24 July 2020",
+                "S. C. Sherwood <i>et al.</i>, <a href=\"https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019RG000678\">An Assessment of Earth's Climate Sensitivity Using Multiple Lines of Evidence</a>, <i>Reviews of Geophysics</i>, 22 July 2020",
+                "P. Voosen, <a href=\"https://science.sciencemag.org/content/364/6437/222\">New climate models forecast a warming surge</a>, <i>Science</i>, Vol. 364, p. 222, 19 April 2019"
               ]
             }
           ]
@@ -1011,11 +1011,11 @@
             {
               "type": "references",
               "value": [
-                "CHIME/FRB Collaboration, <a href=\"https://www.nature.com/articles/s41586-020-2863-y\">A bright millisecond-duration radio burst from a Galactic magnetar</a>, Nature, Vol. 587, p. 54, 4 November 2020",
-                "C. D. Bochenek et al., <a href=\"https://www.nature.com/articles/s41586-020-2872-x\">A fast radio burst associated with a Galactic magnetar</a>, Nature, Vol. 587, p. 59, 4 November 2020",
-                "L. Lin et al., <a href=\"https://www.nature.com/articles/s41586-020-2839-y\">No pulsed radio emission during a bursting phase of a Galactic magnetar</a>, Nature, Vol. 587, p. 63, 4 November 2020",
-                "D. Clery, <a href=\"https://www.sciencemag.org/news/2020/06/galactic-flash-points-long-sought-source-enigmatic-radio-bursts\">Galactic flash points to long-sought source for enigmatic radio bursts</a>, Science, 8 June 2020",
-                "D. Clery, <a href=\"https://science.sciencemag.org/content/363/6432/1138\">Flashes in the scan</a>, Science, Vol. 363, p. 1138, 15 March 2019"
+                "CHIME/FRB Collaboration, <a href=\"https://www.nature.com/articles/s41586-020-2863-y\">A bright millisecond-duration radio burst from a Galactic magnetar</a>, <i>Nature</i>, Vol. 587, p. 54, 4 November 2020",
+                "C. D. Bochenek<i>et al.</i>, <a href=\"https://www.nature.com/articles/s41586-020-2872-x\">A fast radio burst associated with a Galactic magnetar</a>, <i>Nature</i>, Vol. 587, p. 59, 4 November 2020",
+                "L. Lin <i>et al.</i>, <a href=\"https://www.nature.com/articles/s41586-020-2839-y\">No pulsed radio emission during a bursting phase of a Galactic magnetar</a>, <i>Nature</i>, Vol. 587, p. 63, 4 November 2020",
+                "D. Clery, <a href=\"https://www.sciencemag.org/news/2020/06/galactic-flash-points-long-sought-source-enigmatic-radio-bursts\">Galactic flash points to long-sought source for enigmatic radio bursts</a>, <i>Science</i>, 8 June 2020",
+                "D. Clery, <a href=\"https://science.sciencemag.org/content/363/6432/1138\">Flashes in the scan</a>, <i>Science</i>, Vol. 363, p. 1138, 15 March 2019"
               ]
             }
           ]
@@ -1066,10 +1066,10 @@
             {
               "type": "references",
               "value": [
-                "N. Conard, <a href=\"https://www.nature.com/articles/nature02186/\">Palaeolithic ivory sculptures from southwestern Germany and the origins of figurative art</a>, Nature, Vol. 426, p. 830, 18 December 2003",
-                "M. Aubert et al., <a href=\"https://www.journals.uchicago.edu/doi/10.1086/694414\">The Timing and Nature of Human Colonization of Southeast Asia in the Late Pleistocene: A Rock Art Perspective</a>, Current Anthropology, Vol. 58, p. S553, 15 November 2017",
-                "D. L. Hoffmann et al., <a href=\"https://science.sciencemag.org/content/359/6378/912\">U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art</a>, Science, Vol. 359, p. 912, 23 February 2018",
-                "M. Price, <a href=\"https://www.sciencemag.org/news/2019/12/world-s-oldest-hunting-scene-shows-half-human-half-animal-figures-and-sophisticated\">World’s oldest hunting scene shows half-human, half-animal figures—and a sophisticated imagination</a>, Science, 11 December 2019"
+                "N. Conard, <a href=\"https://www.nature.com/articles/nature02186/\">Palaeolithic ivory sculptures from southwestern Germany and the origins of figurative art</a>, <i>Nature</i>, Vol. 426, p. 830, 18 December 2003",
+                "M. Aubert <i>et al.<i/>, <a href=\"https://www.journals.uchicago.edu/doi/10.1086/694414\">The Timing and Nature of Human Colonization of Southeast Asia in the Late Pleistocene: A Rock Art Perspective</a>, <i>Current Anthropology</i>, Vol. 58, p. S553, 15 November 2017",
+                "D. L. Hoffmann <i>et al.<i/>, <a href=\"https://science.sciencemag.org/content/359/6378/912\">U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art</a>, <i>Science</i>, Vol. 359, p. 912, 23 February 2018",
+                "M. Price, <a href=\"https://www.sciencemag.org/news/2019/12/world-s-oldest-hunting-scene-shows-half-human-half-animal-figures-and-sophisticated\">World’s oldest hunting scene shows half-human, half-animal figures—and a sophisticated imagination</a>, <i>Science</i>, 11 December 2019"
               ]
             }
           ]
@@ -1116,8 +1116,8 @@
             {
               "type": "references",
               "value": [
-                "R. F. Service, <a href=\"https://science.sciencemag.org/content/370/6521/1144\">‘The game has changed.’ AI triumphs at protein folding</a>, Science, Vol. 370, p. 1144, 4 December 2020",
-                "R. F. Service, <a href=\"https://www.sciencemag.org/news/2018/12/google-s-deepmind-aces-protein-folding\">Google’s DeepMind aces protein folding</a>, Science, 6 December 2018"
+                "R. F. Service, <a href=\"https://science.sciencemag.org/content/370/6521/1144\">‘The game has changed.’ AI triumphs at protein folding</a>, <i>Science</i>, Vol. 370, p. 1144, 4 December 2020",
+                "R. F. Service, <a href=\"https://www.sciencemag.org/news/2018/12/google-s-deepmind-aces-protein-folding\">Google’s DeepMind aces protein folding</a>, <i>Science</i>, 6 December 2018"
               ]
             }
           ]
@@ -1168,8 +1168,8 @@
             {
               "type": "references",
               "value": [
-                "C. Jiang et al., <a href=\"https://www.nature.com/articles/s41586-020-2651-8\">Distinct viral reservoirs in individuals with spontaneous control of HIV-1</a>, Nature, Vol. 585, p. 261, 26 August 2020",
-                "J. Cohen, <a href=\"https://www.sciencemag.org/news/2020/08/how-elite-controllers-tame-hiv-without-drugs\">How ‘elite controllers’ tame HIV without drugs</a>, Science, 26 August 2020"
+                "C. Jiang <i>et al.</i>, <a href=\"https://www.nature.com/articles/s41586-020-2651-8\">Distinct viral reservoirs in individuals with spontaneous control of HIV-1</a>, <i>Nature</i>, Vol. 585, p. 261, 26 August 2020",
+                "J. Cohen, <a href=\"https://www.sciencemag.org/news/2020/08/how-elite-controllers-tame-hiv-without-drugs\">How ‘elite controllers’ tame HIV without drugs</a>, <i>Science</i>, 26 August 2020"
               ]
             }
           ]
@@ -1216,9 +1216,9 @@
             {
               "type": "references",
               "value": [
-                "R. F. Service, <a href=\"https://science.sciencemag.org/content/370/6514/273\">At last, room temperature superconductivity achieved</a>, Science, Vol. 370, p. 273, 16 October 2020",
-                "A. P. Drozdov et al., <a href=\"https://www.nature.com/articles/nature14964\">Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system</a>, Nature, Vol. 525, p. 73, 17 August 2015",
-                "E. Snider et al., <a href=\"https://www.nature.com/articles/s41586-020-2801-z\">Room-temperature superconductivity in a carbonaceous sulfur hydride</a>, Nature, Vol. 586, p. 373, 14 October 2020"
+                "R. F. Service, <a href=\"https://science.sciencemag.org/content/370/6514/273\">At last, room temperature superconductivity achieved</a>, <i>Science</i>, Vol. 370, p. 273, 16 October 2020",
+                "A. P. Drozdov <i>et al</i>., <a href=\"https://www.nature.com/articles/nature14964\">Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system</a>, <i>Nature</i>, Vol. 525, p. 73, 17 August 2015",
+                "E. Snider <i>et al</i>., <a href=\"https://www.nature.com/articles/s41586-020-2801-z\">Room-temperature superconductivity in a carbonaceous sulfur hydride</a>, </i>Nature</i>, Vol. 586, p. 373, 14 October 2020"
               ]
             }
           ]
@@ -1265,10 +1265,10 @@
             {
               "type": "references",
               "value": [
-                "A. Nieder et al., <a href=\"https://science.sciencemag.org/content/369/6511/1626\">A neural correlate of sensory consciousness in a corvid bird</a>, Science, Vol. 369, p. 1626, 25 September 2020",
-                "S. Herculano-Houzel, <a href=\"https://science.sciencemag.org/content/369/6511/1567\">Birds do have a brain cortex—and think</a>, Science, Vol. 369, p. 1567, 25 September 2020",
-                "V. Morell, <a href=\"https://www.sciencemag.org/news/2020/09/newfound-brain-structure-explains-why-some-birds-are-so-smart-and-maybe-even-self-aware\">Newfound brain structure explains why some birds are so smart—and maybe even self-aware</a>, Science, 24 September 2020",
-                "M. Stacho et al., <a href=\"https://science.sciencemag.org/content/369/6511/eabc5534?ijkey=7d66b2c60ddec779a314af6a27efa0eae4f7bdb8&keytype2=tf_ipsecsha\">A cortex-like canonical circuit in the avian forebrain</a>, Science, Vol. 369, 25 September 2020"
+                "A. Nieder <i>et al</i>., <a href=\"https://science.sciencemag.org/content/369/6511/1626\">A neural correlate of sensory consciousness in a corvid bird</a>, <i>Science</i>, Vol. 369, p. 1626, 25 September 2020",
+                "S. Herculano-Houzel, <a href=\"https://science.sciencemag.org/content/369/6511/1567\">Birds do have a brain cortex—and think</a>, <i>Science</i>, Vol. 369, p. 1567, 25 September 2020",
+                "V. Morell, <a href=\"https://www.sciencemag.org/news/2020/09/newfound-brain-structure-explains-why-some-birds-are-so-smart-and-maybe-even-self-aware\">Newfound brain structure explains why some birds are so smart—and maybe even self-aware</a>, <i>Science</i>, 24 September 2020",
+                "M. Stacho <i>et al.</i>, <a href=\"https://science.sciencemag.org/content/369/6511/eabc5534?ijkey=7d66b2c60ddec779a314af6a27efa0eae4f7bdb8&keytype2=tf_ipsecsha\">A cortex-like canonical circuit in the avian forebrain</a>, <i>Science</i>, Vol. 369, 25 September 2020"
               ]
             }
           ]

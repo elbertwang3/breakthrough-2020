@@ -1,12 +1,9 @@
 <script>
-  import { select } from "d3-selection";
-  import { scaleLinear, scaleTime } from "d3-scale";
-  // import { axisLeft, axisBottom } from 'd3-axis';
-  import { timeParse, timeFormat } from "d3-time-format";
-  import { extent } from "d3-array";
+  import { scaleTime } from "d3-scale";
+  import { timeParse } from "d3-time-format";
 
-  export let data;
-  console.log(data);
+  export let data, months;
+  console.log(months);
   export let width = 100;
   export let height = 100;
   const lineLength = 30;
@@ -66,16 +63,34 @@
     font-size: 12px;
     line-height: 14px;
   }
+
+  .month {
+    position: absolute;
+    text-align: center;
+    background-color: #9a9a9a;
+    padding: 0.25em;
+    font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 </style>
 
 {#each data as event}
   <div
     class={`event${event.type == 'FINDINGS' ? ' findings' : ' policy'}`}
-    style={`top: ${yScale(parseDate(event.date)) - 12}px; left: ${event.type == 'FINDINGS' && chartWidth / 2 + lineLength}px; right: ${event.type != 'FINDINGS' && chartWidth / 2 + lineLength}px;`}>
+    style={`top: ${event.yalign != 'bottom' && yScale(parseDate(event.date)) - 12}px; bottom: ${event.yalign == 'bottom' && chartHeight - yScale(parseDate(event.date)) - 12}px; left: ${event.type == 'FINDINGS' && chartWidth / 2 + lineLength}px; right: ${event.type != 'FINDINGS' && chartWidth / 2 + lineLength}px;`}>
     <div class="event-date">{event.date_text}</div>
     <div class="event-text">
       {@html event.text}
     </div>
+  </div>
+{/each}
+
+{#each months as month}
+  <div class="month" style={`top: ${yScale(parseDate(month.date)) - 12}px;`}>
+    {month.month_text}
   </div>
 {/each}
 <svg {width} {height}>

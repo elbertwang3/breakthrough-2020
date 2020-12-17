@@ -1450,3 +1450,9 @@ article {
     margin-top: 40px;
   }
 }
+
+.section-break-style {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: Roboto Condensed, Helvetica Neue, Helvetica, Arial, sans-serif;
+}

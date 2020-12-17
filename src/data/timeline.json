@@ -22,7 +22,9 @@
       "date_text": "20 January",
       "date": "1/20/2020",
       "type": "POLICY AND PUBLIC HEALTH",
-      "text": "Human-to-human transmission confirmed"
+      "text": "Human-to-human transmission confirmed",
+      "img": "",
+      "yalign": "bottom"
     },
     {
       "date_text": "23 January",
@@ -41,7 +43,9 @@
       "date_text": "30 January",
       "date": "1/30/2020",
       "type": "POLICY AND PUBLIC HEALTH",
-      "text": "WHO declares the outbreak a Public Health Emergency of International Concern."
+      "text": "WHO declares the outbreak a Public Health Emergency of International Concern.",
+      "img": "",
+      "yalign": "bottom"
     },
     {
       "date_text": "5 February",
@@ -59,7 +63,9 @@
       "date_text": "Mid-February",
       "date": "2/15/2020",
       "type": "FINDINGS",
-      "text": "Age, hypertension, diabetes, heart disease, and male sex are all confirmed as risk factors for severe disease."
+      "text": "Age, hypertension, diabetes, heart disease, and male sex are all confirmed as risk factors for severe disease.",
+      "img": "",
+      "yalign": "bottom"
     },
     {
       "date_text": "17 February",
@@ -84,7 +90,9 @@
       "date_text": "11 March",
       "date": "3/11/2020",
       "type": "POLICY AND PUBLIC HEALTH",
-      "text": "WHO declares the coronavirus outbreak a pandemic.\r\n"
+      "text": "WHO declares the coronavirus outbreak a pandemic.\r\n",
+      "img": "",
+      "yalign": "bottom"
     },
     {
       "date_text": "16 March",
@@ -102,7 +110,9 @@
       "date_text": "26 March",
       "date": "3/26/2020",
       "type": "POLICY AND PUBLIC HEALTH",
-      "text": "New York City becomes the epicenter of the U.S. outbreak.\r\n"
+      "text": "New York City becomes the epicenter of the U.S. outbreak.\r\n",
+      "img": "",
+      "yalign": "bottom"
     },
     {
       "date_text": "26 March",
@@ -134,13 +144,17 @@
       "date_text": "19 April",
       "date": "4/19/2020",
       "type": "FINDINGS",
-      "text": "First evidence that a COVID-19 vaccine can protect monkeys"
+      "text": "First evidence that a COVID-19 vaccine can protect monkeys",
+      "img": "",
+      "yalign": "bottom"
     },
     {
       "date_text": "24 April",
       "date": "4/24/2020",
       "type": "FINDINGS",
-      "text": "Asymptomatic carriers play a large role in COVID-19 transmission."
+      "text": "Asymptomatic carriers play a large role in COVID-19 transmission.",
+      "img": "",
+      "yalign": "bottom"
     },
     {
       "date_text": "27 April",
@@ -240,7 +254,9 @@
       "date_text": "23 November",
       "date": "11/23/2020",
       "type": "POLICY AND PUBLIC HEALTH",
-      "text": "AstraZeneca reports vaccine efficacy between 62% and 90%."
+      "text": "AstraZeneca reports vaccine efficacy between 62% and 90%.",
+      "img": "",
+      "yalign": "bottom"
     },
     {
       "date_text": "24 November",
@@ -265,6 +281,56 @@
       "date": "12/14/2020",
       "type": "POLICY AND PUBLIC HEALTH",
       "text": "U.S. health care workers begin to receive Pfizer vaccine."
+    }
+  ],
+  "months": [
+    {
+      "month_text": "January",
+      "date": "1/4/2020"
+    },
+    {
+      "month_text": "February",
+      "date": "2/2/2020"
+    },
+    {
+      "month_text": "March",
+      "date": "3/1/2020"
+    },
+    {
+      "month_text": "April",
+      "date": "4/9/2020"
+    },
+    {
+      "month_text": "May",
+      "date": "5/4/2020"
+    },
+    {
+      "month_text": "June",
+      "date": "6/1/2020"
+    },
+    {
+      "month_text": "July",
+      "date": "7/1/2020"
+    },
+    {
+      "month_text": "August",
+      "date": "8/1/2020"
+    },
+    {
+      "month_text": "September",
+      "date": "9/1/2020"
+    },
+    {
+      "month_text": "October",
+      "date": "10/1/2020"
+    },
+    {
+      "month_text": "November",
+      "date": "11/1/2020"
+    },
+    {
+      "month_text": "December",
+      "date": "11/29/2020"
     }
   ]
 }

@@ -302,7 +302,7 @@
       data-toggle="collapse"
       data-target="#menu-content"
       data-interactive-action="toggle-btn">
-      <img src="../img/collapse_btn.jpg" alt="A menu button." />
+      <img src="img/collapse_btn.jpg" alt="A menu button." />
     </div>
     <div class="menu-list">
       <ul

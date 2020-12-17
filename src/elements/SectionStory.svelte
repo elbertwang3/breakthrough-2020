@@ -122,10 +122,13 @@
           allowfullscreen="" />
       </div>
     {:else if type == 'caption'}
-      <p class="figure-credit">{value} <span>{els[i + 1].value}</span></p>
+      <p class="figure-credit">
+        {value}
+        <span>{@html els[i + 1].value}</span>
+      </p>
     {:else if type == 'credit' && els[i - 1].type != 'caption'}
       <p class="figure-credit" class:float={els[i - 1].value == 'float'}>
-        <span>{value}</span>
+        <span>{@html value}</span>
       </p>
     {:else if type == 'text'}
       <p>

@@ -1,695 +1,270 @@
 {
-  "FINAL TIMELINE": [
+  "final": [
     {
-      "DATE": "31 December 2019",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Health officials in Wuhan, China, report a cluster of mysterious pneumonia cases."
+      "date_text": "31 December 2019",
+      "date": "12/31/2019",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Health officials in Wuhan, China, report a cluster of mysterious pneumonia cases."
     },
     {
-      "DATE": "8 January",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "A novel coronavirus is publicly identified as the source of the outbreak.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/01/scientists-urge-china-quickly-share-data-virus-linked-pneumonia-outbreak",
-      "IMAGE": "",
-      "TEXT TO LINK": "source of the outbreak"
+      "date_text": "8 January",
+      "date": "1/8/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "A novel coronavirus is publicly identified as the source of the outbreak."
     },
     {
-      "DATE": "10 January",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Genetic sequence posted to virological.org",
-      "LINKS": "https://virological.org/t/novel-2019-coronavirus-genome/319",
-      "IMAGE": "",
-      "TEXT TO LINK": "virological.org"
+      "date_text": "10 January",
+      "date": "1/10/2020",
+      "type": "FINDINGS",
+      "text": "Genetic sequence posted to virological.org"
     },
     {
-      "DATE": "20 January",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Human-to-human transmission confirmed",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/01/arrival-sars-new-virus-united-states-heightens-concerns-about-global-spread (this link is for human-to-human transmission)",
-      "IMAGE": "",
-      "TEXT TO LINK": "confirmed"
+      "date_text": "20 January",
+      "date": "1/20/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Human-to-human transmission confirmed"
     },
     {
-      "DATE": "23 January",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Wuhan lockdown begins"
+      "date_text": "23 January",
+      "date": "1/23/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Wuhan lockdown begins"
     },
     {
-      "DATE": "23 January",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "The novel coronavirus is 96.2% similar to a virus in bats.",
-      "LINKS": "https://www.nature.com/articles/s41586-020-2012-7",
-      "IMAGE": "bat_timeline.png",
-      "TEXT TO LINK": "96.2% similar"
+      "date_text": "23 January",
+      "date": "1/23/2020",
+      "type": "FINDINGS",
+      "text": "The novel coronavirus is 96.2% similar to a virus in bats.",
+      "img": "bat_timeline.png"
     },
     {
-      "DATE": "30 January",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "WHO declares the outbreak a Public Health Emergency of International Concern."
+      "date_text": "30 January",
+      "date": "1/30/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "WHO declares the outbreak a Public Health Emergency of International Concern."
     },
     {
-      "DATE": "5 February",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Diamond Princess cruise ship begins its 2-week quarantine."
+      "date_text": "5 February",
+      "date": "2/5/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Diamond Princess cruise ship begins its 2-week quarantine."
     },
     {
-      "DATE": "11 February",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "The virus gets its name.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/02/bit-chaotic-christening-new-coronavirus-and-its-disease-name-create-confusion",
-      "IMAGE": "",
-      "TEXT TO LINK": "gets its name"
+      "date_text": "11 February",
+      "date": "2/11/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "The virus gets its name."
     },
     {
-      "DATE": "Mid-February",
-      "FAKE DATES": "02/15/2020",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Age, hypertension, diabetes, heart disease, and male sex are all confirmed as risk factors for severe disease.",
-      "LINKS": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext",
-      "IMAGE": "",
-      "TEXT TO LINK": "risk factors for severe disease"
+      "date_text": "Mid-February",
+      "date": "2/15/2020",
+      "type": "FINDINGS",
+      "text": "Age, hypertension, diabetes, heart disease, and male sex are all confirmed as risk factors for severe disease."
     },
     {
-      "DATE": "17 February",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Widespread undocumented infection led to the rapid spread of COVID-19.",
-      "LINKS": "https://science.sciencemag.org/content/368/6490/489",
-      "IMAGE": "",
-      "TEXT TO LINK": "undocumented infection"
+      "date_text": "17 February",
+      "date": "2/17/2020",
+      "type": "FINDINGS",
+      "text": "Widespread undocumented infection led to the rapid spread of COVID-19."
     },
     {
-      "DATE": "19 February",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Scientists image the atomic-level structure of the spike protein.\n",
-      "LINKS": "https://science.sciencemag.org/content/367/6483/1260",
-      "IMAGE": "virus_timeline.png",
-      "TEXT TO LINK": "atomic-level structure"
+      "date_text": "19 February",
+      "date": "2/19/2020",
+      "type": "FINDINGS",
+      "text": "Scientists image the atomic-level structure of the spike protein.\n",
+      "img": "virus_timeline.png"
     },
     {
-      "DATE": "23 February",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "First major European outbreak in Italy"
+      "date_text": "23 February",
+      "date": "2/23/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "First major European outbreak in Italy"
     },
     {
-      "DATE": "11 March",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "WHO declares the coronavirus outbreak a pandemic.\r\n"
+      "date_text": "11 March",
+      "date": "3/11/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "WHO declares the coronavirus outbreak a pandemic.\r\n"
     },
     {
-      "DATE": "16 March",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Moderna and CanSino vaccine trials launch.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/03/record-setting-speed-vaccine-makers-take-their-first-shots-new-coronavirus",
-      "IMAGE": "",
-      "TEXT TO LINK": "vaccine trials launch"
+      "date_text": "16 March",
+      "date": "3/16/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Moderna and CanSino vaccine trials launch."
     },
     {
-      "DATE": "16 March",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Imperial College London model suggests health care systems will be overwhelmed.",
-      "LINKS": "https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf",
-      "IMAGE": "",
-      "TEXT TO LINK": "health care systems will be overwhelmed"
+      "date_text": "16 March",
+      "date": "3/16/2020",
+      "type": "FINDINGS",
+      "text": "Imperial College London model suggests health care systems will be overwhelmed."
     },
     {
-      "DATE": "26 March",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "New York City becomes the epicenter of the U.S. outbreak.\r\n"
+      "date_text": "26 March",
+      "date": "3/26/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "New York City becomes the epicenter of the U.S. outbreak.\r\n"
     },
     {
-      "DATE": "26 March",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Widespread viral RNA in hospital rooms suggests airborne transmission.",
-      "LINKS": "https://www.nature.com/articles/s41598-020-69286-3",
-      "IMAGE": "",
-      "TEXT TO LINK": "airborne transmission"
+      "date_text": "26 March",
+      "date": "3/26/2020",
+      "type": "FINDINGS",
+      "text": "Widespread viral RNA in hospital rooms suggests airborne transmission."
     },
     {
-      "DATE": "28 March",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "U.S. regulators issue emergency use authorization (EUA) for hydroxychloroquine."
+      "date_text": "28 March",
+      "date": "3/28/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "U.S. regulators issue emergency use authorization (EUA) for hydroxychloroquine."
     },
     {
-      "DATE": "Early April",
-      "FAKE DATES": "04/01/2020",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "COVID-19 can damage multiple organ systems, including the heart, blood vessels, kidneys, and brain.",
-      "LINKS": "https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes",
-      "IMAGE": "brain_timeline.png",
-      "TEXT TO LINK": "multiple organ systems"
+      "date_text": "Early April",
+      "date": "4/1/2020",
+      "type": "FINDINGS",
+      "text": "COVID-19 can damage multiple organ systems, including the heart, blood vessels, kidneys, and brain.",
+      "img": "brain_timeline.png"
     },
     {
-      "DATE": "3 April",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "U.S. public health officials suggest people wear cloth masks.",
-      "FINDINGS": "",
-      "LINKS": "",
-      "IMAGE": "mask_timeline.png"
+      "date_text": "3 April",
+      "date": "4/3/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "U.S. public health officials suggest people wear cloth masks.",
+      "img": "mask_timeline.png"
     },
     {
-      "DATE": "19 April",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "First evidence that a COVID-19 vaccine can protect monkeys",
-      "LINKS": "https://www.sciencemag.org/news/2020/04/covid-19-vaccine-protects-monkeys-new-coronavirus-chinese-biotech-reports",
-      "IMAGE": "",
-      "TEXT TO LINK": "can protect monkeys"
+      "date_text": "19 April",
+      "date": "4/19/2020",
+      "type": "FINDINGS",
+      "text": "First evidence that a COVID-19 vaccine can protect monkeys"
     },
     {
-      "DATE": "24 April",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Asymptomatic carriers play a large role in COVID-19 transmission.",
-      "LINKS": "https://www.nejm.org/doi/full/10.1056/NEJMoa2008457",
-      "IMAGE": "",
-      "TEXT TO LINK": "Asymptomatic carriers"
+      "date_text": "24 April",
+      "date": "4/24/2020",
+      "type": "FINDINGS",
+      "text": "Asymptomatic carriers play a large role in COVID-19 transmission."
     },
     {
-      "DATE": "27 April",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Remdesivir reduces hospital stays in severely ill patients.",
-      "LINKS": "https://www.nejm.org/doi/10.1056/NEJMoa2007764",
-      "IMAGE": "",
-      "TEXT TO LINK": "reduces hospital stays"
+      "date_text": "27 April",
+      "date": "4/27/2020",
+      "type": "FINDINGS",
+      "text": "Remdesivir reduces hospital stays in severely ill patients."
     },
     {
-      "DATE": "1 May",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "U.S. regulators issue EUA for remdesivir."
+      "date_text": "1 May",
+      "date": "5/1/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "U.S. regulators issue EUA for remdesivir."
     },
     {
-      "DATE": "15 May",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Operation Warp Speed vaccine project launches.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/05/unveiling-warp-speed-white-house-s-america-first-push-coronavirus-vaccine",
-      "IMAGE": "",
-      "TEXT TO LINK": "launches"
+      "date_text": "15 May",
+      "date": "5/15/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Operation Warp Speed vaccine project launches."
     },
     {
-      "DATE": "4 June",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Major medical journals retract coronavirus papers over fabricated data.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/06/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions",
-      "IMAGE": "paper_timeline.png",
-      "TEXT TO LINK": "retract coronavirus papers"
+      "date_text": "4 June",
+      "date": "6/4/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Major medical journals retract coronavirus papers over fabricated data.",
+      "img": "paper_timeline.png"
     },
     {
-      "DATE": "5 June",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Hydroxychloroquine does not reduce death in hospitalized patients.",
-      "LINKS": "https://www.nejm.org/doi/full/10.1056/NEJMoa2022926",
-      "IMAGE": "",
-      "TEXT TO LINK": "does not reduce death"
+      "date_text": "5 June",
+      "date": "6/5/2020",
+      "type": "FINDINGS",
+      "text": "Hydroxychloroquine does not reduce death in hospitalized patients."
     },
     {
-      "DATE": "15 June",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "U.S. regulators revoke EUA for hydroxychloroquine."
+      "date_text": "15 June",
+      "date": "6/15/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "U.S. regulators revoke EUA for hydroxychloroquine."
     },
     {
-      "DATE": "16 June",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Dexamethasone reduces fatality by up to one-third in hospitalized patients.",
-      "LINKS": "https://www.sciencemag.org/news/2020/06/cheap-steroid-first-drug-shown-reduce-death-covid-19-patients",
-      "IMAGE": "",
-      "TEXT TO LINK": "up to one-third"
+      "date_text": "16 June",
+      "date": "6/16/2020",
+      "type": "FINDINGS",
+      "text": "Dexamethasone reduces fatality by up to one-third in hospitalized patients."
     },
     {
-      "DATE": "6 July",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "United States sends a formal notice of withdrawal from WHO."
-    },
-    {
-      "DATE": "9 July",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Early studies hint at the lingering symptoms of “long COVID.”",
-      "LINKS": "https://jamanetwork.com/journals/jama/fullarticle/2768351",
-      "IMAGE": "",
-      "TEXT TO LINK": "the lingering symptoms"
-    },
-    {
-      "DATE": "25 August",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "First confirmed case of reinfection",
-      "LINKS": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1275/5897019",
-      "IMAGE": "",
-      "TEXT TO LINK": "confirmed case"
+      "date_text": "6 July",
+      "date": "7/6/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "United States sends a formal notice of withdrawal from WHO."
     },
-    {
-      "DATE": "9 September",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Two-thirds of countries have joined COVAX, an international vaccine distribution effort."
-    },
-    {
-      "DATE": "24 September",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "",
-      "FINDINGS": "Up to 14% of severe cases are linked to genetic factors.",
-      "LINKS": "https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients",
-      "IMAGE": "DNA_timeline.png",
-      "TEXT TO LINK": "14% of severe cases"
-    },
-    {
-      "DATE": "Late October",
-      "FAKE DATES": "10/27/2020",
-      "POLICY AND PUBLIC HEALTH": "Europe and the United States confront their second and third waves."
-    },
-    {
-      "DATE": "9 November",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Pfizer and BioNTech announce vaccine efficacy above 90%.",
-      "FINDINGS": "",
-      "LINKS": "",
-      "IMAGE": "syringe_timeline.png",
-      "TEXT TO LINK": "above 90%"
-    },
-    {
-      "DATE": "16 November",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Moderna reveals vaccine efficacy nearing 95%.",
-      "FINDINGS": "",
-      "LINKS": "",
-      "IMAGE": "syringe_timeline.png",
-      "TEXT TO LINK": "nearing 95%"
-    },
-    {
-      "DATE": "23 November",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "AstraZeneca reports vaccine efficacy between 62% and 90%.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/11/another-covid-19-vaccine-success-candidate-may-prevent-further-coronavirus-transmission",
-      "IMAGE": "",
-      "TEXT TO LINK": "between 62% and 90%"
-    },
-    {
-      "DATE": "24 November",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "Russia's Gamaleya institute reports vaccine efficacy of 91.4%.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/11/more-data-its-covid-19-vaccine-russia-institute-offers-new-evidence-success",
-      "IMAGE": "",
-      "TEXT TO LINK": 0.914
-    },
-    {
-      "DATE": "2 December",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "U.K. regulators are the first to authorize the Pfizer-BioNTech COVID-19 vaccine.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/12/wonderful-news-wake-uk-greenlights-pfizers-covid-19-vaccine",
-      "IMAGE": "",
-      "TEXT TO LINK": "first to authorize"
-    },
-    {
-      "DATE": "9 December",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "China National Biotec Group vaccine has 86% efficacy, according to UAE health ministry.",
-      "FINDINGS": "",
-      "LINKS": "https://www.sciencemag.org/news/2020/12/great-efficacy-claimed-another-covid-19-vaccine-one-china",
-      "IMAGE": "",
-      "TEXT TO LINK": "86% efficacy"
-    },
-    {
-      "DATE": "14 December",
-      "FAKE DATES": "",
-      "POLICY AND PUBLIC HEALTH": "U.S. health care workers begin to receive Pfizer vaccine.",
-      "FINDINGS": "",
-      "LINKS": "",
-      "IMAGE": "",
-      "TEXT TO LINK": "begin receiving"
-    }
-  ],
-  "timeline": [
-    {
-      "Priority": "Must-do",
-      "Date": "12/31/19",
-      "Policy/Politics": "Wuhan health officials report a cluster of mysterious pneumonia cases",
-      "Research": "",
-      "Link": "https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "1/8/20",
-      "Policy/Politics": "A novel coronavirus is identified as the source of the outbreak",
-      "Research": "",
-      "Link": "https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "1/10/20",
-      "Policy/Politics": "",
-      "Research": "Genetic sequence posted to virological.org",
-      "Link": "https://virological.org/t/novel-2019-coronavirus-genome/319"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "1/13/20",
-      "Policy/Politics": "",
-      "Research": "U.S. NIAID creates mRNA \"backbone\" for later vaccines",
-      "Link": "https://www.sciencemag.org/news/2020/03/record-setting-speed-vaccine-makers-take-their-first-shots-new-coronavirus"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "1/20/20 - 23",
-      "Policy/Politics": "Human-to-human transmission confirmed; Wuhan lockdown begins",
-      "Research": "",
-      "Link": "https://news.ifeng.com/c/7tOmJN0Dr72"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "1/23/20",
-      "Policy/Politics": "Wuhan lockdown begins",
-      "Research": "",
-      "Link": "https://www.nytimes.com/2020/01/22/world/asia/china-coronavirus-travel.html"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "1/23/20",
-      "Policy/Politics": "",
-      "Research": "The novel coronavirus is 96.2% similar to a virus in bats",
-      "Link": "Nature publication: https://www.nature.com/articles/s41586-020-2012-7\n preprint: https://www.biorxiv.org/content/10.1101/2020.01.22.914952v2"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "1/30/20",
-      "Policy/Politics": "WHO declares a public health emergency of international concern (PHEIC)",
-      "Research": "",
-      "Link": "https://www.who.int/news/item/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
-    },
-    {
-      "Priority": "Nice to have",
-      "Date": "2/5/20",
-      "Policy/Politics": "Diamond Princess starts two-week quarantine"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "2/11/20",
-      "Policy/Politics": "The virus gets its name",
-      "Research": "",
-      "Link": "https://www.nature.com/articles/s41564-020-0695-z"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "2/17/20",
-      "Policy/Politics": "",
-      "Research": "Widespread undocumented infection led to the rapid spread of COVID-19",
-      "Link": "https://science.sciencemag.org/content/368/6490/489"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "2/19/20",
-      "Policy/Politics": "",
-      "Research": "Scientists uncover the structure of the spike protein",
-      "Link": "https://science.sciencemag.org/content/367/6483/1260"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "2/23/20",
-      "Policy/Politics": "First major European outbreak in Italy",
-      "Research": "",
-      "Link": "https://www.nytimes.com/2020/02/23/world/europe/italy-coronavirus.html"
-    },
-    {
-      "Priority": "Nice to have",
-      "Date": "2/28/20",
-      "Policy/Politics": "China's strict measures quickly reduced caseload, reports WHO mission",
-      "Research": "",
-      "Link": "https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "2/29/20",
-      "Policy/Politics": "Cansino injects first people with COVID-19 vaccine"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "3/4/20",
-      "Policy/Politics": "",
-      "Research": "Contact tracing in China suggests children are just as likely to be infected as adults",
-      "Link": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30287-5/fulltext"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "3/11/20",
-      "Policy/Politics": "WHO declares the outbreak a pandemic",
-      "Research": "",
-      "Link": "https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "Early March",
-      "Policy/Politics": "",
-      "Research": "Age, hypertension, diabetes, heart disease, and male sex are all risk factors for severe disease",
-      "Link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "3/16/20",
-      "Policy/Politics": "",
-      "Research": "Without extreme measures, healthcare systems will be overwhelmed, warns Imperial College",
-      "Link": "https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "3/16/20",
-      "Policy/Politics": "Moderna and CanSino vaccine trials launch",
-      "Research": "",
-      "Link": "https://www.sciencemag.org/news/2020/03/record-setting-speed-vaccine-makers-take-their-first-shots-new-coronavirus"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "3/17/20",
-      "Policy/Politics": "",
-      "Research": "SARS-COV2 shows no signs of being engineered by scientists, according to genetic analyses",
-      "Link": "https://www.nature.com/articles/s41591-020-0820-9"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "3/24/20",
-      "Policy/Politics": "India announces a 21-day lockdown",
-      "Research": "",
-      "Link": "https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "3/26/20",
-      "Policy/Politics": "",
-      "Research": "Widespread viral RNA in hospital rooms suggests airborne transmission",
-      "Link": "https://www.nature.com/articles/s41598-020-69286-3"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "3/26/20",
-      "Policy/Politics": "New York City becomes the epicenter of the U.S. outbreak",
-      "Research": "",
-      "Link": "https://www.vox.com/coronavirus-covid19/2020/3/27/21195162/new-york-coronavirus-news-andrew-cuomo-hospitals-population-ventilators"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "3/30/02",
-      "Policy/Politics": "U.S. FDA issues EUA for hydroxychloroquine [and chloroquine?]",
-      "Research": "",
-      "Link": "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-daily-roundup-march-30-2020"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "4/3/20",
-      "Policy/Politics": "U.S. CDC suggests people wear cloth masks",
-      "Research": "",
-      "Link": "https://www.bjc.org/Coronavirus/Information-Resources/ArtMID/5707/ArticleID/4430/CDC-issues-new-guidelines-on-wearing-cloth-face-masks-in-public"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "Early April",
-      "Policy/Politics": "",
-      "Research": "COVID-19 damages the heart, kidneys, and other major organ systems",
-      "Link": "https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "4/19/20",
-      "Policy/Politics": "",
-      "Research": "First evidence that COVID-19 vaccine can protect monkeys",
-      "Link": "https://www.sciencemag.org/news/2020/04/covid-19-vaccine-protects-monkeys-new-coronavirus-chinese-biotech-reports"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "4/24/20",
-      "Policy/Politics": "",
-      "Research": "Asymptomatic carriers play a large role in COVID-19 transmission",
-      "Link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2008457"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "4/27/20",
-      "Policy/Politics": "",
-      "Research": "Remdesivir reduces hospital stays in severely ill patients",
-      "Link": "https://www.nejm.org/doi/10.1056/NEJMoa2007764"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "5/1/20",
-      "Policy/Politics": "U.S. FDA issues EUA for remdesivir",
-      "Research": "",
-      "Link": "https://www.ajmc.com/view/fda-grants-emergency-use-authorization-to-covid19-treatment"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "5/11/20",
-      "Policy/Politics": "",
-      "Research": "Black, Latino, and Asian patients in the U.S. and U.K. have a higher risk of death",
-      "Link": "https://jamanetwork.com/journals/jama/fullarticle/2766098"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "5/15/20",
-      "Policy/Politics": "U.S. government formally launches Warp Speed vaccine project",
-      "Research": "",
-      "Link": "https://www.hhs.gov/about/news/2020/05/15/trump-administration-announces-framework-and-leadership-for-operation-warp-speed.html"
-    },
-    {
-      "Priority": "Nice to have",
-      "Date": "6/1/20",
-      "Policy/Politics": "India, European countries, U.S. begin to ease lockdowns"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "6/4/20",
-      "Policy/Politics": "Major medical journals retract coronavirus papers over fabricated data",
-      "Research": "",
-      "Link": "https://www.sciencemag.org/news/2020/06/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "6/5/20",
-      "Policy/Politics": "",
-      "Research": "Hydroxychloroquine did not reduce death in hospitalized patients",
-      "Link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2022926"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "6/15/20",
-      "Policy/Politics": "U.S. FDA revokes EUA for hydroxychloroquine",
-      "Research": "",
-      "Link": "https://www.statnews.com/2020/06/15/fda-revokes-hydroxychloroquine/"
-    },
-    {
-      "Priority": "Must-do",
-      "Date": "6/16/20",
-      "Policy/Politics": "",
-      "Research": "Dexamethasone reduces fatality up to 1/3 in hospitalized patients",
-      "Link": "https://www.nejm.org/doi/10.1056/NEJMoa2021436"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "7/7/20",
-      "Policy/Politics": "U.S. sends a formal notice of withdrawl from the WHO"
-    },
-    {
-      "Priority": "Should-do",
-      "Date": "7/9/20",
-      "Policy/Politics": "",
-      "Research": "Early studies hint at the lingering symptoms of \"long COVID\"",
-      "Link": "https://jamanetwork.com/journals/jama/fullarticle/2768351"
-    },
     {
-      "Priority": "Should-do",
-      "Date": "7/16/20",
-      "Policy/Politics": "",
-      "Research": "Older children can spread COVID-19 just as easily as adults",
-      "Link": "https://wwwnc.cdc.gov/eid/article/26/10/20-1315_article"
+      "date_text": "9 July",
+      "date": "7/9/2020",
+      "type": "FINDINGS",
+      "text": "Early studies hint at the lingering symptoms of “long COVID.”"
     },
     {
-      "Priority": "Should-do",
-      "Date": "7/22/20",
-      "Policy/Politics": "",
-      "Research": "Scientists isolate potent neutralizing monoclonal antibodies from recovered patients",
-      "Link": "https://www.nature.com/articles/s41586-020-2571-7"
+      "date_text": "25 August",
+      "date": "8/25/2020",
+      "type": "FINDINGS",
+      "text": "First confirmed case of reinfection"
     },
     {
-      "Priority": "Must-do",
-      "Date": "8/25/20",
-      "Policy/Politics": "",
-      "Research": "First confirmed case of reinfection",
-      "Link": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1275/5897019"
+      "date_text": "9 September",
+      "date": "9/9/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Two-thirds of countries have joined COVAX, an international vaccine distribution effort."
     },
     {
-      "Priority": "Should-do",
-      "Date": "9/21/20",
-      "Policy/Politics": "Two-thirds of countries have joined WHO's vaccine distribution effort, COVAX",
-      "Research": "",
-      "Link": "https://www.who.int/publications/m/item/fair-allocation-mechanism-for-covid-19-vaccines-through-the-covax-facility"
+      "date_text": "24 September",
+      "date": "9/24/2020",
+      "type": "FINDINGS",
+      "text": "Up to 14% of severe cases are linked to genetic factors.",
+      "img": "DNA_timeline.png"
     },
     {
-      "Priority": "Must-do",
-      "Date": "9/24/20",
-      "Policy/Politics": "",
-      "Research": "Up to 14% of severe cases linked to genetic factors",
-      "Link": "https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients"
+      "date_text": "Late October",
+      "date": "10/27/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Europe and the United States confront their second and third waves."
     },
     {
-      "Priority": "Should-do",
-      "Date": "10/15/20",
-      "Policy/Politics": "",
-      "Research": "Remdesivir and interferon did not increase survival in COVID-19 patients, according to WHO megatrial",
-      "Link": "https://www.medrxiv.org/content/10.1101/2020.10.15.20209817v1.article-info"
+      "date_text": "9 November",
+      "date": "11/9/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Pfizer and BioNTech announce vaccine efficacy above 90%.",
+      "img": "syringe_timeline.png"
     },
     {
-      "Priority": "Should-do",
-      "Date": "10/22/20",
-      "Policy/Politics": "U.S. FDA approves remdesivir for COVID-19",
-      "Research": "",
-      "Link": "https://www.sciencemag.org/news/2020/10/very-very-bad-look-remdesivir-first-fda-approved-covid-19-drug"
+      "date_text": "16 November",
+      "date": "11/16/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Moderna reveals vaccine efficacy nearing 95%.",
+      "img": "syringe_timeline.png"
     },
     {
-      "Priority": "Must-do",
-      "Date": "Mid-November",
-      "Policy/Politics": "Drug companies Pfizer and Moderna reveal vaccine efficacy of 95%",
-      "Research": "",
-      "Link": "https://www.sciencemag.org/news/2020/11/champagne-and-questions-greet-first-data-showing-covid-19-vaccine-works"
+      "date_text": "23 November",
+      "date": "11/23/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "AstraZeneca reports vaccine efficacy between 62% and 90%."
     },
     {
-      "Priority": "Must-do",
-      "Date": "11/16/20",
-      "Policy/Politics": "",
-      "Research": "Moderna announces that its mRNA vaccine has an efficacy of nearly 95%",
-      "Link": "https://www.sciencemag.org/news/2020/11/just-beautiful-another-covid-19-vaccine-newcomer-moderna-succeeds-large-scale-trial"
+      "date_text": "24 November",
+      "date": "11/24/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "Russia's Gamaleya institute reports vaccine efficacy of 91.4%."
     },
     {
-      "Priority": "Should-do",
-      "Date": "11/16/20",
-      "Policy/Politics": "",
-      "Research": "Memory B and T cells seem to stay stable for at least 6 months",
-      "Link": "https://www.biorxiv.org/content/10.1101/2020.11.15.383323v1"
+      "date_text": "2 December",
+      "date": "12/2/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "U.K. regulators are the first to authorize the Pfizer-BioNTech COVID-19 vaccine."
     },
     {
-      "Priority": "Must-do",
-      "Date": "11/18/20",
-      "Policy/Politics": "",
-      "Research": "Pfizer announces that its mRNA vaccine has an efficacy of 95%"
+      "date_text": "9 December",
+      "date": "12/9/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "China National Biotec Group vaccine has 86% efficacy, according to UAE health ministry."
     },
     {
-      "Priority": "",
-      "Date": "12/2/20",
-      "Policy/Politics": "U.K. MHRA approves Pfizer's COVID-19 vaccine",
-      "Research": "",
-      "Link": "https://www.sciencemag.org/news/2020/12/wonderful-news-wake-uk-greenlights-pfizers-covid-19-vaccine"
+      "date_text": "14 December",
+      "date": "12/14/2020",
+      "type": "POLICY AND PUBLIC HEALTH",
+      "text": "U.S. health care workers begin to receive Pfizer vaccine."
     }
   ]
 }

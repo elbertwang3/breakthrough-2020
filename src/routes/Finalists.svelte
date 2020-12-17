@@ -30,7 +30,7 @@
   };
 
   function handleResize(node) {
-    console.log("handling resize");
+    // console.log("handling resize");
     scrollToEl();
   }
 

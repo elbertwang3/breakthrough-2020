@@ -100,9 +100,18 @@
     margin-right: 25%;
   }
 
-  .brain_timeline,
+  .brain_timeline {
+    height: 100px;
+  }
+
   .paper_timeline {
-    width: 50%;
+    height: 80px;
+  }
+
+  .brain_timeline img,
+  .paper_timeline img {
+    width: auto;
+    height: 100%;
   }
 </style>
 

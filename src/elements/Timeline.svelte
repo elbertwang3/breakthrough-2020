@@ -7,7 +7,7 @@
 
 <style>
   .timeline {
-    padding-top: 2em;
+    /* padding-top: 2em; */
   }
   h3 {
     font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;

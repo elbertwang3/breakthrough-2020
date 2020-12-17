@@ -11,7 +11,6 @@
   const { config, content } = homepage;
   const { hed, dek, byline, pub_date } = config;
 
-  console.log(homepage);
   const elementTypes = {
     text: Text,
     links: Links,

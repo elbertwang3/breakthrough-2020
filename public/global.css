@@ -1477,3 +1477,7 @@ article {
   position: relative;
   border-radius: 0;
 }
+
+.event-text a {
+  font-weight: 700;
+}

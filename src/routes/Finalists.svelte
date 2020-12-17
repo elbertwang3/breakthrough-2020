@@ -28,16 +28,32 @@
     stories: SectionStories,
   };
 
-  afterUpdate(() => {
-    if (params.wild) {
-      var elmnt = document.getElementById(params.wild);
+  $: if (params.wild) {
+    console.log(params.wild);
+    let elmnt = document.getElementById(params.wild);
+    console.log(elmnt);
+    if (elmnt) {
+      console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
       elmnt.scrollIntoView({
         behavior: "smooth",
         block: "start",
         inline: "nearest",
       });
     }
-  });
+  }
+  // afterUpdate(() => {
+
+  //   if (params.wild) {
+  //     var elmnt = document.getElementById(params.wild);
+  //     console.log(elmnt);
+  //     console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
+  //     elmnt.scrollIntoView({
+  //       behavior: "smooth",
+  //       block: "start",
+  //       inline: "nearest",
+  //     });
+  //   }
+  // });
 </script>
 
 <style>

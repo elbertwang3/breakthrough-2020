@@ -22,4 +22,4 @@
   }
 </style>
 
-<h2 class="subhed article-spine"><span>{value}</span></h2>
+<h2 class="subhed grid-spine"><span>{value}</span></h2>

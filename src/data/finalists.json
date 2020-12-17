@@ -333,7 +333,7 @@
             },
             {
               "type": "img",
-              "value": "LiWenliang.jpg"
+              "value": "LiWenliang.png"
             },
             {
               "type": "img_type",
@@ -386,7 +386,7 @@
             },
             {
               "type": "img",
-              "value": "GitaRamjee.jpg"
+              "value": "GitaRamjee.png"
             },
             {
               "type": "img_type",
@@ -431,7 +431,7 @@
             },
             {
               "type": "img",
-              "value": "LynikaStrozier.jpg"
+              "value": "LynikaStrozier.png"
             },
             {
               "type": "img_type",
@@ -476,7 +476,7 @@
             },
             {
               "type": "img",
-              "value": "JohnHoughton.jpg"
+              "value": "JohnHoughton.png"
             },
             {
               "type": "img_type",
@@ -529,7 +529,7 @@
             },
             {
               "type": "img",
-              "value": "LungilePepeta.jpg"
+              "value": "LungilePepeta.png"
             },
             {
               "type": "img_type",
@@ -578,7 +578,7 @@
             },
             {
               "type": "img",
-              "value": "MariadeSousa.jpg"
+              "value": "MariadeSousa.png"
             },
             {
               "type": "img_type",
@@ -627,7 +627,7 @@
             },
             {
               "type": "img",
-              "value": "MishikKazaryanandArpikAsratyan.jpg"
+              "value": "MishikKazaryanandArpikAsratyan.png"
             },
             {
               "type": "img_type",
@@ -676,7 +676,7 @@
             },
             {
               "type": "img",
-              "value": "RicardoValderrama.jpg"
+              "value": "RicardoValderrama.png"
             },
             {
               "type": "img_type",
@@ -729,7 +729,7 @@
             },
             {
               "type": "img",
-              "value": "JohnConway.jpg"
+              "value": "JohnConway.png"
             },
             {
               "type": "img_type",
@@ -774,7 +774,7 @@
             },
             {
               "type": "img",
-              "value": "DonKennedy.jpg"
+              "value": "DonKennedy.png"
             },
             {
               "type": "img_type",
@@ -863,11 +863,7 @@
             },
             {
               "type": "text",
-              "value": "The patients, treated up to 17 months ago, are now making plentiful fetal hemoglobin, and have not experienced the painful attacks that used to strike every few months, the companies CRISPR Therapeutics and Vertex Pharmaceuticals reported in December. One patient, a young mother of three, says the treatment changed her life. The companies also gave the treatment to seven patients who normally receive blood transfusions for beta-thalassemia. They haven’t needed transfusions since, the companies reported in the same paper and meeting presentation. With more testing, the new treatment could rival the success of gene therapies that treat the two diseases by adding hemoglobin DNA to stem cells. But like gene therapy, the CRISPR approach requires high-tech medical care and could cost"
-            },
-            {
-              "type": "text",
-              "value": "$1 million or more per patient—putting it out of reach for much of Africa, where most people with sickle cell live"
+              "value": "The patients, treated up to 17 months ago, are now making plentiful fetal hemoglobin, and have not experienced the painful attacks that used to strike every few months, the companies CRISPR Therapeutics and Vertex Pharmaceuticals reported in December. One patient, a young mother of three, says the treatment changed her life. The companies also gave the treatment to seven patients who normally receive blood transfusions for beta-thalassemia. They haven’t needed transfusions since, the companies reported in the same paper and meeting presentation. With more testing, the new treatment could rival the success of gene therapies that treat the two diseases by adding hemoglobin DNA to stem cells. But like gene therapy, the CRISPR approach requires high-tech medical care and could cost $1 million or more per patient—putting it out of reach for much of Africa, where most people with sickle cell live"
             },
             {
               "type": "byline",
@@ -1079,8 +1075,8 @@
               "type": "references",
               "value": [
                 "N. Conard, <a href=\"https://www.nature.com/articles/nature02186/\">Palaeolithic ivory sculptures from southwestern Germany and the origins of figurative art</a>, <i>Nature</i>, Vol. 426, p. 830, 18 December 2003",
-                "M. Aubert <i>et al.<i/>, <a href=\"https://www.journals.uchicago.edu/doi/10.1086/694414\">The Timing and Nature of Human Colonization of Southeast Asia in the Late Pleistocene: A Rock Art Perspective</a>, <i>Current Anthropology</i>, Vol. 58, p. S553, 15 November 2017",
-                "D. L. Hoffmann <i>et al.<i/>, <a href=\"https://science.sciencemag.org/content/359/6378/912\">U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art</a>, <i>Science</i>, Vol. 359, p. 912, 23 February 2018",
+                "M. Aubert <i>et al.</i>, <a href=\"https://www.journals.uchicago.edu/doi/10.1086/694414\">The Timing and Nature of Human Colonization of Southeast Asia in the Late Pleistocene: A Rock Art Perspective</a>, <i>Current Anthropology</i>, Vol. 58, p. S553, 15 November 2017",
+                "D. L. Hoffmann <i>et al.</i>, <a href=\"https://science.sciencemag.org/content/359/6378/912\">U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art</a>, <i>Science</i>, Vol. 359, p. 912, 23 February 2018",
                 "M. Price, <a href=\"https://www.sciencemag.org/news/2019/12/world-s-oldest-hunting-scene-shows-half-human-half-animal-figures-and-sophisticated\">World’s oldest hunting scene shows half-human, half-animal figures—and a sophisticated imagination</a>, <i>Science</i>, 11 December 2019"
               ]
             }

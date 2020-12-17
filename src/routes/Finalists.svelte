@@ -1,4 +1,5 @@
 <script>
+  import { watchResize } from "svelte-watch-resize";
   import { onMount, beforeUpdate, afterUpdate, tick } from "svelte";
   import finalists from "../data/finalists";
   import SectionHead from "../elements/SectionHead.svelte";
@@ -28,44 +29,15 @@
     stories: SectionStories,
   };
 
-  // $: if (params.wild) {
-  //   console.log(params.wild);
-  //   tick();
-  //   let elmnt = document.getElementById(params.wild);
-  //   console.log(elmnt);
-  //   if (elmnt) {
-  //     console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
-  //     elmnt.scrollIntoView({
-  //       behavior: "smooth",
-  //       block: "start",
-  //       inline: "nearest",
-  //     });
-  //   }
-  // }
-  beforeUpdate(async () => {
+  function handleResize(node) {
+    console.log("handling resize");
+    scrollToEl();
+  }
+
+  async function scrollToEl() {
     if (params.wild) {
-      console.log(params.wild);
       let elmnt = document.getElementById(params.wild);
-      if (!elmnt) {
-        console.log("NULL FIRST");
-        await tick();
-        elmnt = document.getElementById(params.wild);
-        console.log(elmnt);
-        console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
-        let yOffset = window.pageYOffset + elmnt.getBoundingClientRect().top;
-        // window.scrollTo({
-        //   top: yOffset,
-        //   left: 0,
-        //   behavior: "auto",
-        // });
-        elmnt.scrollIntoView({
-          behavior: "auto",
-          block: "start",
-          inline: "nearest",
-        });
-      } else {
-        console.log("NOT NULL FIRST");
-        console.log(window.pageYOffset + elmnt.getBoundingClientRect().top);
+      if (elmnt) {
         elmnt.scrollIntoView({
           behavior: "auto",
           block: "start",
@@ -73,14 +45,15 @@
         });
       }
     }
+  }
+
+  beforeUpdate(async () => {
+    scrollToEl();
   });
 </script>
 
 <style>
   /* your styles go here */
-  .addthis_inline_share_toolbox_h50m {
-    /* display: none; */
-  }
 
   .menu-list {
     margin-top: 1em;
@@ -817,7 +790,7 @@
     </div>
   </div> -->
 </header>
-<article class:active={menuContentActive}>
+<article class:active={menuContentActive} use:watchResize={handleResize}>
   <div class="text-container">
     {#each content as { type, value }, i}
       {#if value.text != 'RELATED ITEMS'}

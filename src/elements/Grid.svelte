@@ -10,6 +10,18 @@
     margin-bottom: 3rem;
   }
 
+  @media only screen and (max-width: 768px) {
+    .grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
   .story-title {
     text-align: center;
     margin: 0 auto;

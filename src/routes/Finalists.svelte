@@ -9,7 +9,9 @@
   import SectionStories from "../elements/SectionStories.svelte";
   import Footer from "../Footer.svelte";
   import Social from "../elements/Social.svelte";
+  import { validateReqFields } from "../newsletter.js";
 
+  let editorial, country, email, submit;
   export let params = {};
   const { content } = finalists;
   let menuContentActive = false;
@@ -50,14 +52,18 @@
   beforeUpdate(async () => {
     scrollToEl();
   });
+
+  afterUpdate(() => {
+    validateReqFields(editorial, country, email, submit);
+  });
 </script>
 
 <style>
   /* your styles go here */
 
-  .menu-list {
+  /* .menu-list {
     margin-top: 1em;
-  }
+  } */
   .toggle-btn {
     display: block;
     cursor: pointer;
@@ -66,8 +72,8 @@
     right: 0;
     z-index: 110 !important;
     padding: 0;
-    width: 60px;
-    height: 60px;
+    /* width: 60px;
+    height: 60px; */
   }
 
   .toggle-btn img {
@@ -334,6 +340,8 @@
                 style="width: 12.9rem;padding:2px 0;margin-bottom:1em;"
                 class="inpt"
                 id="interstitial-newsletter-country"
+                bind:this={country}
+                on:change={validateReqFields(editorial, country, email, submit)}
                 name="Country">
                 <option selected="" value="">Country *</option>
                 <option value="AF">Afghanistan</option>
@@ -594,12 +602,15 @@
                 <input
                   class="newsletter-field"
                   id="interstitial-newsletter-email"
+                  bind:this={email}
                   type="TEXT"
                   name="EmailAddress"
-                  placeholder="Email Address *" />
+                  placeholder="Email Address *"
+                  on:keyup={validateReqFields(editorial, country, email, submit)} />
                 <input
                   class="btn interstitial-newsletter-submit"
                   id="interstitial-newsletter-submit"
+                  bind:this={submit}
                   type="SUBMIT"
                   value="Sign Up"
                   disabled="true" />
@@ -617,6 +628,7 @@
               <input
                 type="hidden"
                 id="interstitial-newsletter-consent-editorial"
+                bind:this={editorial}
                 name="Consent_EditorialContentEmails"
                 value="true" />
               <input

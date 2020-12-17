@@ -1,5 +1,5 @@
 <script>
-  export let value;
+  export let value, hideMenu;
   const { text, url } = value;
 </script>
 
@@ -30,4 +30,9 @@
   }
 </style>
 
-<li class=""><a href={url}>{text}</a></li>
+<li
+  on:click={() => {
+    hideMenu();
+  }}>
+  <a href={url}>{text}</a>
+</li>

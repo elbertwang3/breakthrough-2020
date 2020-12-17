@@ -3,7 +3,6 @@
   import { timeParse } from "d3-time-format";
 
   export let data, months;
-  console.log(months);
   export let width = 100;
   export let height = 100;
   const lineLength = 30;

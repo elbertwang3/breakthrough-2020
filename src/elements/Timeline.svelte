@@ -50,6 +50,10 @@
     height: 5000px;
   }
 
+  p {
+    margin-bottom: 1em;
+  }
+
   /* @media only screen and (max-width: 400px) {
     .timeline-chart {
       margin-top: 2em;
@@ -60,6 +64,14 @@
 
 <div class="timeline" id="a-year-like-no-other">
   <h3 class="svelte-9jh3mz">A year like no other</h3>
+  <p>
+    This year saw an explosion of research into COVID-19—by mid-December, more
+    than 200,000 papers had been published in peer-reviewed journals, and many
+    more had been posted online to non—peer-reviewed preprint servers. Key
+    findings appear below, pegged to the date they first appeared online. At the
+    same time, the world was struggling—and in many places, failing—to contain
+    the pandemic.
+  </p>
   <div class="timeline-headers">
     <div class="timeline-header policy">Policy and Public Health</div>
     <div class="timeline-header findings">Findings</div>

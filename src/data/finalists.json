@@ -212,7 +212,7 @@
             },
             {
               "type": "text",
-              "value": "With acceleration came accidents. Preprint servers like bioRxiv and medRxiv became hubs for sharing information quickly, but they occasionally spread misinformation just as fast. Papers suggesting SARS-CoV-2 was an engineered virus, or that it came from snakes, found a platform they did not deserve—and widespread media coverage. Peer-reviewed journals slipped up as well. <i>The Lancet</i> and <i>The New England Journal of Medicine</i> fell for fraudulent papers purportedly containing data from hundreds of hospitals around the world, collected by a tiny company few had ever heard of. Many research results, including the stunning vaccine data of the past few weeks, were communicated directly to journalists, bypassing any scientific scrutiny. “It is a pandemic by press release,” says WHO epidemiologist Maria Van Kerkhove."
+              "value": "With acceleration came accidents. Preprint servers like bioRxiv and medRxiv became hubs for sharing information quickly, but they occasionally spread misinformation just as fast. A paper suggesting SARS-CoV-2 was an engineered virus, for instance, found a platform it not deserve—and widespread media coverage. Peer-reviewed journals slipped up as well. <i>The Lancet</i> and <i>The New England Journal of Medicine</i> fell for fraudulent papers purportedly containing data from hundreds of hospitals around the world, collected by a tiny company few had ever heard of. Many research results, including the stunning vaccine data of the past few weeks, were communicated directly to journalists, bypassing any scientific scrutiny. “It is a pandemic by press release,” says WHO epidemiologist Maria Van Kerkhove."
             },
             {
               "type": "text",
@@ -269,6 +269,10 @@
             {
               "type": "byline",
               "value": "<a href=\"https://www.sciencemag.org/author/kai-kupferschmidt\">Kai Kupferschmidt</a>"
+            },
+            {
+              "type": "text",
+              "value": "<i>*Correction, 18 December, 10:35 a.m.: A previous version of this story incorrectly said a study claiming SARS-CoV-2 originated in snakes was published as a preprint.</i>"
             }
           ]
         }
@@ -1294,20 +1298,17 @@
       "type": "stories",
       "value": [
         {
-          "type": "text",
-          "value": "[+.story]"
-        },
-        {
-          "type": "text",
-          "value": "story-title: Video"
-        },
-        {
-          "type": "text",
-          "value": "video: https://www.youtube.com/embed/LtY6w1bi1So"
-        },
-        {
-          "type": "text",
-          "value": "[]"
+          "type": "story",
+          "value": [
+            {
+              "type": "story-title",
+              "value": "Video"
+            },
+            {
+              "type": "video",
+              "value": "https://www.youtube.com/embed/Z1CjrBfbqsY"
+            }
+          ]
         },
         {
           "type": "link",

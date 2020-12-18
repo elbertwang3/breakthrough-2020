@@ -276,6 +276,7 @@
     }
     .text-container {
       width: 66.66666667%;
+      max-width: 768px;
     }
   }
   @media only screen and (max-width: 768px) {

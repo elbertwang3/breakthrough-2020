@@ -130,13 +130,13 @@
     },
     {
       "date_text": "Early April",
-      "date": "4/4/2020",
+      "date": "4/5/2020",
       "type": "FINDINGS",
       "text": "COVID-19 can damage <a href=\"https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes\">multiple organ systems</a>, including the heart, blood vessels, kidneys, and brain."
     },
     {
       "date_text": "3 April",
-      "date": "4/7/2020",
+      "date": "4/8/2020",
       "type": "POLICY AND PUBLIC HEALTH",
       "text": "U.S. public health officials suggest people wear cloth masks.",
       "img": "mask_timeline.png"
@@ -301,7 +301,7 @@
     },
     {
       "month_text": "April",
-      "date": "4/1/2020"
+      "date": "4/2/2020"
     },
     {
       "month_text": "May",

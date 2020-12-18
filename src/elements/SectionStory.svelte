@@ -115,13 +115,18 @@
     {:else if type == 'video'}
       <div class="video-container">
         <iframe
+          title="Breakthrough of the year 2020 video"
           id="breakthrough_video"
           width="100%"
           src={value}
           frameborder="0"
-          gesture="media"
-          allow="encrypted-media"
-          allowfullscreen="" />
+          allow="accelerometer"
+          autoplay
+          clipboard-write
+          encrypted-media
+          gyroscope
+          picture-in-picture
+          allowfullscreen />
       </div>
     {:else if type == 'caption'}
       <p class="figure-credit">

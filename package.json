@@ -27,6 +27,6 @@
     "svelte-watch-resize": "^1.0.3"
   },
   "dependencies": {
-    "d3": "^6.3.1"
+    "d3": "^7.6.1"
   }
 }
